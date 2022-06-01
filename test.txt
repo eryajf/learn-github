@@ -1,1 +1,4 @@
 test info
+\a
+a
+a
