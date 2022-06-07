@@ -21,4 +21,4 @@ jobs:
           pattern: 'config/*.yaml'
           username: eryajf
           org: eryajf
-          repo: Thanks-Mirror
+          repo: learn-github
