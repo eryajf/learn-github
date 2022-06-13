@@ -2,7 +2,7 @@
 name: 功能请求 | Feature Request
 about: 请详细描述您期望的功能。 | Please describe in detail the features you expect.
 title: "一些功能。。。 | [Feature]Some feature..."
-labels: ["增强 | enhancement"]
+labels: ["enhancement"]
 ---
 
 <!-- 请在您提交期望的功能之前，回答以下这些问题。 | Please answer these questions before you submit the desired feature. -->
