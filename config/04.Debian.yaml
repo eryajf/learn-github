@@ -1,0 +1,49 @@
+title: Debian
+content: |
+  #### Official
+
+  - 官方镜像：[https://www.debian.org/mirror/](https://www.debian.org/mirror/)
+  - 全球镜像：[https://www.debian.org/mirror/list](https://www.debian.org/mirror/list)
+
+  #### Mirrors
+
+  - [Aliyun](https://developer.aliyun.com/mirror/debian)
+    - [https://mirrors.aliyun.com/debian/](https://mirrors.aliyun.com/debian/)
+  - Tencent
+    - [https://mirrors.cloud.tencent.com/debian/](https://mirrors.cloud.tencent.com/debian/)
+  - HUAWEI
+    - [https://repo.huaweicloud.com/debian/](https://repo.huaweicloud.com/debian/)
+  - 163
+    - [http://mirrors.163.com/debian/](http://mirrors.163.com/debian/)
+  - Souhu
+    - [http://mirrors.sohu.com/debian/](http://mirrors.sohu.com/debian/)
+  - 北大
+    - [https://mirrors.pku.edu.cn/debian/](https://mirrors.pku.edu.cn/debian/)
+  - 清华
+    - [https://mirrors.tuna.tsinghua.edu.cn/debian/](https://mirrors.tuna.tsinghua.edu.cn/debian/)
+  - 中科大
+    - [https://mirrors.ustc.edu.cn/debian/](https://mirrors.ustc.edu.cn/debian/)
+  - 浙江大学
+    - [http://mirrors.zju.edu.cn/debian/](http://mirrors.zju.edu.cn/debian/)
+  - 兰州大学
+    - [https://mirror.lzu.edu.cn/debian/](https://mirror.lzu.edu.cn/debian/)
+  - 大连东软
+    - [http://mirrors.neusoft.edu.cn/debian/](http://mirrors.neusoft.edu.cn/debian/)
+  - 上海交通
+    - [http://ftp.sjtu.edu.cn/debian/](http://ftp.sjtu.edu.cn/debian/)
+  - 北京交通
+    - [https://mirror.bjtu.edu.cn/debian/](https://mirror.bjtu.edu.cn/debian/)
+  - 大连理工
+    - [http://mirror.dlut.edu.cn/debian/](http://mirror.dlut.edu.cn/debian/)
+  - 首都在线
+    - [http://mirrors.yun-idc.com/debian/](http://mirrors.yun-idc.com/debian/)
+  - 南京邮电
+    - [http://mirrors.njupt.edu.cn/debian/](http://mirrors.njupt.edu.cn/debian/)
+  - 南阳理工
+    - [https://mirror.nyist.edu.cn/debian/](https://mirror.nyist.edu.cn/debian/)
+  - 重庆大学
+    - [https://mirrors.cqu.edu.cn/debian/](https://mirrors.cqu.edu.cn/debian/)
+  - 北京外国语大学
+    - [https://mirrors.bfsu.edu.cn/debian/](https://mirrors.bfsu.edu.cn/debian/)
+  - 哈尔滨工业大学
+    - [https://mirrors.hit.edu.cn/debian/](https://mirrors.hit.edu.cn/debian/)
