@@ -6,3 +6,25 @@
 ### {{$item.title}}
 {{$item.content}}
 {{- end}}
+
+---
+
+**TOC**
+
+{{ printToc }}
+
+**Help**
+
+{{ printHelp }}
+
+**Contributors**
+
+{{ printContributors }}
+
+**StarHistory**
+
+{{ printStarHistory }}
+
+**VisitorCount**
+
+{{ printVisitorCount }}
