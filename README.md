@@ -3,7 +3,7 @@
 ## System-Mirror
 
 系统镜像，又大又远，更需要找到好用优秀的国内镜像。
-### CentOS
+### 🌁 CentOS
 #### Official
 - [https://www.centos.org/download/](https://www.centos.org/download/)
 #### Mirrors
@@ -51,7 +51,7 @@
   - [https://mirrors.bfsu.edu.cn/centos/](https://mirrors.bfsu.edu.cn/centos/)
 - 哈尔滨工业大学
   - [https://mirrors.hit.edu.cn/centos/](https://mirrors.hit.edu.cn/centos/)
-### GNU
+### 🌉 GNU
 #### Official
 - [https://www.gnu.org/software/octave/download](https://www.gnu.org/software/octave/download)
 #### Mirrors
