@@ -6,3 +6,6 @@ a
 aaaaaaaaaaaaaaaaaaaaaaaa
 ######################
 cccc
+
+bridge: 🌁
+bridge: 🌉
