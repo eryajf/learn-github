@@ -1,7 +1,7 @@
-this is learn repository.
+<div align="center">
 
-<center>
+this is learn repository.
 
 ![](https://wiki.eryajf.net/img/dengxia.gif)
 
-</center>
+</div>
