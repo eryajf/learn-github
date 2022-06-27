@@ -18,7 +18,7 @@ jobs:
           committer_username: "eryajf"
           committer_email: "eryajf@163.com"
           feed_list: "https://wiki.eryajf.net/rss.xml"
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊) [$title]($url) $newline"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊) [$title]($url) $newline  > $description $newline"
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
