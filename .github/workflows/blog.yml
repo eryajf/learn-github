@@ -24,5 +24,5 @@ jobs:
           max_post_count: 6
           committer_username: "eryajf"
           committer_email: "eryajf@163.com"
-          comment_tag_name: "独立产品灵感周刊"
+          comment_tag_name: "DecoHack"
           feed_list: "https://www.decohack.com/feed"
