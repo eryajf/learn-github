@@ -27,3 +27,8 @@ this is learn repository.
 - [DecoHack #016 独立产品灵感周刊 – 苹果 WWDC 这周来了](https://www.decohack.com/Post/636)
 - [周刊番外篇：Dali Hub 数字游民空间](https://www.decohack.com/Post/619)
 <!-- DecoHack:END -->
+
+## test-other
+
+<!-- test-other:start -->
+<!-- test-other:end -->

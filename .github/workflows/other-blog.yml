@@ -1,0 +1,21 @@
+on:
+  push:
+  schedule:
+    - cron: "0 */6 * * *"
+jobs:
+  blog:
+    runs-on: ubuntu-latest
+    name: Fetch and Generate Blog Posts
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
+        with:
+          feed_urls: "https://wiki.eryajf.net/rss.xml"
+          position_indicator: "test-other"
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save Generated Blog Posts
+          skip_checkout: true
