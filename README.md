@@ -8,7 +8,13 @@ this is learn repository.
 
 
 ## Blog posts
-<!-- BLOG-POST-LIST:START -->- 🌮 {Fri Jun 24 2022 3:52 PM} 1- 💯[利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) {Wed Jun 22 2022 5:20 PM} 2- 💯 {Sun Jun 19 2022 10:56 AM} 3- 🔥 {Fri Jun 17 2022 9:11 PM} 4- 🔥[docker exec命令中含有通配符执行失败的问题](https://wiki.eryajf.net/pages/1cb90e/) {Tue Jun 14 2022 5:21 PM} 5- 💫 {Sat Jun 11 2022 9:12 AM} 6<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 🏊 
+- 💯[利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) 
+- 🔥 
+- 💫 
+- 💫[docker exec命令中含有通配符执行失败的问题](https://wiki.eryajf.net/pages/1cb90e/) 
+- 🌮 
+<!-- BLOG-POST-LIST:END -->
 
 ## 独立产品灵感周刊
 
