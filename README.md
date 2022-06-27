@@ -14,6 +14,7 @@ this is learn repository.
 - [我的开源项目汇总](https://wiki.eryajf.net/pages/67892e/)
 - [学习周刊-总第58期-2022年第23周](https://wiki.eryajf.net/pages/62a9c7/)
 - [docker exec命令中含有通配符执行失败的问题](https://wiki.eryajf.net/pages/1cb90e/)
+- [学习周刊-总第57期-2022年第22周](https://wiki.eryajf.net/pages/af0834/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 独立产品灵感周刊
