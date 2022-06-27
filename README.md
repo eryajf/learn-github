@@ -9,11 +9,11 @@ this is learn repository.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- ⚗️ [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) 
+- 🫶 [学习周刊-总第59期-2022年第24周](https://wiki.eryajf.net/pages/b0bdd0/) 
 
-- 🚀 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) 
+- 🧰 [利用GitHub Actions自动优雅地为项目构建Releases](https://wiki.eryajf.net/pages/f3e878/) 
 
-- 🧰 [我的开源项目汇总](https://wiki.eryajf.net/pages/67892e/) 
+- 🌏 [我的开源项目汇总](https://wiki.eryajf.net/pages/67892e/) 
 <!-- BLOG-POST-LIST:END -->
 
 ## 独立产品灵感周刊
