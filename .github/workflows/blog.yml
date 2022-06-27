@@ -28,3 +28,12 @@ jobs:
           comment_tag_name: "DecoHack"
           feed_list: "https://www.decohack.com/feed"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊) [$title]($url) $newline  > $description $newline"
+      - name: Pull in ruanyf posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
+          comment_tag_name: "ruanyf"
+          feed_list: "https://feeds.feedburner.com/ruanyifeng"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊) [$title]($url) $newline  > $description $newline"
