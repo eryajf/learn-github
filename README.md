@@ -18,5 +18,5 @@ this is learn repository.
 
 ## 独立产品灵感周刊
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- DecoHack:START -->
+<!-- DecoHack:END -->
