@@ -14,4 +14,15 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
           feed_list: "https://wiki.eryajf.net/rss.xml"
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
+          comment_tag_name: "独立产品灵感周刊"
+          feed_list: "https://www.decohack.com/feed"
