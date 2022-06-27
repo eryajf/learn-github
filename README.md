@@ -19,14 +19,11 @@ this is learn repository.
 ## 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🏊 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) 
-  > 本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，感兴趣的伙伴可以点击订阅我的周刊。为保证每期都能收到建 [&amp;#8230;] 
+- ⚗️ [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) 
 
-- 💯 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) 
-  > 本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，感兴趣的伙伴可以点击订阅我的周刊。为保证每期都能收到建 [&amp;#8230;] 
+- 🚀 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) 
 
-- 🔥 [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) 
-  > 本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，感兴趣的伙伴可以点击订阅我的周刊。欢迎通过 Twitt [&amp;#8230;] 
+- 🧰 [独立产品灵感周刊 DecoHack #017](https://www.decohack.com/Post/663) 
 <!-- DecoHack:END -->
 
 ## 阮一峰的网络日志
