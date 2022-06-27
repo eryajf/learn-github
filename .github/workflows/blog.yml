@@ -18,6 +18,7 @@ jobs:
           committer_username: "eryajf"
           committer_email: "eryajf@163.com"
           feed_list: "https://wiki.eryajf.net/rss.xml"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title]($url) $newline - $description $newline"
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
@@ -26,3 +27,4 @@ jobs:
           committer_email: "eryajf@163.com"
           comment_tag_name: "DecoHack"
           feed_list: "https://www.decohack.com/feed"
+          template: "$newline - $randomEmoji(📝,🥳,💻,🧰,🏊)[$title]($url) $newline - $description $newline"
