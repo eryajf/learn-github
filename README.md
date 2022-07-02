@@ -63,25 +63,98 @@ this is learn repository.
 ## 必应每日壁纸
 
 <!-- bing:START -->
-- 🪄 [大脊山，英格兰峰区国家公园 &lpar;© John Finney Photography/Moment/Getty Images&rpar;](https://cn.bing.com/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e5%b3%b0%e5%8c%ba%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn) | Wed Apr 27 2022 8:20 PM 
+- 🪄 [In the tropics, land greets sea warmly](https://cn.bing.com/?FORM=BEHPTB&ensearch=1&date=20220629) | Wed Jun 29 2022 8:19 PM 
     <details><summary>展开描述 ...</summary> 
-    &lt;div&gt;20220427&lt;/div&gt;&lt;div&gt;&lt;img src=&quot;https://images.weserv.nl?url=cn.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://images.weserv.nl?url=cn.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_1920x1080.jpg&amp;rf=LaDigue_1920x1080.jpg&amp;pid=hp&quot; target=&quot;_blank&quot;&gt;下载此壁纸（1920x1080）&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;大脊山，英格兰峰区国家公园 &lpar;© John Finney Photography/Moment/Getty Images&rpar; 
+    &lt;div&gt;20220629-In the tropics, land greets sea warmly&lt;/div&gt;&lt;div&gt;&lt;img src=&quot;https://images.weserv.nl?url=bing.com/th?id=OHR.PhangNgaBay_EN-CN8916325737_1920x1080.jpg&amp;amp;rf=LaDigue_1920x1080.jpg&amp;amp;pid=hp&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://images.weserv.nl?url=bing.com/th?id=OHR.PhangNgaBay_EN-CN8916325737_1920x1080.jpg&amp;amp;rf=LaDigue_1920x1080.jpg&amp;amp;pid=hp&quot; target=&quot;_blank&quot;&gt;下载此壁纸（1920x1080）&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;Only in the tropics do forests grow in salt water. Take this forest of mangrove trees in Phang Nga Bay in southern Thailand, one of the largest and best preserved mangrove forests in the country. Adapted to thrive in coastal marshes and swamps, mangroves can filter saltwater and withstand strong coastal storms. Virtually all mangrove forests and all species of mangrove grow only in the tropical regions of the world. They are protectors of the coastlines, acting as a buffer against storms and floods.&lt;/p&gt; 
     </details> 
 <!-- bing:END -->
 
 ## 必应每日壁纸
 
 <!-- shiwen:START -->
-- 🤩 [舟中读元九诗 | 白居易](https://feedx.net/read?r=shiwen&d=226301) | Wed Jun 29 2022 8:23 PM 
+- 🤩 [July 1, 2022](http://m.idai.ly/se/a193iG?1656604800) | Fri Jul 01 2022 10:22 PM 
     <details><summary>展开描述 ...</summary> 
-    &lt;h2&gt;舟中读元九诗&lt;/h2&gt;[唐代] 白居易&lt;div style=&quot;color: #5b4636;&quot;&gt;把君诗卷灯前读，诗尽灯残天未明。&lt;br /&gt;眼痛灭灯犹闇坐，逆风吹浪打船声。 &lt;/div&gt;&lt;h3&gt;译文及注释&lt;/h3&gt;&lt;p&gt;&lt;p&gt;&lt;strong&gt;译文&lt;/strong&gt;&lt;br /&gt;拿着你的诗卷在灯前看，诗读完了灯也快灭了而天还没有亮。&lt;br /&gt;看诗看到眼睛痛，熄灭了灯还在黑暗中坐着，逆风吹着浪花拍打着小船。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;注释&lt;/strong&gt;&lt;br /&gt;元九：即元稹，白居易的朋友。&lt;br /&gt;把：拿。&lt;br /&gt;残：残留，也可指剩下不多。&lt;br /&gt;犹：还。闇（àn）：同“暗”。一作“暗”。&lt;br /&gt;逆风：迎风，顶风，与顺风相对。&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;赏析&lt;/h3&gt;&lt;p&gt;&lt;p&gt;　　这首小诗，字面上“读君诗”，主题是“忆斯人”，又由“斯人”的遭际飘零，转见自己“同是天涯沦落人”的感慨，诗境一转一深，一深一痛。“眼痛灭灯犹暗坐”，已经读了大半夜了，天也快要亮了，诗人还要“暗坐”，不肯就寝。读者自然而然要想到：由于想念微之，更想起坏人当道，朝政日非，因而，满腔汹涌澎湃的感情，使得他无法安枕。此刻，他兀坐在一个小船内。船下江中，不断翻卷起狂风巨浪；心头眼底，像突然展现一幅大千世界色彩黯淡的画图。这风浪，变成了“逆风吹浪打船声”；这是一幅富有象征意义的画图，悲中见愤，熔公义私情于一炉，感情复杂，容量极大。&lt;/p&gt;
-&lt;p&gt;　　凄苦，是这首小诗的基调。这种凄苦之情，通过“灯残”、“诗尽”、“眼痛”、“暗坐”这些词语所展示的环境、氛围、色彩，已经渲染得十分浓烈了，对读者形成一种沉重的压力。到“眼痛灭灯犹暗坐”，压力简直大到了超过人所能忍受的程度。突然又传来一阵阵“逆风吹浪打船声”，像塞马悲鸣，胡笳呜咽，一起卷入读者的耳里、心中。这声音里，充满了悲愤不平的感情。读诗至此，自然要坐立不安，像韩愈听颖师鼓琴时那样：“推手遽止之，湿衣泪滂滂”了。诗的前三句蓄势，于叙事中抒情；后一句才哗然打开感情的闸门，让激浪涡流咆哮奔鸣而下，让乐曲终止在最强音上，收到了“四弦一声如裂帛”的最强烈的音乐效果。&lt;/p&gt;
-&lt;p&gt;　　这首小诗在音律上还有另一个特点。向来，诗家最忌“犯复”，即一诗中不宜用重复的字，小诗尤其如此。这首绝句，却一反故常，四句中三用“灯”字。但是，此诗读起来，丝毫不感重复，只觉得较之常作更为自然流泻。原来，诗人以这个灯字作为一根穿起一串明珠的彩线，在节律上形成一句紧连一句的效果，使感情层层加深：掌灯夜读，足见思念之切；读至灯残，说明思念之久；灭灯暗坐，表明思念之深之苦。音节蝉连，委婉曲折，如金蛇盘旋而下，加强了表达的力量。&lt;/p&gt;&lt;/p&gt;&lt;h3&gt;创作背景&lt;/h3&gt;&lt;p&gt;　　此诗写于作者被贬江州途中。唐宪宗元和十年公（815年），宰相武元衡遇刺身死，白居易上书要求严缉凶手，因此得罪权贵，被贬为江州司马。在这寂寞的谪戌旅途中，他想念那早五个月远谪通州的好朋友元稹。在漫长水途中，一个深秋的夜晚写下了这首《舟中读元九诗》。 &lt;/p&gt;&lt;h3&gt;作者简介&lt;/h3&gt;&lt;p&gt;&lt;div&gt;&lt;center&gt;&lt;img src=&quot;https://song.gushiwen.org/authorImg/baijuyi.jpg&quot; width=50%&gt;&lt;/center&gt;&lt;/div&gt;&lt;p&gt;　　白居易（772年－846年），字乐天，号香山居士，又号醉吟先生，祖籍太原，到其曾祖父时迁居下邽，生于河南新郑。是唐代伟大的现实主义诗人，唐代三大诗人之一。白居易与元稹共同倡导新乐府运动，世称“元白”，与刘禹锡并称“刘白”。白居易的诗歌题材广泛，形式多样，语言平易通俗，有“诗魔”和“诗王”之称。官至翰林学士、左赞善大夫。公元846年，白居易在洛阳逝世，葬于香山。有《白氏长庆集》传世，代表诗作有《长恨歌》、《卖炭翁》、《琵琶行》等。&lt;/p&gt;&lt;/p&gt; 
-    </details> 
-
-- 🐻 [九日登高台寺 | 沈辂](https://feedx.net/read?r=shiwen&d=226291) | Tue Jun 28 2022 9:23 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;h2&gt;九日登高台寺&lt;/h2&gt;[清代] 沈辂&lt;div style=&quot;color: #5b4636;&quot;&gt;万里秋光客兴赊，同人九日惜年华。&lt;br /&gt;台高不尽看枫叶，院净何须坐菊花。&lt;br /&gt;对酒披襟形独放，凭风落帽笑谁加。&lt;br /&gt;诗成合座皆珠玉，归去迟迟满落霞。 &lt;/div&gt;&lt;h3&gt;译文及注释&lt;/h3&gt;&lt;p&gt;①这首诗选自《乾隆宁夏府志》。高台寺，系西夏天授礼法延祚十年（1047年），在都城兴庆府（今银川市）东15里处的黄河岸畔兴建的规模宏大的佛教寺庙群。旧址在今银川市东郊红花乡高台寺村。&lt;br /&gt;②赊：长；远。&lt;br /&gt;③惜年华：爱惜时光。&lt;br /&gt;④坐菊花：在菊花丛中设宴。&lt;br /&gt;⑤形独放：指不受拘束，率性而为。&lt;br /&gt;⑥“凭风落帽”句：用典。《晋书·孟嘉传》：孟嘉在大宴中因风吹落帽而依然风度翩翩，当人们嘲讽他时，又能从容应对使四座叹服。后遂用“落帽”称扬人的气度宽宏，风流倜傥，潇洒儒雅。&lt;br /&gt;⑦珠玉：喻诗文之美。 &lt;/p&gt;&lt;h3&gt;作者简介&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;hr&gt;&lt;div&gt;获取更多RSS：&lt;br&gt;&lt;a href=&quot;https://feedx.net&quot; style=&quot;color:orange&quot; target=&quot;_blank&quot;&gt;https://feedx.net&lt;/a&gt; &lt;br&gt;&lt;a href=&quot;https://feedx.fun&quot; style=&quot;color:orange&quot; target=&quot;_blank&quot;&gt;https://feedx.fun&lt;/a&gt;&lt;br&gt;&lt;/div&gt; 
+    &lt;div&gt;&lt;h2&gt;July 1, 2022&lt;/h2&gt;
+        &lt;div&gt;&lt;img src=&quot;https://pic.yupoo.com/fotomag/d57dd9c4/b4533c7e.jpg&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;
+              &lt;div&gt;
+                        &lt;p&gt;SPOT NEWS · 全球焦点&lt;/p&gt;
+                    &lt;h2&gt;香港回归祖国25周年&lt;/h2&gt;
+        &lt;/div&gt;
+            &lt;p&gt;一名市民在维多利亚港挥舞国旗，中国香港。7月1日，中国国家主席习近平出席庆祝香港回归祖国25周年大会暨香港特区第六届政府就职典礼。习近平指出，中华民族伟大复兴已经进入不可逆转的历史进程，香港在「一国两制」方针的坚实保障下一定能够创造更大辉煌，同祖国人民共享中华民族伟大复兴的荣光。习近平向香港特区新一届政府提出4点希望，分别为提高治理水平、增强发展动能、切实排解民生忧难和共同维护和谐稳定。摄影师：Miguel Candela&lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;
+        &lt;div&gt;&lt;img src=&quot;https://pic.yupoo.com/fotomag/7d5593a4/902b5808.jpg&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;
+              &lt;div&gt;
+                        &lt;p&gt;SPOT NEWS · 全球焦点&lt;/p&gt;
+                    &lt;h2&gt;芬兰瑞典启动加入北约&lt;/h2&gt;
+        &lt;/div&gt;
+            &lt;p&gt;美国总统 Joe Biden 在北约峰会第三天召开记者会，西班牙马德里。6月29日，北大西洋公约组织宣布正式启动芬兰和瑞典的加入程序。当天俄罗斯总统普京表示对芬兰和瑞典加入北约「不存在问题」，但是如果两国部署北约军事设施将引发俄罗斯的反制。俄国防部6月30日宣布出于善意从蛇岛撤军，明确表明俄方不会阻碍联合国建立乌克兰农产品的出口通道。摄影师：Juan Carlos Hidalgo&lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;
+        &lt;div&gt;&lt;img src=&quot;https://pic.yupoo.com/fotomag/1b240c38/b3555ee0.jpg&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;
+              &lt;div&gt;
+                        &lt;p&gt;SPOT NEWS · 全球焦点&lt;/p&gt;
+                    &lt;h2&gt;印尼总统访问俄罗斯&lt;/h2&gt;
+        &lt;/div&gt;
+            &lt;p&gt;印尼总统 Joko Widodo 与俄罗斯总统 Vladimir Putin 举行会晤，克里姆林宫。6月30日，印尼与俄罗斯两国首脑就粮食危机、化肥供应、乌克兰局势等议题交换意见。Putin 表示俄罗斯不会限制粮食和化肥的出口。印尼总统表示将继续与俄罗斯合作，并已向俄方转达乌克兰总统的消息。当天俄罗斯国防部宣布出于善意从蛇岛撤军，首艘搭载7000吨谷物的货船已经驶离由俄军控制的别尔江斯克港运往友好国家。摄影师：Alexander Zemlianichenko&lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;
+        &lt;div&gt;&lt;img src=&quot;https://pic.yupoo.com/fotomag/00550542/ddaeb2a8.jpg&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;
+              &lt;div&gt;
+                        &lt;p&gt;PEOPLE · 人物&lt;/p&gt;
+                    &lt;h2&gt;菲律宾新总统就职&lt;/h2&gt;
+        &lt;/div&gt;
+            &lt;p&gt;菲律宾新任总统 Ferdinand Marcos Jr. 在就职典礼上挥手致意，马尼拉。6月30日，现年64岁的 Marcos Jr. 正式宣誓就任菲律宾第17任总统，任期为6年。这位新总统在就职演讲中承诺推动经济复苏，完善基础设施建设，提高粮食和能源自给，建立更加团结、繁荣的国家。当天中国国家副主席王岐山出席菲律宾总统就职典礼并与 Marcos Jr. 举行会晤。菲新总统表示中国是菲律宾最强有力的伙伴，睦邻友好符合两国人民的根本利益。摄影师：Rolex Dela Pena&lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;
+        &lt;div&gt;&lt;img src=&quot;https://pic.yupoo.com/fotomag/84c48c1e/b91d7c41.jpg&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;
+              &lt;div&gt;
+                        &lt;p&gt;SPORTS · 体育竞技&lt;/p&gt;
+                    &lt;h2&gt;中国跳水队再夺金&lt;/h2&gt;
+        &lt;/div&gt;
+            &lt;p&gt;第19届世界游泳锦标赛跳水女子双人10米台决赛，中国选手全红婵和陈芋汐组合正在完成空中动作，匈牙利布达佩斯。6月30日，中国跳水队全红婵和陈芋汐以368.40分获得世锦赛跳水女子双人10米台金牌，总分比第二名美国队高出69分，实现中国队在世锦赛该项目上的11连冠。这亦是两人在本届比赛中各自获得的第二枚金牌。目前中国队以14金2银6铜位居奖牌榜第二位。摄影师：Bernadett Szabo&lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;
+        &lt;div&gt;&lt;img src=&quot;https://pic.yupoo.com/fotomag/d01ae4a2/e9c5aebe.jpg&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;
+              &lt;div&gt;
+                        &lt;p&gt;CULTURE · 人类文化&lt;/p&gt;
+                    &lt;h2&gt;布鲁塞尔大帝巡游&lt;/h2&gt;
+        &lt;/div&gt;
+            &lt;p&gt;布鲁塞尔举行一年一度「大帝巡游」（Ommegang）传统庆典活动，比利时。6月29日，布鲁塞尔「大帝巡游」时隔2年首次恢复举办，超过1400名表演者穿着中世纪服饰参加巡游，重现16世纪神圣罗马帝国皇帝查理五世巡访布鲁塞尔的历史场景。庆典期间还会举办集市、骑士决斗等娱乐活动。这项古装庆典活动于1930年首次举办，已被联合国教科文组织列为非物质文化遗产。摄影师：Hatim Kaghat&lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;
+        &lt;div&gt;&lt;img src=&quot;https://pic.yupoo.com/fotomag/add9edf1/827a8838.jpg&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;
+              &lt;div&gt;
+                        &lt;p&gt;RELIGION · 宗教信仰&lt;/p&gt;
+                    &lt;h2&gt;伊斯兰教宰牲节&lt;/h2&gt;
+        &lt;/div&gt;
+            &lt;p&gt;埃及穆斯林们在集市上挑选宰牲节（Eid al-Adha）祭祀使用的牲畜，吉萨。宰牲节是伊斯兰教三大节日之一，旨在纪念先知易卜拉欣向真主献祭儿子以证明虔诚的故事。穆斯林信徒将在这一天宰杀牲畜并将肉分送给家人、亲友和穷困者。2022年伊斯兰教宰牲节假期为7月9日至13日。受全球粮食危机影响，埃及总理 Mostafa Madbouly 呼吁民众在宰牲节期间理性消费食物以稳定肉类价格。摄影师：iDaily Media&lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;
+        &lt;div&gt;&lt;img src=&quot;https://pic.yupoo.com/fotomag/fdcbdd81/41776b53.jpg&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;
+              &lt;div&gt;
+                        &lt;p&gt;NATURE · 环境与自然&lt;/p&gt;
+                    &lt;h2&gt;始熊猫吃竹复原图&lt;/h2&gt;
+        &lt;/div&gt;
+            &lt;p&gt;中国大熊猫祖先「始熊猫」（Ailurarctos）吃竹子的模拟复原图。6月30日，国际刊物《科学报告》发表中国科学院「始熊猫」研究报告，确认「熊猫从杂食过渡到吃竹子的时间最早可追溯至600万年前」。这项研究主要基于2015年云南昭通出土的始熊猫化石标本，这些化石发现于600万至700万年前的晚中新世地质层，研究人员发现始熊猫手腕骨骼存在对握型「伪拇指」，成为大熊猫手掌演化出抓握竹子能力的关键证据。摄影师：Mauricio Anton&lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt;&lt;div&gt;
+        &lt;div&gt;&lt;img src=&quot;https://pic.yupoo.com/fotomag/70b58d74/6f444a53.jpg&quot;&gt;&lt;/div&gt;
+      &lt;div&gt;
+              &lt;div&gt;
+                        &lt;p&gt;NATURE · 环境与自然&lt;/p&gt;
+                    &lt;h2&gt;格陵兰岛冰融加速&lt;/h2&gt;
+        &lt;/div&gt;
+            &lt;p&gt;俯瞰格陵兰岛迪斯科湾冰川上的一片融水湖，伊卢利萨特。联合国世界气象组织发布报告指出，1996年至2021年格陵兰冰盖面积连续25年缩小，夏季融冰总量超过冬季积累的冰量，累计使全球海平面上升约1厘米。格陵兰冰盖是仅次于南极的全球第二大冰盖，完全融化将使海平面升高6米，威胁地球约一半人口生存。摄影师：Odd Andersen&lt;/p&gt;
+        &lt;/div&gt;
+&lt;/div&gt; 
     </details> 
 <!-- shiwen:END -->
