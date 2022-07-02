@@ -63,15 +63,5 @@ this is learn repository.
 ## 必应每日壁纸
 
 <!-- bing:START -->
-- 🦣 [云主机上手教程：轻量应用服务器体验](http://www.ruanyifeng.com/blog/2022/06/cloud-server-getting-started-tutorial.html) | Wed Jun 29 2022 3:18 AM
-
-- 👺 [科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html) | Fri Jun 24 2022 12:30 AM
-
--  [科技爱好者周刊（第 210 期）：为什么软件变得复杂](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html) | Fri Jun 17 2022 12:37 AM
-
-- 🐲 [科技爱好者周刊（第 209 期）：程序员是怎样的人](http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html) | Fri Jun 10 2022 12:33 AM
-
-- 🦅 [字节序探析：大端与小端的比较](http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html) | Thu Jun 02 2022 11:22 PM
-
-- 🧰 [科技爱好者周刊（第 208 期）：晋升制度的问题](http://www.ruanyifeng.com/blog/2022/05/weekly-issue-208.html) | Fri May 27 2022 12:35 AM
+- 🪄 [大脊山，英格兰峰区国家公园 &lpar;© John Finney Photography/Moment/Getty Images&rpar;](https://cn.bing.com/search?q=%e8%8b%b1%e6%a0%bc%e5%85%b0%e5%b3%b0%e5%8c%ba%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn) | Wed Apr 27 2022 8:20 PM 
 <!-- bing:END -->
