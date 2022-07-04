@@ -28,7 +28,7 @@ this is learn repository.
 ## 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🌊 [独立产品灵感周刊 DecoHack #20 – 如何停止来自金钱的压力](https://www.decohack.com/Post/728) | Mon Jul 04 2022 3:31 AM 
+- 🌊 [独立产品灵感周刊 DecoHack #020 – 如何停止来自金钱的压力](https://www.decohack.com/Post/728) | Mon Jul 04 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，感兴趣的伙伴可以点击订阅我的周刊。为保证每期都能收到建 [&amp;#8230;] 
     </details> 
