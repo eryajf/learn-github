@@ -28,17 +28,17 @@ this is learn repository.
 ## 独立产品灵感周刊
 
 <!-- DecoHack:START -->
-- 🌊 [独立产品灵感周刊 DecoHack #020 – 如何停止来自金钱的压力](https://www.decohack.com/Post/728) | Mon Jul 04 2022 3:31 AM 
+- 🌊 [海外工具类产品深度分析 #2](https://www.decohack.com/Post/746) | Wed Jul 06 2022 1:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    开始写这个周刊已经过去将近5个月了，目前竹白统计的有2972个朋友订阅了我的这个周刊。下面是本周的加餐内容，这 [&amp;#8230;] 
+    </details> 
+
+- 💪 [独立产品灵感周刊 DecoHack #020 – 如何停止来自金钱的压力](https://www.decohack.com/Post/728) | Mon Jul 04 2022 3:31 AM 
     <details><summary>展开描述 ...</summary> 
     本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，感兴趣的伙伴可以点击订阅我的周刊。为保证每期都能收到建 [&amp;#8230;] 
     </details> 
 
-- 💪 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | Mon Jun 27 2022 12:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，感兴趣的伙伴可以点击订阅我的周刊。为保证每期都能收到建 [&amp;#8230;] 
-    </details> 
-
-- 🐎 [独立产品灵感周刊 DecoHack #018 – 全球前10名最流行的网站变化](https://www.decohack.com/Post/680) | Mon Jun 20 2022 1:05 AM 
+- 🐎 [独立产品灵感周刊 DecoHack #019 – Stack Overflow 发布2022 年度开发者调查结果](https://www.decohack.com/Post/699) | Mon Jun 27 2022 12:14 AM 
     <details><summary>展开描述 ...</summary> 
     本周刊记录有趣好玩的独立产品设计开发相关内容，每周发布，感兴趣的伙伴可以点击订阅我的周刊。为保证每期都能收到建 [&amp;#8230;] 
     </details> 
