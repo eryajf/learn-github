@@ -898,7 +898,16 @@ Antonchehov.ru&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 
 ## toodaylab
 
 <!-- toodaylab:START -->
-- ⚗️ [realme 发布的真我 GT2 大师探索版，是一次失败的“大师版”](http://www.toodaylab.com/81051) | Thu Jul 28 2022 8:35 AM 
+- ⚗️ [继续“未完成”，Balenciaga 成都远洋太古里全球旗舰店正式亮相](http://www.toodaylab.com/81052) | Thu Jul 28 2022 6:30 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+                    
+                        &lt;p&gt;7 月 28 日，Balenciaga 巴黎世家位于成都远洋太古里的全新品牌全球旗舰店亮相，门店将在 7 月 30 日正式开幕，目前还在提前预览阶段。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_01.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;之前我们已经连续报道过 Balenciaga 位于&lt;a href=&quot;https://www.toodaylab.com/80707&quot; target=&quot;_blank&quot;&gt;伦敦新邦德街（New Bond Street）&lt;/a&gt;和&lt;a href=&quot;https://www.toodaylab.com/80930&quot; target=&quot;_blank&quot;&gt;法国圣特罗佩（Saint-Tropez）&lt;/a&gt;的新店，它们都采用了品牌创意总监 Demna Gvasalia 定义的“未完成”风格（官方叫 Raw Architecture，即“原始建筑风格”），这次成都门店也同样如此。&lt;/p&gt;&lt;p&gt;虽然官方资料没有刻意提，但这至少是 Balenciaga 在中国西南地区的首家全新风格的门店（实际上它的定位和规格在全球范围也是可数的几家），品牌方面对这间门店也非常重视。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_02.jpg&quot; style=&quot;&quot; title=&quot;一层的背面店门&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_03.jpg&quot; style=&quot;&quot; title=&quot;二层的入口&quot;/&gt;&lt;/p&gt;&lt;p&gt;门店分两层，面积共 552 平方米，虽然二层平台和成都远洋太古里的走廊连接，但这几乎是一座独栋建筑，这也为店铺设计带来了足够大的操作空间。最终店铺外立面由两部分组成：外层是落地悬挂式全玻璃幕墙，里层是带产品展示橱窗的特制水泥板钢架。而店内有带转角的楼梯连接两层楼，楼梯本身也是钢架结构，外部用玻璃镶板包裹。&lt;/p&gt;&lt;p&gt;按官方的介绍，建筑外部设计参考了山墙式传统建筑结构，室内的设计灵感则来自“城市中废弃、在建和拆毁的建筑”。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_04.jpg&quot; style=&quot;&quot; title=&quot;注意两条“长凳”以及搭配的茶几。“长凳”在之前的伦敦新邦德街旗舰店里也有出现&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_05.jpg&quot; style=&quot;&quot; title=&quot;楼梯间，步行上二楼&quot;/&gt;&lt;/p&gt;&lt;p&gt;如果跟着品牌最近一年来开出的主要新店一路走来的话，成都这家全球旗舰店的风格不会让人感到太陌生，仍然是刻意的“未完成”或者说毛坯风格——电缆、管道和通风系统全能看到，水泥地面有裸露的网格痕迹，铝制陈列架留着斑驳粗糙的质感，金属陈列台面则有水渍的效果。&lt;/p&gt;&lt;p&gt;这是精心设计后的结果。其实相比图上看的效果，在现场反而能感觉店铺整体并没有那么粗犷，这其实是以细致做工带来类似毛坯的样子，店铺的细节丝毫不比其它奢华装修的门店少——而这体现了独特的美学，并以更少干扰的方式把店内货品更好地呈现在大家面前。&lt;/p&gt;&lt;p&gt;包括店内的两条“长凳”，这是荷兰艺术家 Tejo Remy 基于古着及未销售的往季织物定制的，这是 Balenciaga Art in Stores 项目下的作品，它们扮演着功能性的角色（同时也是接受订购的）。而旁边茶几由 3D 打印而成，底座灵感来自成都远洋太古里建筑群的风格。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_06.jpg&quot; style=&quot;&quot; title=&quot;从楼梯间上到二楼&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_07.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_08.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_09.jpg&quot; style=&quot;&quot; title=&quot;金属货架，似乎可以直接拆卸移动或者搬出去做快闪店用&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_10.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;这间门店目前陈列了品牌最新一季男女装成衣、鞋履、包袋、配饰、首饰和眼镜系列，同时为了配合新店开幕，店内有一系列独家产品发售，包括印有 Balenciaga Chengdu 字样的 Cities 城市系列环保咖啡杯（之前已经售罄了，这次是难得的入手机会）、设计灵感来自 Balenciaga 高级定制典藏作品的连衣裙，以及闪亮镶钻麂皮版的经典款手袋等。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/balenciaga_cdtkl_20220729022415_11.jpg&quot; title=&quot;陶瓷材质的，同时搭配硅胶杯盖。它属于 Balenciaga Objects 灵感生活系列，只在所在地城市销售本城市名字的版本&quot;/&gt;&lt;/p&gt;&lt;p&gt;包括之前成为话题的“战损鞋”（Paris 运动鞋）也出现了。&lt;/p&gt;&lt;p&gt;同时店内还有首发多款品牌徽标印花的镶钻手袋和高跟鞋、珠片刺绣的小羊皮 Hourglass 手袋、字母 B 项链及品牌徽标式样的首饰。店内还能看到来自秋季 22 系列发布秀中采用升级再造皮革打造的夹克，以及多套时装秀上的新款。&lt;/p&gt;
+                    
+                 
+    </details> 
+
+- 🚀 [realme 发布的真我 GT2 大师探索版，是一次失败的“大师版”](http://www.toodaylab.com/81051) | Thu Jul 28 2022 8:35 AM 
     <details><summary>展开描述 ...</summary> 
     
                     
@@ -907,7 +916,7 @@ Antonchehov.ru&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 
                  
     </details> 
 
-- 🚀 [今日消费资讯：Moncler Grenoble 2022 秋季系列广告大片发布、Lee x 宫廷文化 2022 秋冬联乘系列亮相](http://www.toodaylab.com/81048) | Thu Jul 28 2022 12:25 AM 
+- 🧰 [今日消费资讯：Moncler Grenoble 2022 秋季系列广告大片发布、Lee x 宫廷文化 2022 秋冬联乘系列亮相](http://www.toodaylab.com/81048) | Thu Jul 28 2022 12:25 AM 
     <details><summary>展开描述 ...</summary> 
     
                     
@@ -916,7 +925,7 @@ Antonchehov.ru&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 
                  
     </details> 
 
-- 🧰 [爆卖 70 万件，优衣库“王牌内衣”轻氧 Bra 厉害在哪里](http://www.toodaylab.com/81043) | Wed Jul 27 2022 8:50 AM 
+- 👺 [爆卖 70 万件，优衣库“王牌内衣”轻氧 Bra 厉害在哪里](http://www.toodaylab.com/81043) | Wed Jul 27 2022 8:50 AM 
     <details><summary>展开描述 ...</summary> 
     
                     
@@ -925,7 +934,7 @@ Antonchehov.ru&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 
                  
     </details> 
 
-- 👺 [今日消费资讯：匡威推出 Chuck 70 Plus 系列、福特 Mustang 元光极昼限量版和寰海蓝天限量版上市](http://www.toodaylab.com/81045) | Wed Jul 27 2022 12:25 AM 
+- 🫣 [今日消费资讯：匡威推出 Chuck 70 Plus 系列、福特 Mustang 元光极昼限量版和寰海蓝天限量版上市](http://www.toodaylab.com/81045) | Wed Jul 27 2022 12:25 AM 
     <details><summary>展开描述 ...</summary> 
     
                     
@@ -934,20 +943,11 @@ Antonchehov.ru&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 
                  
     </details> 
 
-- 🫣 [太古酒店“居舍系列”即将走出中国，海外首家酒店已选址东京涩谷](http://www.toodaylab.com/81047) | Tue Jul 26 2022 7:22 PM 
+- 💂 [太古酒店“居舍系列”即将走出中国，海外首家酒店已选址东京涩谷](http://www.toodaylab.com/81047) | Tue Jul 26 2022 7:22 PM 
     <details><summary>展开描述 ...</summary> 
     
                     
                         &lt;p&gt;7 月 26 日，太古地产宣布太古酒店“居舍系列”品牌将落户日本东京涩谷区，新酒店预计将在 2027 年财年竣工，这也将是“居舍系列”在中国之外的首家酒店。&lt;/p&gt;&lt;p&gt;“居舍系列”首家酒店就是北京瑜舍，它在 2008 年开幕，之后陆续有香港奕居、成都博舍、&lt;a href=&quot;https://www.toodaylab.com/74106&quot; target=&quot;_blank&quot;&gt;上海镛舍&lt;/a&gt;开幕，它们有着同样的气质，但却以不同方式进行了表达——都和在地文化融为一体，比如香港奕居呼应了霓虹夜景，成都博舍更是融入在百年历史的中式庭院当中。&lt;/p&gt;&lt;p&gt;这次涩谷的新酒店还没有命名，但酒店将属于 Tokyu Group 和 L Catterton Real Estate（LCRE）共同推进的涩谷上西区开发计划的一部分。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/h_hotel_20220727031918_01.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/h_hotel_20220727031918_02.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;这一高级综合发展项目位于 Tokyu Department Store 旗舰店旧址，毗邻松涛区，项目占地 11.7 万平方米，将包括高端零售以及高级酒店和住宅。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/h_hotel_20220727032126_00.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/h_hotel_20220727031918_04.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;值得一提的是，整个项目将由挪威斯诺赫塔建筑事务所（Snøhetta）操刀设计，我们已经很多次介绍过 Snøhetta 的设计。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/h_hotel_20220727032021_00.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;目前项目的地理位置图、项目规划图和建筑效果图都有公布，不过这不代表最终方案，可能之后还会有调整。而这对于太古酒店管理和运营来说都是重要一步，太古地产行政总裁兼太古酒店主席彭国邦表示“未来会继续寻找合适机遇，在区内发展‘居舍系列’及东隅酒店品牌”。&lt;/p&gt;
-                    
-                 
-    </details> 
-
-- 💂 [7 米挑高加多个“首次”，苹果伦敦 Apple Brompton Road 亮相](http://www.toodaylab.com/81046) | Tue Jul 26 2022 1:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-                    
-                        &lt;p&gt;7 月 26 日，苹果带来伦敦 Apple Brompton Road 的预览，这是伦敦市中心（Central London）第 3 家 Apple Store，同时也是英国第 39 家 Apple Store。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_01.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;门店位于骑士桥，旁边是海德公园，这次&lt;a href=&quot;https://www.toodaylab.com/81027&quot; target=&quot;_blank&quot;&gt;预热阶段带来的视觉设计&lt;/a&gt;灵感就来自当地植物，而最终亮相的门店空间也因为摆放了 12 棵高大的西西里榕树（Genius Grove“天才树”）而显得郁郁葱葱。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_02.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;这次是一层楼的店面，挑高达到 7 米，照例是经典的落地玻璃幕墙，店内的拱廊则延续了这座始建于 1903 年的建筑的原始风貌。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_03.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;同时店铺采用水磨石地板，但这是以植物为基础的生物树脂制成，这也是苹果在全球零售店里首次尝试这一材料。另外店内采用的是 100% 可再生能源供电，充分强调可持续。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_04.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_05.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;店铺分布仍然是左右对称，Forum 互动坊区域放在了正对面的中央位置（这个区域还专门做了一块更矮的天花板，是镜面的，在上课或者互动时的沉浸感会更强）。一侧还有&amp;nbsp;Apple Pickup，这也是英国首个 Apple Pickup 专属区域。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_06.jpg&quot; style=&quot;&quot; title=&quot;注意头上的镜面效果&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_07.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;这间门店将在当地时间 7 月 28 日下午 4 点正式开业（注意不是早上），门店员工团队达到了 200 人，支持 45 种语言。&lt;/p&gt;
                     
                  
     </details> 
