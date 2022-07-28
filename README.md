@@ -97,7 +97,72 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## 机核
 
 <!-- gcores:START -->
-- ⚗️ [CCS铁魄版《天元突破》罗善岩正式公布](https://www.gcores.com/articles/154240) | Thu Jul 28 2022 2:38 PM 
+- ⚗️ [苏联美学演义 Vol.12丨苏俄戏剧（中）从《海鸥》到十月革命前的舞台内外](https://www.gcores.com/radios/154018) | Thu Jul 28 2022 3:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+        &lt;img src=&quot;https://image.gcores.com/6737e1d0-df53-4112-a817-f096e66314dd.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;div&gt;
+&lt;p&gt;&lt;a href=&quot;https://item.taobao.com/item.htm?ft=t&amp;amp;id=679368726172&amp;amp;mt=&quot;&gt;&amp;lt;苏联美学衍生周边-机组小子艺术家T恤&amp;gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;
+&lt;p&gt;&lt;a href=&quot;https://item.taobao.com/item.htm?ft=t&amp;amp;id=679065793635&quot;&gt;&amp;lt;苏联美学衍生周边-“Gcrew”+“读书吧”呐喊T恤&amp;gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;本期时间轴制作： NineSolitary &lt;/p&gt;&lt;p&gt;我们之前曾经简略地谈过《海鸥》与莫斯科艺术剧院的建立对于俄国戏剧的影响，但是如果要理解世界表演艺术的发展，就必须从契诃夫、斯坦尼斯拉夫斯基、聂米罗维奇-丹钦科、梅耶荷德、瓦赫坦戈夫等人的生平说起。他们生在一个伟大的时代，在舞台上下都创造了堪比传奇的人生经历。
+
+由于机核自身的性质与我们能力所限，《苏联美学》系列节目很大程度上仍停留在信息消费的层级，谈不上“研究”“发现”与“拓展”，仅为抛砖引玉，如果能够激发更多人对于俄苏文化体系的兴趣，我们的目标也就达到了。&lt;/p&gt;&lt;p&gt;整理、融合与创作内容，所需的时间、精力都是超出想象的，成稿仓促，可能无法达到理想中的优良状态，还请各位多多批评。节目中提及的内容会尽量提供出处，供有兴趣的朋友参阅并继续挖掘。由于电台中述及概念较多，牵涉到一些历史与政治内容，我们特别声明：反对以断章取义、割裂上下语境的方式曲解其中任何观点，感谢大家的理解。&lt;/p&gt;&lt;p&gt;诚挚感谢 中央戏剧学院博士 陈老巨，青年戏剧导演 肖竞 在本期节目的资料整合与内容整理过程中提供的戏剧专业释疑和无私帮助！&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;互联网文档与网站：
+&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;People.com.cn 人民网
+Nssd.cn 国家哲学社会科学学术期刊数据库
+Cnki.net 中国知网
+Tsrus.cn 透视俄罗斯
+Nld.cn 国家数字图书馆
+Sinoss.net 高校社科人文信息网
+Z-lib.org Zlibrary
+Marxist.org 中马库
+Culture.ru
+Mxat.ru
+Antonchehov.ru&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;著作（实体书+电子书）： 
+&lt;/span&gt;《俄国戏剧史概要》，王爱⺠/任何，中国戏剧出版社，1984  
+《西方戏剧理论史》，陈世雄/周宁/郑尚宪 主编，厦门大学出版社，2006
+《西方悲喜剧艺术的美学历程》，程孟辉/丁冰 主编，东北师范大学出版社，1997
+《中国当代戏剧史稿》，董健/胡星亮 主编，中国戏剧出版社，2008
+《剧本五种》，安东·巴甫洛维奇·契诃夫，童道明/童宁 译，线装书局，2014
+《亚·奥斯特洛夫斯基 契诃夫 戏剧选》，奥斯特洛夫斯基/契诃夫，臧仲伦/陈冰夷/童道明/丽尼/满涛 译，人民文学出版社，1998
+《契诃夫书信集》，安东·巴甫洛维奇·契诃夫，朱逸森 译，上海译文出版社，2018
+《契诃夫短篇小说选》，安东·巴甫洛维奇·契诃夫，汝龙 译，人民文学出版社，2003
+《斯坦尼斯拉夫斯基全集》，斯坦尼斯拉夫斯基，中国电影出版社，1961
+《我的艺术生活》，斯坦尼斯拉夫斯基，瞿白音 译，上海译文出版社，2002
+《演员的自我修养》，斯坦尼斯拉夫斯基，王华 译，二十一世纪出版社，2016
+《斯坦尼斯拉夫斯基的导演课》，尼·格尔恰科夫，孙维世/张守慎/姜丽/夏立民/汤茀之 译，中国戏剧出版社，1982
+《论聂米罗维奇-丹钦科导演方法》，玛·奥·科涅别尔，周来 译，1959
+《文艺·戏剧·生活》，聂米罗维奇-丹钦科，焦菊隐 译，平明出版社，1955
+《戏剧大三角：斯坦尼-梅耶荷德-梅兰芳》，陈世雄，国家社科基金项目“苏联戏剧历史经验研究”最终成果，人民出版社，2019
+《梅耶荷德传》，K·鲁德尼茨基，中国戏剧出版社，1987
+《梅耶荷德谈话录》，童道明 编译，商务印书馆，2019
+《梅耶荷德戏剧创作与思想研究》，徐琪，厦门大学哲学社会科学繁荣计划资助项目，中央编译出版社，2019&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;论文：&lt;/span&gt;
+《试论《海鸥》对斯坦尼斯拉夫斯基表演美学体系形成的影响》，耿余，武汉大学，艺术学/戏剧戏曲学 硕士学位论文，邹元江 教授指导，2004年
+《论契诃夫与斯坦尼斯拉夫斯基喜剧性之争》，关珊，黑龙江大学，比较文学与世界文学/比较美学 硕士学位论文，张政文 教授指导，2006年
+《论契诃夫的戏剧创作》，陈晖，武汉大学，戏剧影视文学 博士学位论文，郑传寅 教授指导，2012年
+《斯坦尼体系与中国话剧演剧》，李贤年，南京艺术学院，电影学 博士学位论文，胡星亮 教授指导，2018年
+《导演创作思维的拓展——肢体能量与肢体言语的表达》，李魏，云南艺术学院，导演理论与实践 硕士学位论文，余力民 教授指导，2012年
+《梅耶荷德戏剧思想与表演理念研究》，谢奇吾，贵州大学，戏剧与影视学 硕士学位论文，贺祝平 教授指导，2018年&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;期刊与其他文献：
+《&lt;/span&gt;&quot;More than Just a Little Chekhovian&quot;: The Sea Gull as a Source for the Characters in The Glass Menagerie&lt;span style=&quot;font-weight: bold;&quot;&gt;》，&lt;/span&gt;Drewey Wayne Gunn，Modern Drama Volume 33, Issue 3. 1990. 
+《试论契诃夫戏剧的语言》，杨宗建，《福建外语》，1989年Z1
+《试论《海鸥》的双重性——兼谈契诃夫对现代戏剧的贡献》，酉平平，湘潭大学文学与新闻学院，湘潭大学学报（哲学社会科学版） 2005（S2）
+《扮演：戏剧存在的本质──对戏剧本质思考的一种发言》，王胜华，《戏剧（中央戏剧学院学报）》1996（01）
+《浅谈导演在戏剧活动中的职能》，曹辉，云南艺术学院戏剧学院，《大众文艺》2012年9月
+《梅耶荷德导演艺术/（续）》，爱德华·布朗，杜定宇 译，《戏剧艺术》，1985年10-12月
+《斯坦尼斯拉夫斯基与梅耶荷德的分歧（1-4）》，陈世雄，国家社科基金项目“苏联戏剧历史研究”，《北方工业大学学报》2018.12-2019.12
+《试论契诃夫两大戏剧体裁之关系》，董晓，国家社科基金项目“契诃夫戏剧的喜剧性本质研究”，《俄罗斯文艺》2010年第4期
+《舞台的诗化与冲突的淡化——试论苏联戏剧中的契诃夫风格》，董晓，南京大学文学院，《俄罗斯文艺》，2008年2月
+《方法派与美国电影表演》，郑雪来，《世界电影》，1990年第6期
+《从契诃夫出发——斯坦尼体系的基石和灵魂》，吕双燕，山东艺术学院戏剧影视学院，《山东艺术学院学报》，2013年第6期
+《互为镜像、彼此映照的斯坦尼斯拉夫斯基和梅耶荷德》，徐琪，厦门大学外文学院，《中央戏剧学院学报》2009年第2期
+《梅耶荷德和中国》，童道明，中国社会科学院研究员，《中央戏剧学院学报》2019年第1期
+《斯坦尼斯拉夫斯基体系的历史溯源》，陈世雄，《上海戏剧学院学报》，2002年第3期
+《激进与纯粹：论梅耶荷德对斯坦尼斯拉夫斯基戏剧观的反叛》，董晓，《中央戏剧学院学报》2019年第1期
+《论梅耶荷德的象征主义戏剧实验》，徐琪，国家社科基金项目“梅耶荷德戏剧思想研究”，《戏剧艺术》2012年第5期
+《论戏剧艺术》，德尼·狄德罗，陆达成/徐继绘 译，《文艺理论译丛》1958年1-2期
+《契诃夫书信选录/文学语录》，契诃夫，汝龙 译，《文艺理论译丛》1958年第2期
+&lt;/p&gt;
+       
+    </details> 
+
+- 🚀 [CCS铁魄版《天元突破》罗善岩正式公布](https://www.gcores.com/articles/154240) | Thu Jul 28 2022 2:38 PM 
     <details><summary>展开描述 ...</summary> 
     
         &lt;img src=&quot;https://image.gcores.com/60a17015-3f24-48ac-9c47-a4b231d8dd5b.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;div&gt;
@@ -114,7 +179,7 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
        
     </details> 
 
-- 🚀 [策略游戏《战场的赋格曲2》正式公开，2023年发售](https://www.gcores.com/articles/154262) | Thu Jul 28 2022 12:08 PM 
+- 🧰 [策略游戏《战场的赋格曲2》正式公开，2023年发售](https://www.gcores.com/articles/154262) | Thu Jul 28 2022 12:08 PM 
     <details><summary>展开描述 ...</summary> 
     
         &lt;img src=&quot;https://image.gcores.com/ea40b444-3a03-4e00-96f2-4e9cb11f0e67.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;由 CyberConnect2 开发的 Furry 题材策略 RPG《战场的赋格曲》系列续作《战场的赋格曲2》公开新预告片，本作将于 2023 年登陆 PS4、PS5、Xbox One、Xbox Seies X、Switch 和 PC 平台。 &lt;/p&gt;&lt;div&gt;
@@ -125,7 +190,7 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
        
     </details> 
 
-- 🧰 [《数码宝贝 绝境求生》现已登陆主机平台，Steam版明日发售](https://www.gcores.com/articles/154264) | Thu Jul 28 2022 10:41 AM 
+- 👺 [《数码宝贝 绝境求生》现已登陆主机平台，Steam版明日发售](https://www.gcores.com/articles/154264) | Thu Jul 28 2022 10:41 AM 
     <details><summary>展开描述 ...</summary> 
     
         &lt;img src=&quot;https://image.gcores.com/bac17717-d680-4924-8ef2-e8fd76c66e92.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;《数码宝贝 绝境求生》是一款文字冒险和策略角色扮演两种玩法相结合的游戏，游戏则会讲述一群少年少女在露营时迷路并被传送到了陌生的异世界，他们为返回原来的世界开始了冒险。本作共有113只数码宝贝，根据选择不同，怪物的进化与故事都会产生变化。&lt;/p&gt;&lt;div&gt;
@@ -138,7 +203,7 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
        
     </details> 
 
-- 👺 [PS5即将迎来1440P支持，内测体验今日开启](https://www.gcores.com/articles/154259) | Thu Jul 28 2022 9:24 AM 
+- 🫣 [PS5即将迎来1440P支持，内测体验今日开启](https://www.gcores.com/articles/154259) | Thu Jul 28 2022 9:24 AM 
     <details><summary>展开描述 ...</summary> 
     
         &lt;img src=&quot;https://image.gcores.com/2e57dd38-9978-4fc4-93dd-d1c9618932fa.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;索尼互动娱乐于今日宣布，PS5 即将迎来1440P输出、游戏列表以及更多新功能。索尼表示，这些功能是基于玩家的意见和反馈，计划于今年晚些时候在正式版系统正式实装。即日起，注册测试版预览计划的玩家有机会抢先体验上述功能。 &lt;/p&gt;&lt;div&gt;
@@ -149,7 +214,7 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
        
     </details> 
 
-- 🫣 [经典风格战棋游戏《维斯塔利亚传说2》中文版现已发售](https://www.gcores.com/articles/154260) | Thu Jul 28 2022 9:11 AM 
+- 💂 [经典风格战棋游戏《维斯塔利亚传说2》中文版现已发售](https://www.gcores.com/articles/154260) | Thu Jul 28 2022 9:11 AM 
     <details><summary>展开描述 ...</summary> 
     
         &lt;img src=&quot;https://image.gcores.com/9fd26b3b-6004-4b53-856f-729efec14006.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;由 Vestaria Project 开发，Gamera Games发行的经典风格战棋游戏《维斯塔利亚传说2：希尔瓦比西之圣剑》于今日在Steam平台正式发售，支持简体中文，国区定价70元人民币。&lt;/p&gt;&lt;div&gt;
@@ -162,13 +227,6 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/5b6e3468-8cbf-40f2-b048-dc729647eea6.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/70ee298a-9b85-4999-8ac4-43085b622986.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;如果你对这类经典风格的战棋游戏情有独钟，那么《维斯塔利亚传说2：希尔瓦比西之圣剑》绝对是一款不容错过的作品，不如现在就购入这款游戏，细细体会这久违的醍醐味。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;p&gt;&amp;lt;内嵌内容，请到原网页查看&amp;gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-       
-    </details> 
-
-- 💂 [《镭射：虹色谜城》开发日记32：细化的赏金任务，还有更多款式的空中小摩托](https://www.gcores.com/videos/154101) | Thu Jul 28 2022 9:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-        &lt;img src=&quot;https://image.gcores.com/6c9cb5e9-2e32-49d4-a628-dce8c7bc647b.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;大家好~《镭射：虹色谜城》一款旨在向不少赛博朋克经典致敬的，颇具挑战性的平台动作游戏，也是我在成为网页图像设计师，多媒体专家，电影视觉特效师后，作为一名独立游戏人的首部作品。我将不定期为大家带来这部作品的简介和开发近况，希望大家能够喜欢~     &lt;/p&gt;
        
     </details> 
 <!-- gcores:END -->
