@@ -97,20 +97,20 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## 机核
 
 <!-- gcores:START -->
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [策略游戏《战场的赋格曲2》正式公开，2023年发售](https://www.gcores.com/articles/154262) | Thu Jul 28 2022 12:08 PM
-    <details><summary>展开描述 ...</summary>
-
+- ⚗️ [策略游戏《战场的赋格曲2》正式公开，2023年发售](https://www.gcores.com/articles/154262) | Thu Jul 28 2022 12:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/ea40b444-3a03-4e00-96f2-4e9cb11f0e67.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;由 CyberConnect2 开发的 Furry 题材策略 RPG《战场的赋格曲》系列续作《战场的赋格曲2》公开新预告片，本作将于 2023 年登陆 PS4、PS5、Xbox One、Xbox Seies X、Switch 和 PC 平台。 &lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;p&gt;&amp;lt;内嵌内容，请到原网页查看&amp;gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/3236248e-37c9-488c-b80c-95b565d1e810.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/e1ba62aa-9479-4395-90f7-0a52a08562d4.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/aaba7a91-65cd-4268-b9ec-b471c79be86f.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;p&gt;《战场的赋格曲2》承接初代的剧情，在初代的剧情结束一年后。孩子们的战斗仍未结束，他们将登上坦克，继续他们的战争。 《战场的赋格曲 2》将在保持前作优点的同时，特别强化了游戏的战斗系统。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+       
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [《数码宝贝 绝境求生》现已登陆主机平台，Steam版明日发售](https://www.gcores.com/articles/154264) | Thu Jul 28 2022 10:41 AM
-    <details><summary>展开描述 ...</summary>
-
+- 🚀 [《数码宝贝 绝境求生》现已登陆主机平台，Steam版明日发售](https://www.gcores.com/articles/154264) | Thu Jul 28 2022 10:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/bac17717-d680-4924-8ef2-e8fd76c66e92.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;《数码宝贝 绝境求生》是一款文字冒险和策略角色扮演两种玩法相结合的游戏，游戏则会讲述一群少年少女在露营时迷路并被传送到了陌生的异世界，他们为返回原来的世界开始了冒险。本作共有113只数码宝贝，根据选择不同，怪物的进化与故事都会产生变化。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/39bc0b1d-8e4d-48c9-a0f7-840b3362c0dd.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/f1aa3f49-63e0-497f-ab31-e0fcb62eb199.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;首批购买实体与数字版的玩家可以获得特典“基爾獸”与HP支援装备“寵愛結晶”的兑换码，其中基爾獸可以进化为“紅蓮騎士獸”。当怪兽装备“寵愛結晶”时，可以获得“每回合回復HP，發生戰鬥輔助+”的效果。&lt;/p&gt;&lt;div&gt;
@@ -118,23 +118,23 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/2697f3e8-0f2a-486c-8075-52bf4e928d22.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/52cae384-f5bf-452e-bbe6-7df1da131efe.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/a38cb9d7-de4b-4d2d-8178-436b4d28fd59.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+       
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [PS5即将迎来1440P支持，内测体验今日开启](https://www.gcores.com/articles/154259) | Thu Jul 28 2022 9:24 AM
-    <details><summary>展开描述 ...</summary>
-
+- 🧰 [PS5即将迎来1440P支持，内测体验今日开启](https://www.gcores.com/articles/154259) | Thu Jul 28 2022 9:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/2e57dd38-9978-4fc4-93dd-d1c9618932fa.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;索尼互动娱乐于今日宣布，PS5 即将迎来1440P输出、游戏列表以及更多新功能。索尼表示，这些功能是基于玩家的意见和反馈，计划于今年晚些时候在正式版系统正式实装。即日起，注册测试版预览计划的玩家有机会抢先体验上述功能。 &lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/ae77a87b-e228-47cd-aeec-c4eb406888c8.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;在兼容的显示器和电视上，玩家将可直接在选单中选择1440P，而具体的渲染分辨率取决于游戏。如若游戏支持1440P输出，画面便是原生的1440P。如若游戏不支持原生1440P输出，则画面会从更高分辨率（如4K）超采样得来，从而给玩家带来更佳的保真度。&lt;/p&gt;&lt;div&gt;
 &lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/f33fe8ed-5715-4b6f-83e5-4bf2cb257e70.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/cdadbb75-9c56-4525-ad3d-90b700e3bbd6.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/bac99293-910b-489e-94fc-76c16af852ff.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/43907b8b-c6ab-4217-9fa8-a5453c419ce7.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/7365740e-b2d4-478f-a121-3048f9fb550c.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/bdad1d19-d160-43de-aba9-2db8993be063.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;p&gt;与此同时，玩家将可在游戏库中创建类似文件夹的游戏列表，更为轻松的分类游戏。据悉，玩家可创建至多15个游戏列表，每个最多可容纳100款游戏（包括数字版、光盘游戏以及云游戏）。除此之外，本次新增的功能还包括试听3D音频和立体声的效果、更为便捷的继续此前暂停的游戏进度及社交功能改进等等。&lt;/p&gt;
+       
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [经典风格战棋游戏《维斯塔利亚传说2》中文版现已发售](https://www.gcores.com/articles/154260) | Thu Jul 28 2022 9:11 AM
-    <details><summary>展开描述 ...</summary>
-
+- 👺 [经典风格战棋游戏《维斯塔利亚传说2》中文版现已发售](https://www.gcores.com/articles/154260) | Thu Jul 28 2022 9:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/9fd26b3b-6004-4b53-856f-729efec14006.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;由 Vestaria Project 开发，Gamera Games发行的经典风格战棋游戏《维斯塔利亚传说2：希尔瓦比西之圣剑》于今日在Steam平台正式发售，支持简体中文，国区定价70元人民币。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;p&gt;&amp;lt;内嵌内容，请到原网页查看&amp;gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;《维斯塔利亚传说2》是由日本游戏业内老将亲自打造的一款传统战棋游戏，其中既有国与国之间的宏大战争，也有人与人之间的尔虞我诈。故事讲述初代主角塞特重新踏上冒险之旅，与前作的老搭档以及邂逅的新伙伴一起，去揭开隐藏在马格尔帝国背后的秘密。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/aa7bf3be-39a9-4fbe-8d05-127dfb23e372.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
@@ -145,19 +145,19 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/5b6e3468-8cbf-40f2-b048-dc729647eea6.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/70ee298a-9b85-4999-8ac4-43085b622986.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;如果你对这类经典风格的战棋游戏情有独钟，那么《维斯塔利亚传说2：希尔瓦比西之圣剑》绝对是一款不容错过的作品，不如现在就购入这款游戏，细细体会这久违的醍醐味。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;p&gt;&amp;lt;内嵌内容，请到原网页查看&amp;gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+       
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [《镭射：虹色谜城》开发日记32：细化的赏金任务，还有更多款式的空中小摩托](https://www.gcores.com/videos/154101) | Thu Jul 28 2022 9:00 AM
-    <details><summary>展开描述 ...</summary>
-
+- 🫣 [《镭射：虹色谜城》开发日记32：细化的赏金任务，还有更多款式的空中小摩托](https://www.gcores.com/videos/154101) | Thu Jul 28 2022 9:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/6c9cb5e9-2e32-49d4-a628-dce8c7bc647b.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;大家好~《镭射：虹色谜城》一款旨在向不少赛博朋克经典致敬的，颇具挑战性的平台动作游戏，也是我在成为网页图像设计师，多媒体专家，电影视觉特效师后，作为一名独立游戏人的首部作品。我将不定期为大家带来这部作品的简介和开发近况，希望大家能够喜欢~     &lt;/p&gt;
+       
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [《行星边际2》即将迎来军团战新赛季：新地图和1v1机制](https://www.gcores.com/articles/154252) | Thu Jul 28 2022 8:58 AM
-    <details><summary>展开描述 ...</summary>
-
+- 💂 [《行星边际2》即将迎来军团战新赛季：新地图和1v1机制](https://www.gcores.com/articles/154252) | Thu Jul 28 2022 8:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/997b54a1-2466-460e-b7c7-67615f931fe1.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;Wrel今早在官方网站发布了新的开发者来信，对即将到来军团战（Outfit Wars）奈克瑟斯赛季的内容进行讲解。&lt;/p&gt;&lt;p&gt; &lt;span style=&quot;font-weight: bold;&quot;&gt;以下为本次更新日志内容， 由行星边际2中文玩家社区的志愿者翻译。&lt;/span&gt; &lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;欢迎来到军团战&lt;/span&gt;&lt;/p&gt;&lt;p&gt;军团战是一项以竞标赛形式的活动，军团（有组织的玩家团体）相互竞争，以证明谁是战场上最有准备、配合最好和最可怕的存在。他们会在一场又一场的比赛中争夺排行榜位置，以期获得奖励、认可，或许还有一些炫耀的资本。下面我们将介绍2022年军团战的改动，让你在即将到来的赛季中做好准备，取得胜利。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/70d3b185-2c48-4e10-a1f9-afb3eac88c73.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;比赛阶段&lt;/span&gt;&lt;/p&gt;&lt;p&gt;军团战共有四个主要阶段（征召阶段，资格赛，季后赛，冠军赛），历时七周。&lt;/p&gt;&lt;ul&gt;
 &lt;li&gt;
@@ -190,8 +190,8 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;li&gt;军团战结束后，获胜的军团的雕像会在庇护所中展示，直至下个赛季到来。&lt;/li&gt;
 &lt;/ul&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/0663792c-016e-4098-a111-fed3cc2383b6.png?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;行星边际2中文玩家社区译制&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;原文标题： 军团战 - 奈克瑟斯第一赛季&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;翻译：哦噢喔嚄&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;校对：青木和介、firetypeRPG、驴驴&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;整理发布：青木和介&lt;/span&gt;&lt;/p&gt;
-
-    </details>
+       
+    </details> 
 <!-- gcores:END -->
 
 
@@ -199,35 +199,35 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## 煎蛋
 
 <!-- jandan:START -->
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [No More Ransom 对抗加密劫持勒索软件的网站](http://jandan.net/p/111046) | Thu Jul 28 2022 9:03 AM
-    <details><summary>展开描述 ...</summary>
-    欧洲刑警组织、荷兰国家警察局以及多家网络安全和IT公司于 2016 年联合发起No More Ransom 项目
-    </details>
+- ⚗️ [No More Ransom 对抗加密劫持勒索软件的网站](http://jandan.net/p/111046) | Thu Jul 28 2022 9:03 AM 
+    <details><summary>展开描述 ...</summary> 
+    欧洲刑警组织、荷兰国家警察局以及多家网络安全和IT公司于 2016 年联合发起No More Ransom 项目 
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [冒犯式喜剧人已经灭绝了吗？](http://jandan.net/p/111057) | Thu Jul 28 2022 8:17 AM
-    <details><summary>展开描述 ...</summary>
-    冒犯式喜剧人也是网络时代的受害者
-    </details>
+- 🚀 [冒犯式喜剧人已经灭绝了吗？](http://jandan.net/p/111057) | Thu Jul 28 2022 8:17 AM 
+    <details><summary>展开描述 ...</summary> 
+    冒犯式喜剧人也是网络时代的受害者 
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [也吃素的鲸鲨 现在已知最大的杂食动物](http://jandan.net/p/111039) | Thu Jul 28 2022 4:00 AM
-    <details><summary>展开描述 ...</summary>
-    挺有颠覆性的，鲸鲨似乎以海藻为主食，而非之前公认的磷虾，虽然它们确实吞下去了大量磷虾
-    </details>
+- 🧰 [也吃素的鲸鲨 现在已知最大的杂食动物](http://jandan.net/p/111039) | Thu Jul 28 2022 4:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    挺有颠覆性的，鲸鲨似乎以海藻为主食，而非之前公认的磷虾，虽然它们确实吞下去了大量磷虾 
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [今日好价 0728](http://jandan.net/p/111055) | Thu Jul 28 2022 2:47 AM
-    <details><summary>展开描述 ...</summary>
-    ZSBD
-    </details>
+- 👺 [今日好价 0728](http://jandan.net/p/111055) | Thu Jul 28 2022 2:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    ZSBD 
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [木星为何没有土星那样壮丽的环](http://jandan.net/p/111038) | Wed Jul 27 2022 2:51 PM
-    <details><summary>展开描述 ...</summary>
-    木星的又薄又小，只有在太阳的背光下才能被看到，非常可怜。
-    </details>
+- 🫣 [木星为何没有土星那样壮丽的环](http://jandan.net/p/111038) | Wed Jul 27 2022 2:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    木星的又薄又小，只有在太阳的背光下才能被看到，非常可怜。 
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [新发现：哺乳动物可以通过肠道呼吸](http://jandan.net/p/111051) | Wed Jul 27 2022 11:42 AM
-    <details><summary>展开描述 ...</summary>
-    少数水生动物如海参和鲶鱼能通过肠道呼吸，而人类的肠道组织可以很容易地吸收药物。
-    </details>
+- 💂 [新发现：哺乳动物可以通过肠道呼吸](http://jandan.net/p/111051) | Wed Jul 27 2022 11:42 AM 
+    <details><summary>展开描述 ...</summary> 
+    少数水生动物如海参和鲶鱼能通过肠道呼吸，而人类的肠道组织可以很容易地吸收药物。 
+    </details> 
 <!-- jandan:END -->
 
 
@@ -236,70 +236,70 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## cnbeta
 
 <!-- cnbeta:START -->
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [华硕发布紧凑型手机Zenfone 9 配备类似于万向节的相机稳定功能](https://www.cnbeta.com/articles/tech/1298139.htm) | Thu Jul 28 2022 1:54 PM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;Zenfone 9和去年的8一样，是市面上已经很罕见的小屏Android手机，优先考虑紧凑的尺寸，而不是最大化屏幕或电池尺寸。&lt;strong&gt;但今年的独到之处是这款手机的相机和稳定系统：不是仅仅移动一个镜头元素来补偿相机的抖动，而是整个主相机--镜头、传感器，所有这些--都会移动。这是一种独特的方法来对抗移动摄影的一些最大敌人：低光和摇晃的视频片段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- ⚗️ [华硕发布紧凑型手机Zenfone 9 配备类似于万向节的相机稳定功能](https://www.cnbeta.com/articles/tech/1298139.htm) | Thu Jul 28 2022 1:54 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;Zenfone 9和去年的8一样，是市面上已经很罕见的小屏Android手机，优先考虑紧凑的尺寸，而不是最大化屏幕或电池尺寸。&lt;strong&gt;但今年的独到之处是这款手机的相机和稳定系统：不是仅仅移动一个镜头元素来补偿相机的抖动，而是整个主相机--镜头、传感器，所有这些--都会移动。这是一种独特的方法来对抗移动摄影的一些最大敌人：低光和摇晃的视频片段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [每日优鲜App已经无法下单 无客服在线](https://www.cnbeta.com/articles/tech/1298137.htm) | Thu Jul 28 2022 1:48 PM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;每日优鲜App已经无法下单，虽然仍有商品展示、可加入购物车，但是在结账页面显示“本单购买的商品在当前地址下无货”。新浪科技更换了上海、杭州等多个城市，均显示无货原因无法购买。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- 🚀 [每日优鲜App已经无法下单 无客服在线](https://www.cnbeta.com/articles/tech/1298137.htm) | Thu Jul 28 2022 1:48 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;每日优鲜App已经无法下单，虽然仍有商品展示、可加入购物车，但是在结账页面显示“本单购买的商品在当前地址下无货”。新浪科技更换了上海、杭州等多个城市，均显示无货原因无法购买。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [量子星座开启 我国发射世界首颗量子微纳卫星](https://www.cnbeta.com/articles/science/1298135.htm) | Thu Jul 28 2022 1:47 PM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;7月27日，世界首颗量子微纳卫星“济南一号”搭载中国科学院“力箭一号”运载火箭成功发射。目前，“济南一号”已进入既定轨道，太阳能帆板已成功打开，即将开展在轨测试工作。据了解，这也是继2016年我国世界首颗量子科学实验卫星“墨子号”升空后，中国发射的第二颗量子通信卫星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- 🧰 [量子星座开启 我国发射世界首颗量子微纳卫星](https://www.cnbeta.com/articles/science/1298135.htm) | Thu Jul 28 2022 1:47 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;7月27日，世界首颗量子微纳卫星“济南一号”搭载中国科学院“力箭一号”运载火箭成功发射。目前，“济南一号”已进入既定轨道，太阳能帆板已成功打开，即将开展在轨测试工作。据了解，这也是继2016年我国世界首颗量子科学实验卫星“墨子号”升空后，中国发射的第二颗量子通信卫星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [诺兰史诗级新片《奥本海默》公布首支高清预告：世界被他永久性改变](https://hot.cnbeta.com/articles/movie/1298133.htm) | Thu Jul 28 2022 1:46 PM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;诺兰导演新片《奥本海默》首支先导预告正式公布：“世界被永久性改变了”，预计于明年7月21日在北美上映。片中基里安·墨菲饰演“原子弹之父”罗伯特·奥本海默，这也是他首次担纲诺兰电影男主，影片定档明年7月21日北美院线公映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- 👺 [诺兰史诗级新片《奥本海默》公布首支高清预告：世界被他永久性改变](https://hot.cnbeta.com/articles/movie/1298133.htm) | Thu Jul 28 2022 1:46 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;诺兰导演新片《奥本海默》首支先导预告正式公布：“世界被永久性改变了”，预计于明年7月21日在北美上映。片中基里安·墨菲饰演“原子弹之父”罗伯特·奥本海默，这也是他首次担纲诺兰电影男主，影片定档明年7月21日北美院线公映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [SK海力士拟年内试产238层NAND闪存](https://www.cnbeta.com/articles/tech/1298131.htm) | Thu Jul 28 2022 1:45 PM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;SK海力士在近日举行的二季度财报电话会议上透露，计划在年内完成238层NAND试产，并在2023年上半年实现量产。针对美光近期量产232层NAND的动态，海力士方面表示各家厂商产品发布节奏不同，存储市场目前应专注于提高盈利能力，海力士的目标是实现行业最高水平的盈利能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- 🫣 [SK海力士拟年内试产238层NAND闪存](https://www.cnbeta.com/articles/tech/1298131.htm) | Thu Jul 28 2022 1:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;SK海力士在近日举行的二季度财报电话会议上透露，计划在年内完成238层NAND试产，并在2023年上半年实现量产。针对美光近期量产232层NAND的动态，海力士方面表示各家厂商产品发布节奏不同，存储市场目前应专注于提高盈利能力，海力士的目标是实现行业最高水平的盈利能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [哈啰回应员工破坏美团电单车：系酒后盲目报复 将要求员工严格遵守法律法规](https://www.cnbeta.com/articles/tech/1298129.htm) | Thu Jul 28 2022 1:45 PM
-    <details><summary>展开描述 ...</summary>
-     &lt;p&gt;7月28日晚间消息，针对哈啰昆明城市经理划破70辆美团电单车被拘一事，哈啰出行回应称，系该员工在凌晨酒后做出过激行为。此前，该员工辖区内哈啰车辆出现多起坐垫被划伤、轮胎被拆、车身被拆解报废的情况，该员工盲目报复的行为违反法律，已受到严格处罚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
-    </details>
+- 💂 [哈啰回应员工破坏美团电单车：系酒后盲目报复 将要求员工严格遵守法律法规](https://www.cnbeta.com/articles/tech/1298129.htm) | Thu Jul 28 2022 1:45 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;7月28日晚间消息，针对哈啰昆明城市经理划破70辆美团电单车被拘一事，哈啰出行回应称，系该员工在凌晨酒后做出过激行为。此前，该员工辖区内哈啰车辆出现多起坐垫被划伤、轮胎被拆、车身被拆解报废的情况，该员工盲目报复的行为违反法律，已受到严格处罚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
 <!-- cnbeta:END -->
 
 
 ## 摄影
 
 <!-- photoworld:START -->
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [大暑 | 一半是火焰，一半是山水](https://www.photoworld.com.cn/post/162200) | Sat Jul 23 2022 12:00 AM
-    <details><summary>展开描述 ...</summary>
+- ⚗️ [大暑 | 一半是火焰，一半是山水](https://www.photoworld.com.cn/post/162200) | Sat Jul 23 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-    </details>
+- 🚀 [CSC 成员 Rob McLachlan 分享 CineAltaV 2 的使用印象](https://www.photoworld.com.cn/post/162191) | Fri Jul 22 2022 7:51 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [CSC 成员 Rob McLachlan 分享 CineAltaV 2 的使用印象](https://www.photoworld.com.cn/post/162191) | Fri Jul 22 2022 7:51 AM
-    <details><summary>展开描述 ...</summary>
+- 🧰 [2022 年新签约摄影师 广州·李维明·第二站报名持续进行中](https://www.photoworld.com.cn/post/162171) | Thu Jul 21 2022 9:08 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-    </details>
+- 👺 [首发量产 200W 超快闪充，高性能旗舰 iQOO 10 系列发布](https://www.photoworld.com.cn/post/162149) | Wed Jul 20 2022 1:43 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [2022 年新签约摄影师 广州·李维明·第二站报名持续进行中](https://www.photoworld.com.cn/post/162171) | Thu Jul 21 2022 9:08 AM
-    <details><summary>展开描述 ...</summary>
+- 🫣 [温暖 “医” 瞬间——医务人员风采展示系列活动征稿启事](https://www.photoworld.com.cn/post/161993) | Mon Jul 18 2022 2:38 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [首发量产 200W 超快闪充，高性能旗舰 iQOO 10 系列发布](https://www.photoworld.com.cn/post/162149) | Wed Jul 20 2022 1:43 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [温暖 “医” 瞬间——医务人员风采展示系列活动征稿启事](https://www.photoworld.com.cn/post/161993) | Mon Jul 18 2022 2:38 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [#尼康创摄者 # VLOG 大赛即将开启](https://www.photoworld.com.cn/post/161972) | Thu Jul 14 2022 11:45 AM
-    <details><summary>展开描述 ...</summary>
-
-    </details>
+- 💂 [#尼康创摄者 # VLOG 大赛即将开启](https://www.photoworld.com.cn/post/161972) | Thu Jul 14 2022 11:45 AM 
+    <details><summary>展开描述 ...</summary> 
+     
+    </details> 
 <!-- photoworld:END -->
 
 
@@ -313,56 +313,56 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## 产品100
 
 <!-- chanpin100:START -->
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [【米堆短视频】跳槽有什么注意事项](http://www.chanpin100.com/article/128443) | Thu Jun 23 2022 6:31 PM
-    <details><summary>展开描述 ...</summary>
-
+- ⚗️ [【米堆短视频】跳槽有什么注意事项](http://www.chanpin100.com/article/128443) | Thu Jun 23 2022 6:31 PM 
+    <details><summary>展开描述 ...</summary> 
+    
                 跳槽有什么注意事项？一定要确保你之前的直系领导恨你恨的牙根痒痒的这种，务必明确自身要越来越强。说不定哪天，干回去当他领导！当然，首先要自己真的变强啊！
+             
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [PM必看：一招解决延期难题（7000字）](http://www.chanpin100.com/article/128428) | Thu Jun 23 2022 6:28 PM
-    <details><summary>展开描述 ...</summary>
-
+- 🚀 [PM必看：一招解决延期难题（7000字）](http://www.chanpin100.com/article/128428) | Thu Jun 23 2022 6:28 PM 
+    <details><summary>展开描述 ...</summary> 
+    
                 在中小企业，特别是以敏捷开发为主的团队中，产品经理往往需要承担一部分项目管理的职责，其中最重要的要属需求评审后的开发评估工作了（若需求较简单，可与评审会共同进行）。
+             
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [华为云X贪玩：“云云协同”如何助力手游二次繁荣？](http://www.chanpin100.com/article/128402) | Thu Jun 23 2022 6:00 PM
-    <details><summary>展开描述 ...</summary>
-
+- 🧰 [华为云X贪玩：“云云协同”如何助力手游二次繁荣？](http://www.chanpin100.com/article/128402) | Thu Jun 23 2022 6:00 PM 
+    <details><summary>展开描述 ...</summary> 
+    
                 继长达半年的停发风波后，2022年4月、6月游戏版号发行重启，给游戏行业带来重大利好。无论是外部环境要求还是内部发展倒逼，手游行业都面临着精品化转型的拷问。据伽马数据发布的《2022年4月游戏产业报告》显示，4月份，中国移动游戏市场实际销售收入为169.59亿元，同比微弱下滑，好在环比增长了2.39%。
+             
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [阿里巴巴数字化转型的启示](http://www.chanpin100.com/article/128099) | Thu Jun 23 2022 5:35 PM
-    <details><summary>展开描述 ...</summary>
-
+- 👺 [阿里巴巴数字化转型的启示](http://www.chanpin100.com/article/128099) | Thu Jun 23 2022 5:35 PM 
+    <details><summary>展开描述 ...</summary> 
+    
                 阿里巴巴（简称阿里）作为数字化转型的倡导者和先驱者， 率先成功实现了数字化转型。其成功转型带来的利好鼓舞了更多企业积极投身数字化，尤其是淘宝的数字化转型过程为其他企业提供了很多值得借鉴的经验，本文将对这些内容加以阐述。
+             
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [产品经理成长阶梯：看看你现在是哪个级别？](http://www.chanpin100.com/article/128098) | Thu Jun 23 2022 4:59 PM
-    <details><summary>展开描述 ...</summary>
-
+- 🫣 [产品经理成长阶梯：看看你现在是哪个级别？](http://www.chanpin100.com/article/128098) | Thu Jun 23 2022 4:59 PM 
+    <details><summary>展开描述 ...</summary> 
+    
                 墨刀作为一个服务于广大产品经理（和设计师）的原型设计工具，深知原型制作仅仅是产品经理的其中一个技能和工作环节。要成为更优秀更高水平的产品经理，还需要更多技术和能力。
+             
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [项目计划执行过程中 如何分析进度偏差？](http://www.chanpin100.com/article/128096) | Thu Jun 23 2022 4:26 PM
-    <details><summary>展开描述 ...</summary>
-
+- 💂 [项目计划执行过程中 如何分析进度偏差？](http://www.chanpin100.com/article/128096) | Thu Jun 23 2022 4:26 PM 
+    <details><summary>展开描述 ...</summary> 
+    
                 在项目计划的执行过程中，通过对执行过程的跟踪检查，找出实际进度与计划进度之间的偏差，分析偏差原因并找出解决办法。
-
-    </details>
+             
+    </details> 
 <!-- chanpin100:END -->
 
 
 ## 人人都是产品经理
 
 <!-- woshipm:START -->
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [巧用App评论成为用户增长抓手](https://www.woshipm.com/evaluating/5543747.html) | Thu Jul 28 2022 10:58 AM
-    <details><summary>展开描述 ...</summary>
-
+- ⚗️ [巧用App评论成为用户增长抓手](https://www.woshipm.com/evaluating/5543747.html) | Thu Jul 28 2022 10:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    
 						&lt;blockquote&gt;&lt;p&gt;编辑导语：「评分及评论」功能是App开发者了解用户产品使用感受的有效方式，利用这一点，App Store通过评分体系（星级、评论数量、用户ID、评语）帮助用户甄选出值得信赖的优质产品。具体是怎么样的？一起来看一下吧。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;aligncenter size-full wp-image-5544373&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/oEvTW4qVytskOBJgQSxW.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;「评分及评论」功能是App开发者了解用户产品使用感受的有效方式。App Store也正是利用这一点，通过评分体系（星级、评论数量、用户ID、评语）帮助用户甄选出值得信赖的优质产品。&lt;/p&gt;
@@ -400,12 +400,12 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文由 @秦点数据 原创发布于人人都是产品经理，未经许可，禁止转载&lt;/p&gt;
 &lt;p&gt;题图来自 Unsplash，基于 CC0 协议&lt;/p&gt;
 
+					 
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [爆火的“二舅”给我关于内容创作的两点启示](https://www.woshipm.com/evaluating/5543712.html) | Thu Jul 28 2022 10:47 AM
-    <details><summary>展开描述 ...</summary>
-
+- 🚀 [爆火的“二舅”给我关于内容创作的两点启示](https://www.woshipm.com/evaluating/5543712.html) | Thu Jul 28 2022 10:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    
 						&lt;blockquote&gt;&lt;p&gt;编辑导语：最近，一个讲述了偏远乡村里，后天残疾但内心富足的“二舅”的视频火起来了。为什么它能火呢？本文作者把整个视频按照时间轴和表达主题做了一个拆解，一起来看一下吧。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;aligncenter size-full wp-image-5544364&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/a5eZjG7EXwaWHYGVsox9.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;最近“二舅”火了，朴实无华的镜头、余华式风格的文案加上《史密斯夫妇》的探戈BGM，作者唐浩用十几分钟给我们刻画出了一个偏远乡村里，后天残疾但内心富足小人物饱满的一生。&lt;/p&gt;
@@ -451,12 +451,12 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文原创发布于人人都是产品经理，未经许可，禁止转载&lt;/p&gt;
 &lt;p&gt;题图来自 Unsplash，基于 CC0 协议&lt;/p&gt;
 
+					 
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [为了多分版税，三大唱片决定打压独立音乐人](https://www.woshipm.com/it/5543233.html) | Thu Jul 28 2022 8:45 AM
-    <details><summary>展开描述 ...</summary>
-
+- 🧰 [为了多分版税，三大唱片决定打压独立音乐人](https://www.woshipm.com/it/5543233.html) | Thu Jul 28 2022 8:45 AM 
+    <details><summary>展开描述 ...</summary> 
+    
 						&lt;blockquote&gt;
 &lt;p&gt;编辑导语：近日，法国独立分公司的CEO在接收采访时，职责三大唱片正在游说流媒体平台，希望他们降低独立音乐人的版税率。为什么三大唱片要“打压”自发行服务平台和独立音乐人？三大唱片与独立音乐的博弈又将为市场带来哪些变化呢？&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;aligncenter size-full wp-image-5544113&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/grN7OfzzU3K5ve0gFl89.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
@@ -511,12 +511,12 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文由人人都是产品经理合作媒体 @音乐先声 授权发布，未经许可，禁止转载。&lt;/p&gt;
 &lt;p&gt;题图来自 Unsplash，基于 CC0 协议。&lt;/p&gt;
 
+					 
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [干货：阿里运营是如何理解分享裂变的](https://www.woshipm.com/operate/5543288.html) | Thu Jul 28 2022 8:43 AM
-    <details><summary>展开描述 ...</summary>
-
+- 👺 [干货：阿里运营是如何理解分享裂变的](https://www.woshipm.com/operate/5543288.html) | Thu Jul 28 2022 8:43 AM 
+    <details><summary>展开描述 ...</summary> 
+    
 						&lt;blockquote&gt;&lt;p&gt;编辑导语：裂变是很多产品进行用户增长的方法，这其中的裂变玩法也有很多。本文作者结合自身经验分享了作为阿里运营理解的裂变方法和逻辑，感兴趣的一起来看看吧，希望对你有帮助。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;size-full wp-image-5544082 aligncenter&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/ZM6gA4fvJQTm437enJHc.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;自从拼多多的“砍一刀”频繁上热搜，被舆论推上风口浪尖，同时微信对诱导分享的玩法仍未放松力度，分享裂变这个用户增长玩法，被运营的小伙伴们讨论的次数越来越少，甚至有运营会下定论，分享裂变是一个不可长期运营的渠道。&lt;/p&gt;
@@ -557,12 +557,12 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文由 @我是七筒 原创发布于人人都是产品经理。未经许可，禁止转载&lt;/p&gt;
 &lt;p&gt;题图来自 Unsplash，基于 CC0 协议&lt;/p&gt;
 
+					 
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [原型设计必备的四大排版原则](https://www.woshipm.com/pd/5541862.html) | Thu Jul 28 2022 8:11 AM
-    <details><summary>展开描述 ...</summary>
-
+- 🫣 [原型设计必备的四大排版原则](https://www.woshipm.com/pd/5541862.html) | Thu Jul 28 2022 8:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    
 						&lt;blockquote&gt;&lt;p&gt;编辑导语：一个好的排版页面可以有效提升用户的体验感和平台的曝光度，本文作者分享了原型设计中必备的四大排版原则，介绍了亲密性、对齐、重复、对比四大排版原则，一起来学习一下吧。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;size-full wp-image-5544059 aligncenter&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/hvj5LNSgs0udfFuRBwrw.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;作为一个产品，好像我们哪方面都不懂，又好像但凡有一方面不懂就难以协调多方资源顺利完成项目。产品在不同的阶段对接的对象不同，所以需要用到的专业知识和职场技巧差异也是完全不同的。&lt;/p&gt;
@@ -599,12 +599,12 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文由 @Grace 原创发布于人人都是产品经理，未经许可，禁止转载。&lt;/p&gt;
 &lt;p&gt;题图来自Unsplash，基于 CC0 协议。&lt;/p&gt;
 
+					 
+    </details> 
 
-    </details>
-
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [弹框的设计准则](https://www.woshipm.com/pd/5543550.html) | Thu Jul 28 2022 7:58 AM
-    <details><summary>展开描述 ...</summary>
-
+- 💂 [弹框的设计准则](https://www.woshipm.com/pd/5543550.html) | Thu Jul 28 2022 7:58 AM 
+    <details><summary>展开描述 ...</summary> 
+    
 						&lt;blockquote&gt;&lt;p&gt;编辑导语：弹框设计是很多产品应用的基础设计之一，其中包含了很多设计准则和注意要点。本文作者分享了有关弹框设计准则的相关内容，列举具体案例进行分析，一起来学习一下吧，希望对你有帮助。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;size-full wp-image-5543943 aligncenter&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/Ztbz6SPel7drPrNlrbEf.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;今天从交互角度给大家讲讲弹框的设计，包括系统提示弹框，操作引导弹框，信息反馈弹框和广告弹框，每一种都总结了4个相关的设计准则，案例丰富，深入浅出，建议阅读。&lt;/p&gt;
@@ -688,50 +688,132 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文由 @PM小周 原创发布于人人都是产品经理，未经作者许可，禁止转载。&lt;/p&gt;
 &lt;p&gt;题图来自Unsplash，基于CC0协议。&lt;/p&gt;
 
-
-    </details>
+					 
+    </details> 
 <!-- woshipm:END -->
 
 ## freebuf
 
 <!-- freebuf:START -->
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [【热点讨论】2022攻防演练情报追踪](https://www.freebuf.com/news/340081.html) | Thu Jul 28 2022 1:11 PM
-    <details><summary>展开描述 ...</summary>
-    攻防来袭，FreeBuf联合漏洞盒子情报星球为大家送上新鲜及时的情报分享~
-    </details>
+- ⚗️ [【热点讨论】2022攻防演练情报追踪](https://www.freebuf.com/news/340081.html) | Thu Jul 28 2022 1:11 PM 
+    <details><summary>展开描述 ...</summary> 
+    攻防来袭，FreeBuf联合漏洞盒子情报星球为大家送上新鲜及时的情报分享~ 
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [离职也逃不掉，Uber协助司法部起诉前CSO](https://www.freebuf.com/articles/340391.html) | Thu Jul 28 2022 5:53 AM
-    <details><summary>展开描述 ...</summary>
-    Uber就2016年一起黑客攻击事件与美国司法部达成不起诉协议，其代价就是，Uber同意帮助美国司法部起诉其前首席安全官Sullivan。
-    </details>
+- 🚀 [离职也逃不掉，Uber协助司法部起诉前CSO](https://www.freebuf.com/articles/340391.html) | Thu Jul 28 2022 5:53 AM 
+    <details><summary>展开描述 ...</summary> 
+    Uber就2016年一起黑客攻击事件与美国司法部达成不起诉协议，其代价就是，Uber同意帮助美国司法部起诉其前首席安全官Sullivan。 
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [解读 | 东欧局势正影响全球DDoS攻击态势](https://www.freebuf.com/news/340390.html) | Thu Jul 28 2022 5:48 AM
-    <details><summary>展开描述 ...</summary>
-    研究发现 DDoS 攻击已被积极用于政治目的。
-    </details>
+- 🧰 [解读 | 东欧局势正影响全球DDoS攻击态势](https://www.freebuf.com/news/340390.html) | Thu Jul 28 2022 5:48 AM 
+    <details><summary>展开描述 ...</summary> 
+    研究发现 DDoS 攻击已被积极用于政治目的。 
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [IBM数据泄露成本报告发布，数据泄露创历史新高](https://www.freebuf.com/news/340388.html) | Thu Jul 28 2022 5:47 AM
-    <details><summary>展开描述 ...</summary>
-    IBM发布了最新的数据泄露成本报告。
-    </details>
+- 👺 [IBM数据泄露成本报告发布，数据泄露创历史新高](https://www.freebuf.com/news/340388.html) | Thu Jul 28 2022 5:47 AM 
+    <details><summary>展开描述 ...</summary> 
+    IBM发布了最新的数据泄露成本报告。 
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [新钓鱼平台Robin Banks出现，多国知名金融组织遭针对](https://www.freebuf.com/articles/340362.html) | Thu Jul 28 2022 3:10 AM
-    <details><summary>展开描述 ...</summary>
-    近期出现了一个新型网络钓鱼服务平台，提供现成的网络钓鱼工具包，目标是知名银行和在线服务的客户。
-    </details>
+- 🫣 [新钓鱼平台Robin Banks出现，多国知名金融组织遭针对](https://www.freebuf.com/articles/340362.html) | Thu Jul 28 2022 3:10 AM 
+    <details><summary>展开描述 ...</summary> 
+    近期出现了一个新型网络钓鱼服务平台，提供现成的网络钓鱼工具包，目标是知名银行和在线服务的客户。 
+    </details> 
 
-- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑<200d>🏫    ,👨<200d>🏫,💂,🧑<200d>💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,    ) [FreeBuf早报 | 优步与美国司法部就黑客案达成和解；洛杉矶港口每月遭到四千万次攻击](https://www.freebuf.com/news/340334.html) | Wed Jul 27 2022 11:30 AM
-    <details><summary>展开描述 ...</summary>
-    优步已与美国司法部就其掩盖 2016 年 11 月的数据泄露事件达成和解，同意起诉其前首席安全官约瑟夫沙利文。
-    </details>
+- 💂 [FreeBuf早报 | 优步与美国司法部就黑客案达成和解；洛杉矶港口每月遭到四千万次攻击](https://www.freebuf.com/news/340334.html) | Wed Jul 27 2022 11:30 AM 
+    <details><summary>展开描述 ...</summary> 
+    优步已与美国司法部就其掩盖 2016 年 11 月的数据泄露事件达成和解，同意起诉其前首席安全官约瑟夫沙利文。 
+    </details> 
 <!-- freebuf:END -->
 ## 新趣集
 
 <!-- xinquji:START -->
+- ⚗️ [Sliderule - 用于风险和欺诈的无代码规则引擎](https://xinquji.com/posts/178289?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:43 AM 
+    <details><summary>展开描述 ...</summary> 
+     用于风险和欺诈的无代码规则引擎  
+    </details> 
+
+- 🚀 [Warmy.io - 自动多合一工具，使您的电子邮件渠道可靠](https://xinquji.com/posts/178288?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM 
+    <details><summary>展开描述 ...</summary> 
+     自动多合一工具，使您的电子邮件渠道可靠  
+    </details> 
+
+- 🧰 [Kreya - 更快地构建和测试 API](https://xinquji.com/posts/178287?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM 
+    <details><summary>展开描述 ...</summary> 
+     更快地构建和测试 API  
+    </details> 
+
+- 👺 [Settle - 为电子商务品牌打造的现金流管理](https://xinquji.com/posts/178286?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM 
+    <details><summary>展开描述 ...</summary> 
+     为电子商务品牌打造的现金流管理  
+    </details> 
+
+- 🫣 [The Guide To No Code Marketplaces 2.0 - 更新且全面的 50 多页指南](https://xinquji.com/posts/178285?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM 
+    <details><summary>展开描述 ...</summary> 
+     更新且全面的 50 多页指南  
+    </details> 
+
+- 💂 [df : Digital Fingerprint - 不要让网站窃取您的数据](https://xinquji.com/posts/178284?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:37 AM 
+    <details><summary>展开描述 ...</summary> 
+     不要让网站窃取您的数据  
+    </details> 
 <!-- xinquji:END -->
 ## 苹果
 
 <!-- mac52ipod:START -->
+- ⚗️ [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果中国官网宣布了一个限时优惠活动：7月29日到8月1日，使用支付宝/招行/建行/工行卡，在苹果官网在线商店和 Apple Store 零售店买指定的苹果设备有限时优惠：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;iPhone 13 系列优惠 600 元&lt;/li&gt;&lt;li&gt;iPhone SE（第三代）优惠 200 元&lt;/li&gt;&lt;li&gt;iPhone12 和 iPhone12 mini 优惠 500 元&lt;/li&gt;&lt;li&gt;Apple Watch SE 优惠 200 元&lt;/li&gt;&lt;li&gt;AirPods 系列优惠 150-250 元&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;每人每个分类（手机、手表、耳机）限购两台，而且不和商务优惠、员工优惠、教育优惠等其它优惠叠加。&lt;/p&gt;&lt;p&gt;其实我觉得「再过一两个月就换代」的这个时间点有点儿尴尬。就算真的要买，拼多多百亿补贴挺香的。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🚀 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	国内 Android 厂商很喜欢给照片加上机型信息水印，如果是和相机大厂合作的手机，还会打上莱卡、哈苏等相机的水印。最近小米推出了和莱卡合作的机型，拍照后能在照片底部添加莱卡图标和坐标、焦距、光圈、快门、ISO 等信息。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6701&quot; border=&quot;0&quot; alt=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; title=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; /&gt;&lt;/p&gt;&lt;p&gt;如果你也想让苹果 iPhone 拍的照片也有类似水印，可以试试这个叫「徕卡水印」的 iOS 捷径，下载地址 &lt;u&gt;&lt;a href=&quot;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&quot; target=&quot;_blank&quot; title=&quot;莱卡水印&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%258D%25B7%25E5%25BE%2584&quot; rel=&quot;tag&quot;&gt;捷径&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=shortcuts&quot; rel=&quot;tag&quot;&gt;shortcuts&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🧰 [Mac技巧之苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo](http://www.mac52ipod.cn/post/apple-mac-macos-search-launcher-app-alfred-hapigo.php) | Fri Jul 22 2022 10:28 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	苹果电脑 macOS 系统自带了搜索和快速启动工具 Spotlight。如果你想要更多功能，十多年来比较有名的第三方启动器工具是 &lt;u&gt;&lt;a href=&quot;/post/search-open-software-by-keyboard-alfred.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑 Mac OS X 系统上通过键盘快速搜索和启动软件的免费工具：Alfred &quot;&gt;&lt;font color=#0000FF&gt;Alfred&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。最近发现一个 Alfred 的竞争者，功能类似，扩展性也很强：HapiGo。这里有段视频介绍 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Mr4y1U7en&quot; target=&quot;_blank&quot; title=&quot;Hapigo-比肩Alfred的工具终于来了!&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1Mr4y1U7en&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=765396797&amp;bvid=BV1Mr4y1U7en&amp;cid=478586306&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;HapiGo 更详细的介绍，以及下载地址，看官网吧 &lt;u&gt;&lt;a href=&quot;https://hapigo.com/&quot; target=&quot;_blank&quot; title=&quot;苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://hapigo.com/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=alfred&quot; rel=&quot;tag&quot;&gt;alfred&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2588%25E7%258E%2587&quot; rel=&quot;tag&quot;&gt;效率&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%2594%25AE%25E7%259B%2598&quot; rel=&quot;tag&quot;&gt;键盘&lt;/a&gt;
+
+ 
+    </details> 
+
+- 👺 [Apple Watch 用户不在微信运动里显示具体健身数据的方法](http://www.mac52ipod.cn/post/apple-watch-user-only-share-steps-to-wechat-werun.php) | Wed Jul 20 2022 11:14 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	我在微信运动的步数排行榜里，不仅能看到微信好友的步数，还能看到很多戴了 Apple Watch 的好友的每日具体健身数据。如果你只想和好友比比步数的话，打开 iPhone 的健康 App → 隐私 → App → 微信，关掉「体能训练」选项就行了。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6702&quot; border=&quot;0&quot; alt=&quot;Apple Watch 用户不在微信运动里显示具体健身数据的方法&quot; title=&quot;Apple Watch 用户不在微信运动里显示具体健身数据的方法&quot; /&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=applewatch&quot; rel=&quot;tag&quot;&gt;applewatch&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%25BF%2590%25E5%258A%25A8&quot; rel=&quot;tag&quot;&gt;运动&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%2581%25A5%25E8%25BA%25AB&quot; rel=&quot;tag&quot;&gt;健身&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25BE%25AE%25E4%25BF%25A1&quot; rel=&quot;tag&quot;&gt;微信&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%259A%2590%25E7%25A7%2581&quot; rel=&quot;tag&quot;&gt;隐私&lt;/a&gt;
+
+ 
+    </details> 
+
+- 🫣 [Apple新闻之2022年苹果教育优惠开启](http://www.mac52ipod.cn/post/apple-china-back-to-school-2022.php) | Mon Jul 18 2022 2:32 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	每年暑假到秋季开学这段时间，苹果会开启教育优惠活动。今年的中国区教育优惠时间为 7 月 14 日到 9 月 26 日，在校大学生、高考后收到大学录取通知的高三毕业生、在职教师和教职工都能参加。优惠内容包括：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;指定款的 Mac、iPad 价格优惠&lt;/li&gt;&lt;li&gt;购买指定款 Mac 或 iPad 就送第二代 AirPods 无线耳机。可以补差价升级到第三代 AirPods 或 AirPods Pro&lt;/li&gt;&lt;li&gt;Apple Care+ 八折优惠&lt;/li&gt;&lt;li&gt;Final Cut Pro X、Logic Pro X、Motion 5、Compressor 4 和 MainStage 3 这五款专业软件享受教育套装优惠价&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果中国官网的详细说明 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/cn-edu/shop/go/back_to_school&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网 新学期教育优惠活动&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/cn-edu/shop/go/back_to_school&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2599%25E8%2582%25B2&quot; rel=&quot;tag&quot;&gt;教育&lt;/a&gt;
+
+ 
+    </details> 
+
+- 💂 [Mac技巧之在苹果电脑屏幕角落半透明显示股票、基金、外汇、加密货币行情信息：幽灵看盘 - 上班族炒股利器](http://www.mac52ipod.cn/post/apple-mac-macos-app-ghost-stock.php) | Fri Jul 15 2022 7:44 AM 
+    <details><summary>展开描述 ...</summary> 
+    
+ 
+	「幽灵看盘 - 上班族炒股利器」能在电脑屏幕角落里偷偷显示股票、基金、外汇、加密货币行情信息。位置、字号、内容、透明度等都可调。&lt;/p&gt;&lt;p&gt;这软件既有 Windows 版也有 macOS 版，而且更新速度很快，几天就发布一个新版本加上一些新功能。官网下载 &lt;u&gt;&lt;a href=&quot;https://gsweb.codeffect.top/&quot; target=&quot;_blank&quot; title=&quot;幽灵看盘 - 上班族炒股利器&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://gsweb.codeffect.top/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%2582%25A1%25E7%25A5%25A8&quot; rel=&quot;tag&quot;&gt;股票&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%259C%259F%25E8%25B4%25A7&quot; rel=&quot;tag&quot;&gt;期货&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A4%2596%25E6%25B1%2587&quot; rel=&quot;tag&quot;&gt;外汇&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2591%25B8%25E9%25B1%25BC&quot; rel=&quot;tag&quot;&gt;摸鱼&lt;/a&gt;
+
+ 
+    </details> 
 <!-- mac52ipod:END -->
 ## xclient
 
