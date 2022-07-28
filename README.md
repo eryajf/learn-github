@@ -774,34 +774,34 @@ Antonchehov.ru&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 
 ## 新趣集
 
 <!-- xinquji:START -->
-- ⚗️ [Sliderule - 用于风险和欺诈的无代码规则引擎](https://xinquji.com/posts/178289?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:43 AM 
+- ⚗️ [Dope.Link Android App - 使用涂料链接赚钱](https://xinquji.com/posts/178322?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:38 AM 
     <details><summary>展开描述 ...</summary> 
-     用于风险和欺诈的无代码规则引擎  
+     使用涂料链接赚钱  
     </details> 
 
-- 🚀 [Warmy.io - 自动多合一工具，使您的电子邮件渠道可靠](https://xinquji.com/posts/178288?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM 
+- 🚀 [Course Creation Guide by SchoolMaker - 创作者的疯狂完整指南](https://xinquji.com/posts/178321?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:36 AM 
     <details><summary>展开描述 ...</summary> 
-     自动多合一工具，使您的电子邮件渠道可靠  
+     创作者的疯狂完整指南  
     </details> 
 
-- 🧰 [Kreya - 更快地构建和测试 API](https://xinquji.com/posts/178287?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM 
+- 🧰 [KnowledgeBase - 帮助您的支持团队，为客户提供 24/7 自助服务](https://xinquji.com/posts/178320?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:33 AM 
     <details><summary>展开描述 ...</summary> 
-     更快地构建和测试 API  
+     帮助您的支持团队，为客户提供 24/7 自助服务  
     </details> 
 
-- 👺 [Settle - 为电子商务品牌打造的现金流管理](https://xinquji.com/posts/178286?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM 
+- 👺 [FacePlay App - 换脸视频](https://xinquji.com/posts/178319?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     为电子商务品牌打造的现金流管理  
+     换脸视频  
     </details> 
 
-- 🫣 [The Guide To No Code Marketplaces 2.0 - 更新且全面的 50 多页指南](https://xinquji.com/posts/178285?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM 
+- 🫣 [Keyboard Yoga - 不一样的打字教练](https://xinquji.com/posts/178318?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:31 AM 
     <details><summary>展开描述 ...</summary> 
-     更新且全面的 50 多页指南  
+     不一样的打字教练  
     </details> 
 
-- 💂 [df : Digital Fingerprint - 不要让网站窃取您的数据](https://xinquji.com/posts/178284?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:37 AM 
+- 💂 [Firezone &lpar;Beta&rpar; - 在几分钟内为您的团队提供快速的专用网络](https://xinquji.com/posts/178317?utm_campaign=xinquji-rss) | Fri Jul 29 2022 6:29 AM 
     <details><summary>展开描述 ...</summary> 
-     不要让网站窃取您的数据  
+     在几分钟内为您的团队提供快速的专用网络  
     </details> 
 <!-- xinquji:END -->
 ## 苹果
