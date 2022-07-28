@@ -97,9 +97,9 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## 机核
 
 <!-- gcores:START -->
-- ⚗️ [CCS铁魄版《天元突破》罗善岩正式公布](https://www.gcores.com/articles/154240) | Thu Jul 28 2022 2:38 PM
-    <details><summary>展开描述 ...</summary>
-
+- ⚗️ [CCS铁魄版《天元突破》罗善岩正式公布](https://www.gcores.com/articles/154240) | Thu Jul 28 2022 2:38 PM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/60a17015-3f24-48ac-9c47-a4b231d8dd5b.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/c19c317d-b97a-4561-bac9-643cfe8b0410.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;中国本土玩具品牌CCS旗下铁魄产品线近日正式公布正版授权IP衍生商品新品，是《天元突破红莲螺岩》故事中期登场的BOSS专用机体真螺旋王机罗善岩！&lt;/p&gt;&lt;blockquote&gt;为了祝贺电视动画《天元突破》开播15周年，CCS“铁魄”最新作——真螺旋王机罗善岩登场，CCS产品线又添一台绝高人气机体！作为世界守护者，螺旋王罗杰诺姆爱机，终于能以“铁魄”合金涂装完成品姿态与大家见面，前所未有配备OVERLORD爆发形态以及螺旋王王座，内容量螺旋满载！&lt;/blockquote&gt;&lt;div&gt;
 &lt;div&gt;
@@ -111,23 +111,23 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/79627f5a-78d0-4563-b797-3628344da1c7.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/1dc76083-3c77-40cd-8ad6-680bc78a4b0b.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/2795ce26-287f-4e77-ab37-d3ec81bb8e3a.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/660105b5-df35-43b0-bc72-ef67bb5a34ac.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/20980b8e-f786-426a-8884-6203449548dd.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/e28e95da-37e5-4e32-b4ca-40a89a861d0c.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/4a166f16-20e0-499c-9d85-5940419d2605.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;p&gt;王座的设计本属于驾驶员螺旋王罗杰诺姆，这次把王座配给机体，而且进行了与机体风格完全不一样的旧化涂装。CCS产品开发团队以合金质感将机体魄力与魅力的体验拉满的决心，不知道各位感受到了嘛？&lt;/p&gt;&lt;p&gt;商品将在2022年第四季度上市，售价为人民币1,380元。期待商品可以保持CCS铁魄产品品质的前提之下，为玩家们带来更多把玩乐趣，期待大货上市的一些列测评时刻！&lt;/p&gt;&lt;p&gt;更多商品详情请移步CCSTOYS官方微博&lt;a href=&quot;https://m.weibo.cn/detail/4795878105418675&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;商品页面&lt;/span&gt;&lt;/a&gt;了解更多情报。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+       
+    </details> 
 
-    </details>
-
-- 🚀 [策略游戏《战场的赋格曲2》正式公开，2023年发售](https://www.gcores.com/articles/154262) | Thu Jul 28 2022 12:08 PM
-    <details><summary>展开描述 ...</summary>
-
+- 🚀 [策略游戏《战场的赋格曲2》正式公开，2023年发售](https://www.gcores.com/articles/154262) | Thu Jul 28 2022 12:08 PM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/ea40b444-3a03-4e00-96f2-4e9cb11f0e67.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;由 CyberConnect2 开发的 Furry 题材策略 RPG《战场的赋格曲》系列续作《战场的赋格曲2》公开新预告片，本作将于 2023 年登陆 PS4、PS5、Xbox One、Xbox Seies X、Switch 和 PC 平台。 &lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;p&gt;&amp;lt;内嵌内容，请到原网页查看&amp;gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/3236248e-37c9-488c-b80c-95b565d1e810.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/e1ba62aa-9479-4395-90f7-0a52a08562d4.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/aaba7a91-65cd-4268-b9ec-b471c79be86f.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;p&gt;《战场的赋格曲2》承接初代的剧情，在初代的剧情结束一年后。孩子们的战斗仍未结束，他们将登上坦克，继续他们的战争。 《战场的赋格曲 2》将在保持前作优点的同时，特别强化了游戏的战斗系统。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+       
+    </details> 
 
-    </details>
-
-- 🧰 [《数码宝贝 绝境求生》现已登陆主机平台，Steam版明日发售](https://www.gcores.com/articles/154264) | Thu Jul 28 2022 10:41 AM
-    <details><summary>展开描述 ...</summary>
-
+- 🧰 [《数码宝贝 绝境求生》现已登陆主机平台，Steam版明日发售](https://www.gcores.com/articles/154264) | Thu Jul 28 2022 10:41 AM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/bac17717-d680-4924-8ef2-e8fd76c66e92.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;《数码宝贝 绝境求生》是一款文字冒险和策略角色扮演两种玩法相结合的游戏，游戏则会讲述一群少年少女在露营时迷路并被传送到了陌生的异世界，他们为返回原来的世界开始了冒险。本作共有113只数码宝贝，根据选择不同，怪物的进化与故事都会产生变化。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/39bc0b1d-8e4d-48c9-a0f7-840b3362c0dd.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/f1aa3f49-63e0-497f-ab31-e0fcb62eb199.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;首批购买实体与数字版的玩家可以获得特典“基爾獸”与HP支援装备“寵愛結晶”的兑换码，其中基爾獸可以进化为“紅蓮騎士獸”。当怪兽装备“寵愛結晶”时，可以获得“每回合回復HP，發生戰鬥輔助+”的效果。&lt;/p&gt;&lt;div&gt;
@@ -135,23 +135,23 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/2697f3e8-0f2a-486c-8075-52bf4e928d22.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/52cae384-f5bf-452e-bbe6-7df1da131efe.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/a38cb9d7-de4b-4d2d-8178-436b4d28fd59.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+       
+    </details> 
 
-    </details>
-
-- 👺 [PS5即将迎来1440P支持，内测体验今日开启](https://www.gcores.com/articles/154259) | Thu Jul 28 2022 9:24 AM
-    <details><summary>展开描述 ...</summary>
-
+- 👺 [PS5即将迎来1440P支持，内测体验今日开启](https://www.gcores.com/articles/154259) | Thu Jul 28 2022 9:24 AM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/2e57dd38-9978-4fc4-93dd-d1c9618932fa.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;索尼互动娱乐于今日宣布，PS5 即将迎来1440P输出、游戏列表以及更多新功能。索尼表示，这些功能是基于玩家的意见和反馈，计划于今年晚些时候在正式版系统正式实装。即日起，注册测试版预览计划的玩家有机会抢先体验上述功能。 &lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/ae77a87b-e228-47cd-aeec-c4eb406888c8.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;在兼容的显示器和电视上，玩家将可直接在选单中选择1440P，而具体的渲染分辨率取决于游戏。如若游戏支持1440P输出，画面便是原生的1440P。如若游戏不支持原生1440P输出，则画面会从更高分辨率（如4K）超采样得来，从而给玩家带来更佳的保真度。&lt;/p&gt;&lt;div&gt;
 &lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/f33fe8ed-5715-4b6f-83e5-4bf2cb257e70.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/cdadbb75-9c56-4525-ad3d-90b700e3bbd6.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/bac99293-910b-489e-94fc-76c16af852ff.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/43907b8b-c6ab-4217-9fa8-a5453c419ce7.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/7365740e-b2d4-478f-a121-3048f9fb550c.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/bdad1d19-d160-43de-aba9-2db8993be063.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;p&gt;与此同时，玩家将可在游戏库中创建类似文件夹的游戏列表，更为轻松的分类游戏。据悉，玩家可创建至多15个游戏列表，每个最多可容纳100款游戏（包括数字版、光盘游戏以及云游戏）。除此之外，本次新增的功能还包括试听3D音频和立体声的效果、更为便捷的继续此前暂停的游戏进度及社交功能改进等等。&lt;/p&gt;
+       
+    </details> 
 
-    </details>
-
-- 🫣 [经典风格战棋游戏《维斯塔利亚传说2》中文版现已发售](https://www.gcores.com/articles/154260) | Thu Jul 28 2022 9:11 AM
-    <details><summary>展开描述 ...</summary>
-
+- 🫣 [经典风格战棋游戏《维斯塔利亚传说2》中文版现已发售](https://www.gcores.com/articles/154260) | Thu Jul 28 2022 9:11 AM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/9fd26b3b-6004-4b53-856f-729efec14006.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;由 Vestaria Project 开发，Gamera Games发行的经典风格战棋游戏《维斯塔利亚传说2：希尔瓦比西之圣剑》于今日在Steam平台正式发售，支持简体中文，国区定价70元人民币。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;p&gt;&amp;lt;内嵌内容，请到原网页查看&amp;gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;《维斯塔利亚传说2》是由日本游戏业内老将亲自打造的一款传统战棋游戏，其中既有国与国之间的宏大战争，也有人与人之间的尔虞我诈。故事讲述初代主角塞特重新踏上冒险之旅，与前作的老搭档以及邂逅的新伙伴一起，去揭开隐藏在马格尔帝国背后的秘密。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/aa7bf3be-39a9-4fbe-8d05-127dfb23e372.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
@@ -162,15 +162,15 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/5b6e3468-8cbf-40f2-b048-dc729647eea6.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/70ee298a-9b85-4999-8ac4-43085b622986.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;如果你对这类经典风格的战棋游戏情有独钟，那么《维斯塔利亚传说2：希尔瓦比西之圣剑》绝对是一款不容错过的作品，不如现在就购入这款游戏，细细体会这久违的醍醐味。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;p&gt;&amp;lt;内嵌内容，请到原网页查看&amp;gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+       
+    </details> 
 
-    </details>
-
-- 💂 [《镭射：虹色谜城》开发日记32：细化的赏金任务，还有更多款式的空中小摩托](https://www.gcores.com/videos/154101) | Thu Jul 28 2022 9:00 AM
-    <details><summary>展开描述 ...</summary>
-
+- 💂 [《镭射：虹色谜城》开发日记32：细化的赏金任务，还有更多款式的空中小摩托](https://www.gcores.com/videos/154101) | Thu Jul 28 2022 9:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    
         &lt;img src=&quot;https://image.gcores.com/6c9cb5e9-2e32-49d4-a628-dce8c7bc647b.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;大家好~《镭射：虹色谜城》一款旨在向不少赛博朋克经典致敬的，颇具挑战性的平台动作游戏，也是我在成为网页图像设计师，多媒体专家，电影视觉特效师后，作为一名独立游戏人的首部作品。我将不定期为大家带来这部作品的简介和开发近况，希望大家能够喜欢~     &lt;/p&gt;
-
-    </details>
+       
+    </details> 
 <!-- gcores:END -->
 
 
