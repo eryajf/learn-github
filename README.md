@@ -215,34 +215,34 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## cnbeta
 
 <!-- cnbeta:START -->
-- ⚗️ [华硕发布紧凑型手机Zenfone 9 配备类似于万向节的相机稳定功能](https://www.cnbeta.com/articles/tech/1298139.htm) | Thu Jul 28 2022 1:54 PM 
+- ⚗️ [网飞首部大尺度电影：玛丽莲梦露传记《金发美人》官宣 见证盛世美颜](https://hot.cnbeta.com/articles/movie/1298145.htm) | Thu Jul 28 2022 2:41 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;安娜·德·阿玛斯主演、安德鲁·多米尼克执导的玛丽莲·梦露传记片《金发美人》发布新&lt;a class=&quot;f14_link&quot; href=&quot;https://v.youku.com/v_show/id_XNTg4OTM2NjgyMA==.html?spm=a1z3jc.11711052.0.0&amp;isextonly=1&quot; target=&quot;_blank&quot;&gt;预告&lt;/a&gt;，9月28日上线Netflix，该片入围了威尼斯电影节主竞赛。该片是网飞首部大尺度的NC 17原创电影，改编自Joyce Carol Oates的同名小说，以现代名人文化的视角聚焦1950-60年代的梦露。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🚀 [苹果在线商店开始维护明日开启夏日特惠 iPhone 13 立减 600 元](https://www.cnbeta.com/articles/tech/1298143.htm) | Thu Jul 28 2022 2:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;&lt;strong&gt;中国区苹果在线商店开始维护，开始为明日的夏日优惠做准备。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 29 日至 8 月 1 日，用指定支付方式购买符合条件的产品可享立减优惠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 🧰 [苹果宣布未来Mac芯片在以色列开发](https://www.cnbeta.com/articles/tech/1298141.htm) | Thu Jul 28 2022 2:37 PM 
+    <details><summary>展开描述 ...</summary> 
+     &lt;p&gt;苹果芯片人才招聘主管 Elad Wertheimer 今天在 LinkedIn 上宣布，苹果将在以色列 Jerusalem 设立全新开发中心，为未来的 Mac 开发芯片。目前，苹果正在为这里招聘工程师。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
+    </details> 
+
+- 👺 [华硕发布紧凑型手机Zenfone 9 配备类似于万向节的相机稳定功能](https://www.cnbeta.com/articles/tech/1298139.htm) | Thu Jul 28 2022 1:54 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;Zenfone 9和去年的8一样，是市面上已经很罕见的小屏Android手机，优先考虑紧凑的尺寸，而不是最大化屏幕或电池尺寸。&lt;strong&gt;但今年的独到之处是这款手机的相机和稳定系统：不是仅仅移动一个镜头元素来补偿相机的抖动，而是整个主相机--镜头、传感器，所有这些--都会移动。这是一种独特的方法来对抗移动摄影的一些最大敌人：低光和摇晃的视频片段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🚀 [每日优鲜App已经无法下单 无客服在线](https://www.cnbeta.com/articles/tech/1298137.htm) | Thu Jul 28 2022 1:48 PM 
+- 🫣 [每日优鲜App已经无法下单 无客服在线](https://www.cnbeta.com/articles/tech/1298137.htm) | Thu Jul 28 2022 1:48 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;每日优鲜App已经无法下单，虽然仍有商品展示、可加入购物车，但是在结账页面显示“本单购买的商品在当前地址下无货”。新浪科技更换了上海、杭州等多个城市，均显示无货原因无法购买。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 
-- 🧰 [量子星座开启 我国发射世界首颗量子微纳卫星](https://www.cnbeta.com/articles/science/1298135.htm) | Thu Jul 28 2022 1:47 PM 
+- 💂 [量子星座开启 我国发射世界首颗量子微纳卫星](https://www.cnbeta.com/articles/science/1298135.htm) | Thu Jul 28 2022 1:47 PM 
     <details><summary>展开描述 ...</summary> 
      &lt;p&gt;7月27日，世界首颗量子微纳卫星“济南一号”搭载中国科学院“力箭一号”运载火箭成功发射。目前，“济南一号”已进入既定轨道，太阳能帆板已成功打开，即将开展在轨测试工作。据了解，这也是继2016年我国世界首颗量子科学实验卫星“墨子号”升空后，中国发射的第二颗量子通信卫星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 👺 [诺兰史诗级新片《奥本海默》公布首支高清预告：世界被他永久性改变](https://hot.cnbeta.com/articles/movie/1298133.htm) | Thu Jul 28 2022 1:46 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;诺兰导演新片《奥本海默》首支先导预告正式公布：“世界被永久性改变了”，预计于明年7月21日在北美上映。片中基里安·墨菲饰演“原子弹之父”罗伯特·奥本海默，这也是他首次担纲诺兰电影男主，影片定档明年7月21日北美院线公映。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298133.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 🫣 [SK海力士拟年内试产238层NAND闪存](https://www.cnbeta.com/articles/tech/1298131.htm) | Thu Jul 28 2022 1:45 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;SK海力士在近日举行的二季度财报电话会议上透露，计划在年内完成238层NAND试产，并在2023年上半年实现量产。针对美光近期量产232层NAND的动态，海力士方面表示各家厂商产品发布节奏不同，存储市场目前应专注于提高盈利能力，海力士的目标是实现行业最高水平的盈利能力。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298131.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
-
-- 💂 [哈啰回应员工破坏美团电单车：系酒后盲目报复 将要求员工严格遵守法律法规](https://www.cnbeta.com/articles/tech/1298129.htm) | Thu Jul 28 2022 1:45 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月28日晚间消息，针对哈啰昆明城市经理划破70辆美团电单车被拘一事，哈啰出行回应称，系该员工在凌晨酒后做出过激行为。此前，该员工辖区内哈啰车辆出现多起坐垫被划伤、轮胎被拆、车身被拆解报废的情况，该员工盲目报复的行为违反法律，已受到严格处罚。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298129.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
     </details> 
 <!-- cnbeta:END -->
 
