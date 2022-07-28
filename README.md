@@ -11,85 +11,85 @@ this is learn repository.
 ## 台湾
 
 <!-- eryajf:START -->
-- ⚗️ [尋找超級血清 熊的血液藏有增強人類肌肉的祕密](https://dq.yam.com/post/15015?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Wed Jul 27 2022 3:20 AM 
-    <details><summary>展开描述 ...</summary> 
-    人類辛苦訓練出來的一身肌肉，只要3周以上沒有持續鍛鍊就會流失，但科學家測量到，一隻冬眠的熊即便不吃不喝不動長達好幾個月，在冬眠過後，牠的肌肉量仍與冬眠前相差無幾。近期，日本研究團隊發現，冬眠的熊之所以能維持住肌肉量與身體機能，關鍵就隱藏在牠的血液中。 
-    </details> 
+- ⚗️ [尋找超級血清 熊的血液藏有增強人類肌肉的祕密](https://dq.yam.com/post/15015?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Wed Jul 27 2022 3:20 AM
+    <details><summary>展开描述 ...</summary>
+    人類辛苦訓練出來的一身肌肉，只要3周以上沒有持續鍛鍊就會流失，但科學家測量到，一隻冬眠的熊即便不吃不喝不動長達好幾個月，在冬眠過後，牠的肌肉量仍與冬眠前相差無幾。近期，日本研究團隊發現，冬眠的熊之所以能維持住肌肉量與身體機能，關鍵就隱藏在牠的血液中。
+    </details>
 
-- 🚀 [【地球圖書館】尼安德塔人與現代人祖先的「情慾流動」之謎](https://dq.yam.com/post/15014?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Tue Jul 26 2022 2:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    ---本文為地球圖輯隊 X 時報出版合作---數百萬年以來，人類演化到現在只剩下單一個物種——「智人」（Homo Sapiens），但在數萬年前的史前時代，卻曾經有多種不同的古人類生活在地球上，像是尼安德塔人和丹尼索瓦人等，這些人的差異之大，曾被科學家推論是不同的物種，並認為他們不會像現代的白人、黑人、亞洲人一樣，只要雙方合意，看對眼後在一起，就能進行「基因交流」，生下有生育能力的後代。不過在2010年，科學界對史前人類做出古基因組定序，正式揭露了尼安德塔人基因之謎——原來現代人身上都帶有尼人的基因，這證明了尼人曾經和現代人的祖先交配過，而這個結果表示，尼人跟我們今人一樣，應當屬於同一個物種，這個重大發現令不少學者大跌眼鏡！本文摘自賴瑞和著作《人從哪裡來：人類六百萬年的演化史》，以下為摘要選文。 
-    </details> 
+- 🚀 [【地球圖書館】尼安德塔人與現代人祖先的「情慾流動」之謎](https://dq.yam.com/post/15014?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Tue Jul 26 2022 2:55 AM
+    <details><summary>展开描述 ...</summary>
+    ---本文為地球圖輯隊 X 時報出版合作---數百萬年以來，人類演化到現在只剩下單一個物種——「智人」（Homo Sapiens），但在數萬年前的史前時代，卻曾經有多種不同的古人類生活在地球上，像是尼安德塔人和丹尼索瓦人等，這些人的差異之大，曾被科學家推論是不同的物種，並認為他們不會像現代的白人、黑人、亞洲人一樣，只要雙方合意，看對眼後在一起，就能進行「基因交流」，生下有生育能力的後代。不過在2010年，科學界對史前人類做出古基因組定序，正式揭露了尼安德塔人基因之謎——原來現代人身上都帶有尼人的基因，這證明了尼人曾經和現代人的祖先交配過，而這個結果表示，尼人跟我們今人一樣，應當屬於同一個物種，這個重大發現令不少學者大跌眼鏡！本文摘自賴瑞和著作《人從哪裡來：人類六百萬年的演化史》，以下為摘要選文。
+    </details>
 
-- 🧰 [不會讓你絕後？以色列從陣亡士兵身上採集精子創造後代](https://dq.yam.com/post/15013?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Mon Jul 25 2022 3:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    2022年3月，以色列國會一讀通過一項名為《延續性法案》（Continuity Bill）的特別草案。如果士兵在服役期間死亡，該法案將允許陣亡士兵的家屬在72小時內取出過世親人的精子，使家屬能順利孕育逝世親人的後代。 
-    </details> 
+- 🧰 [不會讓你絕後？以色列從陣亡士兵身上採集精子創造後代](https://dq.yam.com/post/15013?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Mon Jul 25 2022 3:49 AM
+    <details><summary>展开描述 ...</summary>
+    2022年3月，以色列國會一讀通過一項名為《延續性法案》（Continuity Bill）的特別草案。如果士兵在服役期間死亡，該法案將允許陣亡士兵的家屬在72小時內取出過世親人的精子，使家屬能順利孕育逝世親人的後代。
+    </details>
 
-- 👺 [亞得里亞海之珠 懶貓處處歲月靜好](https://dq.yam.com/post/15012?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Fri Jul 22 2022 9:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    欣賞杜布羅夫尼克的方法有二，一是買門票，走上高聳城牆，從外圍向內俯瞰老城區的橘瓦石牆。我則愛置身石牆窄巷間，沿著石階上行，來趟充滿人間煙火氣息的徒步散策。 
-    </details> 
+- 👺 [亞得里亞海之珠 懶貓處處歲月靜好](https://dq.yam.com/post/15012?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Fri Jul 22 2022 9:55 AM
+    <details><summary>展开描述 ...</summary>
+    欣賞杜布羅夫尼克的方法有二，一是買門票，走上高聳城牆，從外圍向內俯瞰老城區的橘瓦石牆。我則愛置身石牆窄巷間，沿著石階上行，來趟充滿人間煙火氣息的徒步散策。
+    </details>
 
-- 🫣 [刷牙不用自己來！奈米機器人幫你刷牙、漱口、牙線一次到位](https://dq.yam.com/post/15010?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Fri Jul 22 2022 2:55 AM 
-    <details><summary>展开描述 ...</summary> 
-    吃完飯後刷牙、使用牙線，接著漱口，對於一般人不是特別困難的動作，但對於行動不便或長年臥床的年長者來說，要執行這些步驟並不容易。近期，美國研究團隊開發出一種不需要自己動手刷牙的新科技——奈米機器人，能一次執行刷牙、漱口和牙線的三種功能，為口腔護理保健帶來新進展。 
-    </details> 
+- 🫣 [刷牙不用自己來！奈米機器人幫你刷牙、漱口、牙線一次到位](https://dq.yam.com/post/15010?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Fri Jul 22 2022 2:55 AM
+    <details><summary>展开描述 ...</summary>
+    吃完飯後刷牙、使用牙線，接著漱口，對於一般人不是特別困難的動作，但對於行動不便或長年臥床的年長者來說，要執行這些步驟並不容易。近期，美國研究團隊開發出一種不需要自己動手刷牙的新科技——奈米機器人，能一次執行刷牙、漱口和牙線的三種功能，為口腔護理保健帶來新進展。
+    </details>
 
-- 💂 [躺平之後，中國年輕人的「摩擦性失業」](https://dq.yam.com/post/15011?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Thu Jul 21 2022 4:08 AM 
-    <details><summary>展开描述 ...</summary> 
-    今年中國高校畢業生有1076萬人，是歷史上首次突破千萬人大關，而年輕人失業率也創下歷史新高。對此，中國國家統計局解釋：青年群體初次進入勞動市場，普遍面臨「摩擦性失業」困境......「摩擦性失業」一詞因此衝上中國網上熱門搜尋：「到底啥意思？如何破解？原因為何？」。這究竟是經濟學上的情狀描述，或是中國政府繼「靈活就業」之後再創的新概念；是政府故弄玄虛的文字遊戲或是真實存在於年輕求職者面前的一堵高牆？ 
-    </details> 
+- 💂 [躺平之後，中國年輕人的「摩擦性失業」](https://dq.yam.com/post/15011?utm_source=rss&utm_medium=rss&utm_campaign=rss) | Thu Jul 21 2022 4:08 AM
+    <details><summary>展开描述 ...</summary>
+    今年中國高校畢業生有1076萬人，是歷史上首次突破千萬人大關，而年輕人失業率也創下歷史新高。對此，中國國家統計局解釋：青年群體初次進入勞動市場，普遍面臨「摩擦性失業」困境......「摩擦性失業」一詞因此衝上中國網上熱門搜尋：「到底啥意思？如何破解？原因為何？」。這究竟是經濟學上的情狀描述，或是中國政府繼「靈活就業」之後再創的新概念；是政府故弄玄虛的文字遊戲或是真實存在於年輕求職者面前的一堵高牆？
+    </details>
 <!-- eryajf:END -->
 
 ## 异次元软件
 
 <!-- iplaysoft:START -->
-- ⚗️ [腾讯 Mac 柠檬清理 - 免费开源了！良心简洁的苹果 macOS 垃圾清理/系统优化工具](https://www.iplaysoft.com/lemon-cleaner.html) | Mon Jul 25 2022 11:32 AM 
-    <details><summary>展开描述 ...</summary> 
+- ⚗️ [腾讯 Mac 柠檬清理 - 免费开源了！良心简洁的苹果 macOS 垃圾清理/系统优化工具](https://www.iplaysoft.com/lemon-cleaner.html) | Mon Jul 25 2022 11:32 AM
+    <details><summary>展开描述 ...</summary>
     &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.iplaysoft.com/lemon-cleaner.html&quot;&gt;&lt;img src=&quot;https://img.iplaysoft.com/wp-content/uploads/2022/lemon-cleaner/lemon_cleaner_banner.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;腾讯柠檬清理 &lpar;&lt;strong&gt;Lemon Cleaner&lt;/strong&gt;&rpar; 是一款由&lt;a href=&quot;https://www.iplaysoft.com/tag/腾讯&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;腾讯&lt;/a&gt;开发，针对苹果 &lt;a href=&quot;https://www.iplaysoft.com/go/mac&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Mac&lt;/a&gt; 电脑专门定制的免费简洁的 &lt;a href=&quot;https://www.iplaysoft.com/go/macos&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;macOS&lt;/a&gt; 系统垃圾清理和系统优化类工具，类似知名的 &lt;a href=&quot;https://www.iplaysoft.com/cleanmymac.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CleanMyMac&lt;/a&gt;、&lt;a href=&quot;https://www.iplaysoft.com/go/macbooster&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;MacBooster&lt;/a&gt; 软件。&lt;/p&gt;
 &lt;p&gt;由于 MacBook 等机型一般都是配备高速的 &lt;a href=&quot;https://www.iplaysoft.com/go/ssd&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;SSD&lt;/a&gt; 固态硬盘且容量较小，所以存储空间的管理、软件卸载清理等都是刚需。过去我们要付费购买 &lt;a href=&quot;https://www.iplaysoft.com/cleanmymac.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;CMM&lt;/a&gt; 等软件，而现在，腾讯将旗下的腾讯柠檬清理的代码&lt;a href=&quot;https://www.iplaysoft.com/tag/开源&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;开源&lt;/a&gt;了！意味着广大的 Mac 用户又多了一个不错的&lt;a href=&quot;https://www.iplaysoft.com/tag/清理&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;清理&lt;/a&gt;利器可以选择……&lt;/p&gt;
-&lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/lemon-cleaner.html&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:16px 0;&quot; /&gt;异次元还有这些值得一看：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/macbooster.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;MacBooster 7 中文版 - 更好用的高性价比苹果 macOS 系统优化垃圾清理工具&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/cleanmymac.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;CleanMyMac X 中文版 - 让 Mac 更流畅好用的垃圾清理系统优化应用&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/google-files-go.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;Google 文件极客 - 谷歌官方安卓垃圾清理应用 Files Go 中国特别版&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/revo-uninstaller-pro.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;Revo Uninstaller Pro 4 - 真正彻底卸载软件不留垃圾的强大神器！&lpar;清理安装残留文件/注册表&rpar;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt; 
-    </details> 
+&lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/lemon-cleaner.html&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:16px 0;&quot; /&gt;异次元还有这些值得一看：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/macbooster.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;MacBooster 7 中文版 - 更好用的高性价比苹果 macOS 系统优化垃圾清理工具&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/cleanmymac.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;CleanMyMac X 中文版 - 让 Mac 更流畅好用的垃圾清理系统优化应用&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/google-files-go.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;Google 文件极客 - 谷歌官方安卓垃圾清理应用 Files Go 中国特别版&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/revo-uninstaller-pro.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;Revo Uninstaller Pro 4 - 真正彻底卸载软件不留垃圾的强大神器！&lpar;清理安装残留文件/注册表&rpar;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt;
+    </details>
 
-- 🚀 [新版 Typora 来袭！优秀 Markdown 编辑器券后仅 84 元](https://www.iplaysoft.com/news/5744) | Mon Jul 25 2022 9:16 AM 
-    <details><summary>展开描述 ...</summary> 
+- 🚀 [新版 Typora 来袭！优秀 Markdown 编辑器券后仅 84 元](https://www.iplaysoft.com/news/5744) | Mon Jul 25 2022 9:16 AM
+    <details><summary>展开描述 ...</summary>
     &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.iplaysoft.com/news/5744&quot;&gt;&lt;img src=&quot;https://img.iplaysoft.com/wp-content/uploads/2022/news/5744/img1.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;Typora 是一款非常受欢迎的跨平台 Markdown 编辑器，其流畅的编辑模式深受用户喜爱。而且官方非常厚道！在发布了收费正式版后，原本免费的测试版并未停止提供，用户可自由选择。不过，正式版一直在不断地更新迭代，现在发布的 1.3 版已经比以前完善了许多，非常值得入正。
 
-如果你工作生活经常需…… &lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/news/5744&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt; 
-    </details> 
+如果你工作生活经常需…… &lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/news/5744&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt;
+    </details>
 
-- 🧰 [媲美真人配音！微软语音合成助手 - 免费文字转换音频的 TTS 工具 &lpar;发音更有感情&rpar;](https://www.iplaysoft.com/azure-tts.html) | Thu Jul 21 2022 6:04 PM 
-    <details><summary>展开描述 ...</summary> 
+- 🧰 [媲美真人配音！微软语音合成助手 - 免费文字转换音频的 TTS 工具 &lpar;发音更有感情&rpar;](https://www.iplaysoft.com/azure-tts.html) | Thu Jul 21 2022 6:04 PM
+    <details><summary>展开描述 ...</summary>
     &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.iplaysoft.com/azure-tts.html&quot;&gt;&lt;img src=&quot;https://img.iplaysoft.com/wp-content/uploads/2022/azure-tts/azuretts_banner.jpg&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;AI 技术在飞速发展，比如美颜换脸、&lt;a href=&quot;https://www.iplaysoft.com/tag/ocr&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;文字识别&lt;/a&gt;、&lt;a href=&quot;https://www.iplaysoft.com/tag/语音&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;语音识别&lt;/a&gt;、&lt;a href=&quot;https://www.iplaysoft.com/tag/抠图&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;移除图片背景&lt;/a&gt;、自动驾驶等等都在&lt;a href=&quot;https://www.iplaysoft.com/tag/生活&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;生活&lt;/a&gt;的各个方面起到了应用。而「&lt;strong&gt;语音合成 TTS&lt;/strong&gt;」方面，如今实用性也已非常惊人了。&lt;/p&gt;
 &lt;p&gt;像&lt;a href=&quot;https://www.iplaysoft.com/go/qcloud&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;腾讯云&lt;/a&gt;、&lt;a href=&quot;https://www.iplaysoft.com/go/aliyun&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;阿里云&lt;/a&gt;、百度云等都推出&lt;strong&gt;文字转语音&lt;/strong&gt;在线服务 API，但合成的人声大多时候都很容易听出“机器人味”。而&lt;a href=&quot;https://www.iplaysoft.com/tag/微软&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;微软&lt;/a&gt;的 &lt;strong&gt;Azure TTS 文本转语音服务&lt;/strong&gt;效果就比较让人惊叹了！它拥有多种&lt;a href=&quot;https://www.iplaysoft.com/tag/声音&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;声音&lt;/a&gt;和情感风格，能像真人一样朗读出抑扬顿挫，使得合成的人声非常逼真自然，不妨来看看……&lt;/p&gt;
-&lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/azure-tts.html&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:16px 0;&quot; /&gt;异次元还有这些值得一看：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/jianwai.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;免费自动视频加字幕和生成翻译的工具 - 网易见外工作台 &lpar;AI 智能识别语音&rpar;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/handbrake.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;HandBrake 中文版 - 开源免费视频格式转换/压缩转码压制工具 &lpar;跨平台&rpar;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/apower-video-editor.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;Apowersoft 视频编辑王 - 快速分割/剪辑/合并/缩放/裁剪/加马赛克等多轨道编辑器&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/gilisoft-video-editor.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;GiliSoft Video Editor 强大易用的视频编辑器工具软件中文版 &lpar;视频截取/合并/加水印/字幕等&rpar;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt; 
-    </details> 
+&lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/azure-tts.html&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:16px 0;&quot; /&gt;异次元还有这些值得一看：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/jianwai.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;免费自动视频加字幕和生成翻译的工具 - 网易见外工作台 &lpar;AI 智能识别语音&rpar;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/handbrake.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;HandBrake 中文版 - 开源免费视频格式转换/压缩转码压制工具 &lpar;跨平台&rpar;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/apower-video-editor.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;Apowersoft 视频编辑王 - 快速分割/剪辑/合并/缩放/裁剪/加马赛克等多轨道编辑器&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/gilisoft-video-editor.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;GiliSoft Video Editor 强大易用的视频编辑器工具软件中文版 &lpar;视频截取/合并/加水印/字幕等&rpar;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt;
+    </details>
 
-- 👺 [Fences / Snipaste / Groupy / BitDock 等多款正版软件冰点低价](https://www.iplaysoft.com/news/5741) | Tue Jul 19 2022 10:37 AM 
-    <details><summary>展开描述 ...</summary> 
+- 👺 [Fences / Snipaste / Groupy / BitDock 等多款正版软件冰点低价](https://www.iplaysoft.com/news/5741) | Tue Jul 19 2022 10:37 AM
+    <details><summary>展开描述 ...</summary>
     &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.iplaysoft.com/news/5741&quot;&gt;&lt;img src=&quot;https://img.iplaysoft.com/wp-content/uploads/2022/news/5741/app_sale_july.jpg&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;最近炎炎夏日，酷暑难耐，这次咱们带来了一堆实用正版软件的“七月冰点”优惠，好让大家入手心仪的软件，清凉清凉一下。
 
 这次参与暑期特卖的正版应用有不少，像 Parallels Desktop 以及 Fences、Snipaste 等都是都是很多人一直放在购物车等打折的，不妨都来看看这些好价产品吧：
 
-Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/news/5741&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt; 
-    </details> 
+Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/news/5741&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt;
+    </details>
 
-- 🫣 [群晖 NAS 升级 2.5G 网卡方法教程 - 简单操作！低成本让速度飙升 280MB/s 极速！](https://www.iplaysoft.com/synology-nas-25g.html) | Mon Jul 18 2022 10:03 AM 
-    <details><summary>展开描述 ...</summary> 
+- 🫣 [群晖 NAS 升级 2.5G 网卡方法教程 - 简单操作！低成本让速度飙升 280MB/s 极速！](https://www.iplaysoft.com/synology-nas-25g.html) | Mon Jul 18 2022 10:03 AM
+    <details><summary>展开描述 ...</summary>
     &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.iplaysoft.com/synology-nas-25g.html&quot;&gt;&lt;img src=&quot;https://img.iplaysoft.com/wp-content/uploads/2022/synology-nas-25gbe/synology_25g_banner.jpg&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;迫于最近 &lt;a href=&quot;https://www.iplaysoft.com/go/nas&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;NAS&lt;/a&gt; 拷贝复制大文件速度太慢，决定对「&lt;a href=&quot;https://www.iplaysoft.com/go/synology&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;群晖&lt;/a&gt;」网卡进行升级。最初考虑全部换成 10GbE &lt;a href=&quot;https://www.iplaysoft.com/go/10gbrouter&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;万兆&lt;/a&gt; ，但经过一番了解后，发现现阶段全链路换万兆设备的总成本实在过高。&lt;/p&gt;
 &lt;p&gt;经过综合考虑，决定将群晖 NAS &lt;a href=&quot;https://www.iplaysoft.com/tag/升级&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;升级&lt;/a&gt;到 2.5Gb 网络 &lpar;2500Mbps&rpar; ，不仅改造简单，成本也相对低廉许多，但速度提升却依然显著！传输速度轻松上 250~280MB/s。本文以我的群晖 DS1819+ 升级 &lt;strong&gt;USB 2.5GbE 网卡&lt;/strong&gt;为例，已稳定几周，黑群晖或其他品牌 &lt;a href=&quot;https://www.iplaysoft.com/tag/nas&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;NAS&lt;/a&gt; 都可作为参考……&lt;/p&gt;
-&lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/synology-nas-25g.html&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:16px 0;&quot; /&gt;异次元还有这些值得一看：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/fix-wifi-offline-issue.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;彻底解决智能设备 2.4G WiFi 经常掉线离线和信号干扰卡顿问题 &lpar;华硕路由器/梅林固件设置&rpar;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/shu-mei-pai-chuan-tou.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;免费内网穿透工具教程 - 利用树莓派和无公网 IP 宽带，实现低成本自建网站&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/synology-dsm.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;群晖 DSM 7.0 正式版固件发布下载 - 升级 NAS 操作系统教程 &lpar;Synology&rpar;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/baidu-wang-pan-ti-su.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;百度网盘官方最新“免费不限速”方法！免破解无需会员下载提速/客户端加速设置&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt; 
-    </details> 
+&lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/synology-nas-25g.html&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:16px 0;&quot; /&gt;异次元还有这些值得一看：&lt;br/&gt;&lt;ul&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/fix-wifi-offline-issue.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;彻底解决智能设备 2.4G WiFi 经常掉线离线和信号干扰卡顿问题 &lpar;华硕路由器/梅林固件设置&rpar;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/shu-mei-pai-chuan-tou.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;免费内网穿透工具教程 - 利用树莓派和无公网 IP 宽带，实现低成本自建网站&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/synology-dsm.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;群晖 DSM 7.0 正式版固件发布下载 - 升级 NAS 操作系统教程 &lpar;Synology&rpar;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a rel=&quot;bookmark&quot; href=&quot;https://www.iplaysoft.com/baidu-wang-pan-ti-su.html&quot;&gt;&lt;i class=&quot;ipsicon ipsicon-arrowright ipsicon-rspace&quot;&gt;&lt;/i&gt;百度网盘官方最新“免费不限速”方法！免破解无需会员下载提速/客户端加速设置&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt;
+    </details>
 
-- 💂 [支付宝又疯了！红包金额大增！无套路每天能领，直接当钱用](https://www.iplaysoft.com/news/3586) | Fri Jul 15 2022 5:02 AM 
-    <details><summary>展开描述 ...</summary> 
+- 💂 [支付宝又疯了！红包金额大增！无套路每天能领，直接当钱用](https://www.iplaysoft.com/news/3586) | Fri Jul 15 2022 5:02 AM
+    <details><summary>展开描述 ...</summary>
     &lt;p align=&quot;center&quot;&gt;&lt;a href=&quot;https://www.iplaysoft.com/news/3586&quot;&gt;&lt;img src=&quot;https://img.iplaysoft.com/wp-content/uploads/2017/news/3586/alipay_qr_v6.png&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 竞争对手「微信支付」和银联「云闪付」的不断发力，使得「支付宝」受到了不小压力。为了赢得更多用户，支付宝重新开启了「扫码送红包」的官方活动，每人每天都能扫码领取红包，可在线下支付当现金用！没有套路！而且部分同学还能很容易能领到几块甚至十几块钱的红包。
 
 
-方法 1：用手机支…… &lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/news/3586&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt; 
-    </details> 
+方法 1：用手机支…… &lt;p&gt;「 &lt;a href=&quot;https://www.iplaysoft.com/news/3586&quot;&gt;前往查看原文....&lt;/a&gt; 」&lt;/p&gt;&lt;hr style=&quot;border:none;height:1px;border-top:1px solid #DCDCDC;margin:5px 0;&quot; /&gt;&lt;p&gt;&lt;a target=&quot;_blank&quot; title=&quot;异次元正版数字商城&quot; href=&quot;https://www.iplaysoft.com/go/store&quot;&gt;异次元正版数字商城&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;异次元软件世界&quot; href=&quot;https://www.iplaysoft.com&quot;&gt;异次元首页&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;https://www.iplaysoft.com/go/wechat&quot;&gt;微信公众号&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;iPc.me&quot; href=&quot;https://www.ipcfun.com&quot;&gt;iPcFun&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;新浪微博&quot; href=&quot;https://weibo.com/xforce&quot;&gt;关注微博&lt;/a&gt;&amp;nbsp;&amp;nbsp;|&amp;nbsp;&amp;nbsp;&lt;a target=&quot;_blank&quot; title=&quot;软件精选&quot; href=&quot;https://www.iplaysoft.com/tag/store&quot;&gt;软件精选&lt;/a&gt;&lt;/p&gt;
+    </details>
 <!-- iplaysoft:END -->
 
 
@@ -97,9 +97,9 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## 机核
 
 <!-- gcores:START -->
-- ⚗️ [CCS铁魄版《天元突破》罗善岩正式公布](https://www.gcores.com/articles/154240) | Thu Jul 28 2022 2:38 PM 
-    <details><summary>展开描述 ...</summary> 
-    
+- ⚗️ [CCS铁魄版《天元突破》罗善岩正式公布](https://www.gcores.com/articles/154240) | Thu Jul 28 2022 2:38 PM
+    <details><summary>展开描述 ...</summary>
+
         &lt;img src=&quot;https://image.gcores.com/60a17015-3f24-48ac-9c47-a4b231d8dd5b.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/c19c317d-b97a-4561-bac9-643cfe8b0410.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;中国本土玩具品牌CCS旗下铁魄产品线近日正式公布正版授权IP衍生商品新品，是《天元突破红莲螺岩》故事中期登场的BOSS专用机体真螺旋王机罗善岩！&lt;/p&gt;&lt;blockquote&gt;为了祝贺电视动画《天元突破》开播15周年，CCS“铁魄”最新作——真螺旋王机罗善岩登场，CCS产品线又添一台绝高人气机体！作为世界守护者，螺旋王罗杰诺姆爱机，终于能以“铁魄”合金涂装完成品姿态与大家见面，前所未有配备OVERLORD爆发形态以及螺旋王王座，内容量螺旋满载！&lt;/blockquote&gt;&lt;div&gt;
 &lt;div&gt;
@@ -111,23 +111,23 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/79627f5a-78d0-4563-b797-3628344da1c7.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/1dc76083-3c77-40cd-8ad6-680bc78a4b0b.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/2795ce26-287f-4e77-ab37-d3ec81bb8e3a.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/660105b5-df35-43b0-bc72-ef67bb5a34ac.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/20980b8e-f786-426a-8884-6203449548dd.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/e28e95da-37e5-4e32-b4ca-40a89a861d0c.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/4a166f16-20e0-499c-9d85-5940419d2605.gif?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;p&gt;王座的设计本属于驾驶员螺旋王罗杰诺姆，这次把王座配给机体，而且进行了与机体风格完全不一样的旧化涂装。CCS产品开发团队以合金质感将机体魄力与魅力的体验拉满的决心，不知道各位感受到了嘛？&lt;/p&gt;&lt;p&gt;商品将在2022年第四季度上市，售价为人民币1,380元。期待商品可以保持CCS铁魄产品品质的前提之下，为玩家们带来更多把玩乐趣，期待大货上市的一些列测评时刻！&lt;/p&gt;&lt;p&gt;更多商品详情请移步CCSTOYS官方微博&lt;a href=&quot;https://m.weibo.cn/detail/4795878105418675&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;商品页面&lt;/span&gt;&lt;/a&gt;了解更多情报。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-       
-    </details> 
 
-- 🚀 [策略游戏《战场的赋格曲2》正式公开，2023年发售](https://www.gcores.com/articles/154262) | Thu Jul 28 2022 12:08 PM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 🚀 [策略游戏《战场的赋格曲2》正式公开，2023年发售](https://www.gcores.com/articles/154262) | Thu Jul 28 2022 12:08 PM
+    <details><summary>展开描述 ...</summary>
+
         &lt;img src=&quot;https://image.gcores.com/ea40b444-3a03-4e00-96f2-4e9cb11f0e67.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;由 CyberConnect2 开发的 Furry 题材策略 RPG《战场的赋格曲》系列续作《战场的赋格曲2》公开新预告片，本作将于 2023 年登陆 PS4、PS5、Xbox One、Xbox Seies X、Switch 和 PC 平台。 &lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;p&gt;&amp;lt;内嵌内容，请到原网页查看&amp;gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/3236248e-37c9-488c-b80c-95b565d1e810.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/e1ba62aa-9479-4395-90f7-0a52a08562d4.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/aaba7a91-65cd-4268-b9ec-b471c79be86f.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;p&gt;《战场的赋格曲2》承接初代的剧情，在初代的剧情结束一年后。孩子们的战斗仍未结束，他们将登上坦克，继续他们的战争。 《战场的赋格曲 2》将在保持前作优点的同时，特别强化了游戏的战斗系统。&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
-       
-    </details> 
 
-- 🧰 [《数码宝贝 绝境求生》现已登陆主机平台，Steam版明日发售](https://www.gcores.com/articles/154264) | Thu Jul 28 2022 10:41 AM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 🧰 [《数码宝贝 绝境求生》现已登陆主机平台，Steam版明日发售](https://www.gcores.com/articles/154264) | Thu Jul 28 2022 10:41 AM
+    <details><summary>展开描述 ...</summary>
+
         &lt;img src=&quot;https://image.gcores.com/bac17717-d680-4924-8ef2-e8fd76c66e92.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;《数码宝贝 绝境求生》是一款文字冒险和策略角色扮演两种玩法相结合的游戏，游戏则会讲述一群少年少女在露营时迷路并被传送到了陌生的异世界，他们为返回原来的世界开始了冒险。本作共有113只数码宝贝，根据选择不同，怪物的进化与故事都会产生变化。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/39bc0b1d-8e4d-48c9-a0f7-840b3362c0dd.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/f1aa3f49-63e0-497f-ab31-e0fcb62eb199.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;首批购买实体与数字版的玩家可以获得特典“基爾獸”与HP支援装备“寵愛結晶”的兑换码，其中基爾獸可以进化为“紅蓮騎士獸”。当怪兽装备“寵愛結晶”时，可以获得“每回合回復HP，發生戰鬥輔助+”的效果。&lt;/p&gt;&lt;div&gt;
@@ -135,23 +135,23 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/2697f3e8-0f2a-486c-8075-52bf4e928d22.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/52cae384-f5bf-452e-bbe6-7df1da131efe.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/a38cb9d7-de4b-4d2d-8178-436b4d28fd59.JPG?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-       
-    </details> 
 
-- 👺 [PS5即将迎来1440P支持，内测体验今日开启](https://www.gcores.com/articles/154259) | Thu Jul 28 2022 9:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 👺 [PS5即将迎来1440P支持，内测体验今日开启](https://www.gcores.com/articles/154259) | Thu Jul 28 2022 9:24 AM
+    <details><summary>展开描述 ...</summary>
+
         &lt;img src=&quot;https://image.gcores.com/2e57dd38-9978-4fc4-93dd-d1c9618932fa.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;索尼互动娱乐于今日宣布，PS5 即将迎来1440P输出、游戏列表以及更多新功能。索尼表示，这些功能是基于玩家的意见和反馈，计划于今年晚些时候在正式版系统正式实装。即日起，注册测试版预览计划的玩家有机会抢先体验上述功能。 &lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/ae77a87b-e228-47cd-aeec-c4eb406888c8.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;在兼容的显示器和电视上，玩家将可直接在选单中选择1440P，而具体的渲染分辨率取决于游戏。如若游戏支持1440P输出，画面便是原生的1440P。如若游戏不支持原生1440P输出，则画面会从更高分辨率（如4K）超采样得来，从而给玩家带来更佳的保真度。&lt;/p&gt;&lt;div&gt;
 &lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/f33fe8ed-5715-4b6f-83e5-4bf2cb257e70.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/cdadbb75-9c56-4525-ad3d-90b700e3bbd6.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/bac99293-910b-489e-94fc-76c16af852ff.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/43907b8b-c6ab-4217-9fa8-a5453c419ce7.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/7365740e-b2d4-478f-a121-3048f9fb550c.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/bdad1d19-d160-43de-aba9-2db8993be063.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;p&gt;与此同时，玩家将可在游戏库中创建类似文件夹的游戏列表，更为轻松的分类游戏。据悉，玩家可创建至多15个游戏列表，每个最多可容纳100款游戏（包括数字版、光盘游戏以及云游戏）。除此之外，本次新增的功能还包括试听3D音频和立体声的效果、更为便捷的继续此前暂停的游戏进度及社交功能改进等等。&lt;/p&gt;
-       
-    </details> 
 
-- 🫣 [经典风格战棋游戏《维斯塔利亚传说2》中文版现已发售](https://www.gcores.com/articles/154260) | Thu Jul 28 2022 9:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 🫣 [经典风格战棋游戏《维斯塔利亚传说2》中文版现已发售](https://www.gcores.com/articles/154260) | Thu Jul 28 2022 9:11 AM
+    <details><summary>展开描述 ...</summary>
+
         &lt;img src=&quot;https://image.gcores.com/9fd26b3b-6004-4b53-856f-729efec14006.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;由 Vestaria Project 开发，Gamera Games发行的经典风格战棋游戏《维斯塔利亚传说2：希尔瓦比西之圣剑》于今日在Steam平台正式发售，支持简体中文，国区定价70元人民币。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;p&gt;&amp;lt;内嵌内容，请到原网页查看&amp;gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;《维斯塔利亚传说2》是由日本游戏业内老将亲自打造的一款传统战棋游戏，其中既有国与国之间的宏大战争，也有人与人之间的尔虞我诈。故事讲述初代主角塞特重新踏上冒险之旅，与前作的老搭档以及邂逅的新伙伴一起，去揭开隐藏在马格尔帝国背后的秘密。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/aa7bf3be-39a9-4fbe-8d05-127dfb23e372.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
@@ -162,15 +162,15 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/5b6e3468-8cbf-40f2-b048-dc729647eea6.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;div&gt;
 &lt;figure&gt;&lt;img src=&quot;https://image.gcores.com/70ee298a-9b85-4999-8ac4-43085b622986.jpg?x-oss-process=image/resize,limit_1,m_lfit,w_700,h_2000/quality,q_90/watermark,image_d2F0ZXJtYXJrLnBuZw,g_se,x_10,y_10&quot; alt=&quot;&quot;&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;如果你对这类经典风格的战棋游戏情有独钟，那么《维斯塔利亚传说2：希尔瓦比西之圣剑》绝对是一款不容错过的作品，不如现在就购入这款游戏，细细体会这久违的醍醐味。&lt;/p&gt;&lt;div&gt;
 &lt;figure&gt;&lt;p&gt;&amp;lt;内嵌内容，请到原网页查看&amp;gt;&lt;/p&gt;&lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
-       
-    </details> 
 
-- 💂 [《镭射：虹色谜城》开发日记32：细化的赏金任务，还有更多款式的空中小摩托](https://www.gcores.com/videos/154101) | Thu Jul 28 2022 9:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 💂 [《镭射：虹色谜城》开发日记32：细化的赏金任务，还有更多款式的空中小摩托](https://www.gcores.com/videos/154101) | Thu Jul 28 2022 9:00 AM
+    <details><summary>展开描述 ...</summary>
+
         &lt;img src=&quot;https://image.gcores.com/6c9cb5e9-2e32-49d4-a628-dce8c7bc647b.jpg?x-oss-process=image/resize,limit_1,m_fill,w_626,h_292/quality,q_90&quot; /&gt;&lt;p&gt;大家好~《镭射：虹色谜城》一款旨在向不少赛博朋克经典致敬的，颇具挑战性的平台动作游戏，也是我在成为网页图像设计师，多媒体专家，电影视觉特效师后，作为一名独立游戏人的首部作品。我将不定期为大家带来这部作品的简介和开发近况，希望大家能够喜欢~     &lt;/p&gt;
-       
-    </details> 
+
+    </details>
 <!-- gcores:END -->
 
 
@@ -178,35 +178,35 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## 煎蛋
 
 <!-- jandan:START -->
-- ⚗️ [No More Ransom 对抗加密劫持勒索软件的网站](http://jandan.net/p/111046) | Thu Jul 28 2022 9:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    欧洲刑警组织、荷兰国家警察局以及多家网络安全和IT公司于 2016 年联合发起No More Ransom 项目 
-    </details> 
+- ⚗️ [No More Ransom 对抗加密劫持勒索软件的网站](http://jandan.net/p/111046) | Thu Jul 28 2022 9:03 AM
+    <details><summary>展开描述 ...</summary>
+    欧洲刑警组织、荷兰国家警察局以及多家网络安全和IT公司于 2016 年联合发起No More Ransom 项目
+    </details>
 
-- 🚀 [冒犯式喜剧人已经灭绝了吗？](http://jandan.net/p/111057) | Thu Jul 28 2022 8:17 AM 
-    <details><summary>展开描述 ...</summary> 
-    冒犯式喜剧人也是网络时代的受害者 
-    </details> 
+- 🚀 [冒犯式喜剧人已经灭绝了吗？](http://jandan.net/p/111057) | Thu Jul 28 2022 8:17 AM
+    <details><summary>展开描述 ...</summary>
+    冒犯式喜剧人也是网络时代的受害者
+    </details>
 
-- 🧰 [也吃素的鲸鲨 现在已知最大的杂食动物](http://jandan.net/p/111039) | Thu Jul 28 2022 4:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    挺有颠覆性的，鲸鲨似乎以海藻为主食，而非之前公认的磷虾，虽然它们确实吞下去了大量磷虾 
-    </details> 
+- 🧰 [也吃素的鲸鲨 现在已知最大的杂食动物](http://jandan.net/p/111039) | Thu Jul 28 2022 4:00 AM
+    <details><summary>展开描述 ...</summary>
+    挺有颠覆性的，鲸鲨似乎以海藻为主食，而非之前公认的磷虾，虽然它们确实吞下去了大量磷虾
+    </details>
 
-- 👺 [今日好价 0728](http://jandan.net/p/111055) | Thu Jul 28 2022 2:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    ZSBD 
-    </details> 
+- 👺 [今日好价 0728](http://jandan.net/p/111055) | Thu Jul 28 2022 2:47 AM
+    <details><summary>展开描述 ...</summary>
+    ZSBD
+    </details>
 
-- 🫣 [木星为何没有土星那样壮丽的环](http://jandan.net/p/111038) | Wed Jul 27 2022 2:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    木星的又薄又小，只有在太阳的背光下才能被看到，非常可怜。 
-    </details> 
+- 🫣 [木星为何没有土星那样壮丽的环](http://jandan.net/p/111038) | Wed Jul 27 2022 2:51 PM
+    <details><summary>展开描述 ...</summary>
+    木星的又薄又小，只有在太阳的背光下才能被看到，非常可怜。
+    </details>
 
-- 💂 [新发现：哺乳动物可以通过肠道呼吸](http://jandan.net/p/111051) | Wed Jul 27 2022 11:42 AM 
-    <details><summary>展开描述 ...</summary> 
-    少数水生动物如海参和鲶鱼能通过肠道呼吸，而人类的肠道组织可以很容易地吸收药物。 
-    </details> 
+- 💂 [新发现：哺乳动物可以通过肠道呼吸](http://jandan.net/p/111051) | Wed Jul 27 2022 11:42 AM
+    <details><summary>展开描述 ...</summary>
+    少数水生动物如海参和鲶鱼能通过肠道呼吸，而人类的肠道组织可以很容易地吸收药物。
+    </details>
 <!-- jandan:END -->
 
 
@@ -215,70 +215,70 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## cnbeta
 
 <!-- cnbeta:START -->
-- ⚗️ [网飞首部大尺度电影：玛丽莲梦露传记《金发美人》官宣 见证盛世美颜](https://hot.cnbeta.com/articles/movie/1298145.htm) | Thu Jul 28 2022 2:41 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;安娜·德·阿玛斯主演、安德鲁·多米尼克执导的玛丽莲·梦露传记片《金发美人》发布新&lt;a class=&quot;f14_link&quot; href=&quot;https://v.youku.com/v_show/id_XNTg4OTM2NjgyMA==.html?spm=a1z3jc.11711052.0.0&amp;isextonly=1&quot; target=&quot;_blank&quot;&gt;预告&lt;/a&gt;，9月28日上线Netflix，该片入围了威尼斯电影节主竞赛。该片是网飞首部大尺度的NC 17原创电影，改编自Joyce Carol Oates的同名小说，以现代名人文化的视角聚焦1950-60年代的梦露。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- ⚗️ [网飞首部大尺度电影：玛丽莲梦露传记《金发美人》官宣 见证盛世美颜](https://hot.cnbeta.com/articles/movie/1298145.htm) | Thu Jul 28 2022 2:41 PM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;安娜·德·阿玛斯主演、安德鲁·多米尼克执导的玛丽莲·梦露传记片《金发美人》发布新&lt;a class=&quot;f14_link&quot; href=&quot;https://v.youku.com/v_show/id_XNTg4OTM2NjgyMA==.html?spm=a1z3jc.11711052.0.0&amp;isextonly=1&quot; target=&quot;_blank&quot;&gt;预告&lt;/a&gt;，9月28日上线Netflix，该片入围了威尼斯电影节主竞赛。该片是网飞首部大尺度的NC 17原创电影，改编自Joyce Carol Oates的同名小说，以现代名人文化的视角聚焦1950-60年代的梦露。&lt;/p&gt; &lt;a href=&quot;https://hot.cnbeta.com/articles/movie/1298145.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 
-- 🚀 [苹果在线商店开始维护明日开启夏日特惠 iPhone 13 立减 600 元](https://www.cnbeta.com/articles/tech/1298143.htm) | Thu Jul 28 2022 2:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;&lt;strong&gt;中国区苹果在线商店开始维护，开始为明日的夏日优惠做准备。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 29 日至 8 月 1 日，用指定支付方式购买符合条件的产品可享立减优惠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- 🚀 [苹果在线商店开始维护明日开启夏日特惠 iPhone 13 立减 600 元](https://www.cnbeta.com/articles/tech/1298143.htm) | Thu Jul 28 2022 2:37 PM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;&lt;strong&gt;中国区苹果在线商店开始维护，开始为明日的夏日优惠做准备。&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;7 月 29 日至 8 月 1 日，用指定支付方式购买符合条件的产品可享立减优惠。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298143.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 
-- 🧰 [苹果宣布未来Mac芯片在以色列开发](https://www.cnbeta.com/articles/tech/1298141.htm) | Thu Jul 28 2022 2:37 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;苹果芯片人才招聘主管 Elad Wertheimer 今天在 LinkedIn 上宣布，苹果将在以色列 Jerusalem 设立全新开发中心，为未来的 Mac 开发芯片。目前，苹果正在为这里招聘工程师。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- 🧰 [苹果宣布未来Mac芯片在以色列开发](https://www.cnbeta.com/articles/tech/1298141.htm) | Thu Jul 28 2022 2:37 PM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;苹果芯片人才招聘主管 Elad Wertheimer 今天在 LinkedIn 上宣布，苹果将在以色列 Jerusalem 设立全新开发中心，为未来的 Mac 开发芯片。目前，苹果正在为这里招聘工程师。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298141.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 
-- 👺 [华硕发布紧凑型手机Zenfone 9 配备类似于万向节的相机稳定功能](https://www.cnbeta.com/articles/tech/1298139.htm) | Thu Jul 28 2022 1:54 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;Zenfone 9和去年的8一样，是市面上已经很罕见的小屏Android手机，优先考虑紧凑的尺寸，而不是最大化屏幕或电池尺寸。&lt;strong&gt;但今年的独到之处是这款手机的相机和稳定系统：不是仅仅移动一个镜头元素来补偿相机的抖动，而是整个主相机--镜头、传感器，所有这些--都会移动。这是一种独特的方法来对抗移动摄影的一些最大敌人：低光和摇晃的视频片段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- 👺 [华硕发布紧凑型手机Zenfone 9 配备类似于万向节的相机稳定功能](https://www.cnbeta.com/articles/tech/1298139.htm) | Thu Jul 28 2022 1:54 PM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;Zenfone 9和去年的8一样，是市面上已经很罕见的小屏Android手机，优先考虑紧凑的尺寸，而不是最大化屏幕或电池尺寸。&lt;strong&gt;但今年的独到之处是这款手机的相机和稳定系统：不是仅仅移动一个镜头元素来补偿相机的抖动，而是整个主相机--镜头、传感器，所有这些--都会移动。这是一种独特的方法来对抗移动摄影的一些最大敌人：低光和摇晃的视频片段。&lt;/strong&gt;&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298139.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 
-- 🫣 [每日优鲜App已经无法下单 无客服在线](https://www.cnbeta.com/articles/tech/1298137.htm) | Thu Jul 28 2022 1:48 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;每日优鲜App已经无法下单，虽然仍有商品展示、可加入购物车，但是在结账页面显示“本单购买的商品在当前地址下无货”。新浪科技更换了上海、杭州等多个城市，均显示无货原因无法购买。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- 🫣 [每日优鲜App已经无法下单 无客服在线](https://www.cnbeta.com/articles/tech/1298137.htm) | Thu Jul 28 2022 1:48 PM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;每日优鲜App已经无法下单，虽然仍有商品展示、可加入购物车，但是在结账页面显示“本单购买的商品在当前地址下无货”。新浪科技更换了上海、杭州等多个城市，均显示无货原因无法购买。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/tech/1298137.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 
-- 💂 [量子星座开启 我国发射世界首颗量子微纳卫星](https://www.cnbeta.com/articles/science/1298135.htm) | Thu Jul 28 2022 1:47 PM 
-    <details><summary>展开描述 ...</summary> 
-     &lt;p&gt;7月27日，世界首颗量子微纳卫星“济南一号”搭载中国科学院“力箭一号”运载火箭成功发射。目前，“济南一号”已进入既定轨道，太阳能帆板已成功打开，即将开展在轨测试工作。据了解，这也是继2016年我国世界首颗量子科学实验卫星“墨子号”升空后，中国发射的第二颗量子通信卫星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;  
-    </details> 
+- 💂 [量子星座开启 我国发射世界首颗量子微纳卫星](https://www.cnbeta.com/articles/science/1298135.htm) | Thu Jul 28 2022 1:47 PM
+    <details><summary>展开描述 ...</summary>
+     &lt;p&gt;7月27日，世界首颗量子微纳卫星“济南一号”搭载中国科学院“力箭一号”运载火箭成功发射。目前，“济南一号”已进入既定轨道，太阳能帆板已成功打开，即将开展在轨测试工作。据了解，这也是继2016年我国世界首颗量子科学实验卫星“墨子号”升空后，中国发射的第二颗量子通信卫星。&lt;/p&gt; &lt;a href=&quot;https://www.cnbeta.com/articles/science/1298135.htm&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;阅读全文&lt;/strong&gt;&lt;/a&gt;
+    </details>
 <!-- cnbeta:END -->
 
 
 ## 摄影
 
 <!-- photoworld:START -->
-- ⚗️ [大暑 | 一半是火焰，一半是山水](https://www.photoworld.com.cn/post/162200) | Sat Jul 23 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+- ⚗️ [大暑 | 一半是火焰，一半是山水](https://www.photoworld.com.cn/post/162200) | Sat Jul 23 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
 
-- 🚀 [CSC 成员 Rob McLachlan 分享 CineAltaV 2 的使用印象](https://www.photoworld.com.cn/post/162191) | Fri Jul 22 2022 7:51 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+    </details>
 
-- 🧰 [2022 年新签约摄影师 广州·李维明·第二站报名持续进行中](https://www.photoworld.com.cn/post/162171) | Thu Jul 21 2022 9:08 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+- 🚀 [CSC 成员 Rob McLachlan 分享 CineAltaV 2 的使用印象](https://www.photoworld.com.cn/post/162191) | Fri Jul 22 2022 7:51 AM
+    <details><summary>展开描述 ...</summary>
 
-- 👺 [首发量产 200W 超快闪充，高性能旗舰 iQOO 10 系列发布](https://www.photoworld.com.cn/post/162149) | Wed Jul 20 2022 1:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+    </details>
 
-- 🫣 [温暖 “医” 瞬间——医务人员风采展示系列活动征稿启事](https://www.photoworld.com.cn/post/161993) | Mon Jul 18 2022 2:38 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+- 🧰 [2022 年新签约摄影师 广州·李维明·第二站报名持续进行中](https://www.photoworld.com.cn/post/162171) | Thu Jul 21 2022 9:08 AM
+    <details><summary>展开描述 ...</summary>
 
-- 💂 [#尼康创摄者 # VLOG 大赛即将开启](https://www.photoworld.com.cn/post/161972) | Thu Jul 14 2022 11:45 AM 
-    <details><summary>展开描述 ...</summary> 
-     
-    </details> 
+    </details>
+
+- 👺 [首发量产 200W 超快闪充，高性能旗舰 iQOO 10 系列发布](https://www.photoworld.com.cn/post/162149) | Wed Jul 20 2022 1:43 AM
+    <details><summary>展开描述 ...</summary>
+
+    </details>
+
+- 🫣 [温暖 “医” 瞬间——医务人员风采展示系列活动征稿启事](https://www.photoworld.com.cn/post/161993) | Mon Jul 18 2022 2:38 AM
+    <details><summary>展开描述 ...</summary>
+
+    </details>
+
+- 💂 [#尼康创摄者 # VLOG 大赛即将开启](https://www.photoworld.com.cn/post/161972) | Thu Jul 14 2022 11:45 AM
+    <details><summary>展开描述 ...</summary>
+
+    </details>
 <!-- photoworld:END -->
 
 
@@ -292,56 +292,56 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 ## 产品100
 
 <!-- chanpin100:START -->
-- ⚗️ [【米堆短视频】跳槽有什么注意事项](http://www.chanpin100.com/article/128443) | Thu Jun 23 2022 6:31 PM 
-    <details><summary>展开描述 ...</summary> 
-    
+- ⚗️ [【米堆短视频】跳槽有什么注意事项](http://www.chanpin100.com/article/128443) | Thu Jun 23 2022 6:31 PM
+    <details><summary>展开描述 ...</summary>
+
                 跳槽有什么注意事项？一定要确保你之前的直系领导恨你恨的牙根痒痒的这种，务必明确自身要越来越强。说不定哪天，干回去当他领导！当然，首先要自己真的变强啊！
-             
-    </details> 
 
-- 🚀 [PM必看：一招解决延期难题（7000字）](http://www.chanpin100.com/article/128428) | Thu Jun 23 2022 6:28 PM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 🚀 [PM必看：一招解决延期难题（7000字）](http://www.chanpin100.com/article/128428) | Thu Jun 23 2022 6:28 PM
+    <details><summary>展开描述 ...</summary>
+
                 在中小企业，特别是以敏捷开发为主的团队中，产品经理往往需要承担一部分项目管理的职责，其中最重要的要属需求评审后的开发评估工作了（若需求较简单，可与评审会共同进行）。
-             
-    </details> 
 
-- 🧰 [华为云X贪玩：“云云协同”如何助力手游二次繁荣？](http://www.chanpin100.com/article/128402) | Thu Jun 23 2022 6:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 🧰 [华为云X贪玩：“云云协同”如何助力手游二次繁荣？](http://www.chanpin100.com/article/128402) | Thu Jun 23 2022 6:00 PM
+    <details><summary>展开描述 ...</summary>
+
                 继长达半年的停发风波后，2022年4月、6月游戏版号发行重启，给游戏行业带来重大利好。无论是外部环境要求还是内部发展倒逼，手游行业都面临着精品化转型的拷问。据伽马数据发布的《2022年4月游戏产业报告》显示，4月份，中国移动游戏市场实际销售收入为169.59亿元，同比微弱下滑，好在环比增长了2.39%。
-             
-    </details> 
 
-- 👺 [阿里巴巴数字化转型的启示](http://www.chanpin100.com/article/128099) | Thu Jun 23 2022 5:35 PM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 👺 [阿里巴巴数字化转型的启示](http://www.chanpin100.com/article/128099) | Thu Jun 23 2022 5:35 PM
+    <details><summary>展开描述 ...</summary>
+
                 阿里巴巴（简称阿里）作为数字化转型的倡导者和先驱者， 率先成功实现了数字化转型。其成功转型带来的利好鼓舞了更多企业积极投身数字化，尤其是淘宝的数字化转型过程为其他企业提供了很多值得借鉴的经验，本文将对这些内容加以阐述。
-             
-    </details> 
 
-- 🫣 [产品经理成长阶梯：看看你现在是哪个级别？](http://www.chanpin100.com/article/128098) | Thu Jun 23 2022 4:59 PM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 🫣 [产品经理成长阶梯：看看你现在是哪个级别？](http://www.chanpin100.com/article/128098) | Thu Jun 23 2022 4:59 PM
+    <details><summary>展开描述 ...</summary>
+
                 墨刀作为一个服务于广大产品经理（和设计师）的原型设计工具，深知原型制作仅仅是产品经理的其中一个技能和工作环节。要成为更优秀更高水平的产品经理，还需要更多技术和能力。
-             
-    </details> 
 
-- 💂 [项目计划执行过程中 如何分析进度偏差？](http://www.chanpin100.com/article/128096) | Thu Jun 23 2022 4:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 💂 [项目计划执行过程中 如何分析进度偏差？](http://www.chanpin100.com/article/128096) | Thu Jun 23 2022 4:26 PM
+    <details><summary>展开描述 ...</summary>
+
                 在项目计划的执行过程中，通过对执行过程的跟踪检查，找出实际进度与计划进度之间的偏差，分析偏差原因并找出解决办法。
-             
-    </details> 
+
+    </details>
 <!-- chanpin100:END -->
 
 
 ## 人人都是产品经理
 
 <!-- woshipm:START -->
-- ⚗️ [巧用App评论成为用户增长抓手](https://www.woshipm.com/evaluating/5543747.html) | Thu Jul 28 2022 10:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    
+- ⚗️ [巧用App评论成为用户增长抓手](https://www.woshipm.com/evaluating/5543747.html) | Thu Jul 28 2022 10:58 AM
+    <details><summary>展开描述 ...</summary>
+
 						&lt;blockquote&gt;&lt;p&gt;编辑导语：「评分及评论」功能是App开发者了解用户产品使用感受的有效方式，利用这一点，App Store通过评分体系（星级、评论数量、用户ID、评语）帮助用户甄选出值得信赖的优质产品。具体是怎么样的？一起来看一下吧。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;aligncenter size-full wp-image-5544373&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/oEvTW4qVytskOBJgQSxW.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;「评分及评论」功能是App开发者了解用户产品使用感受的有效方式。App Store也正是利用这一点，通过评分体系（星级、评论数量、用户ID、评语）帮助用户甄选出值得信赖的优质产品。&lt;/p&gt;
@@ -379,12 +379,12 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文由 @秦点数据 原创发布于人人都是产品经理，未经许可，禁止转载&lt;/p&gt;
 &lt;p&gt;题图来自 Unsplash，基于 CC0 协议&lt;/p&gt;
 
-					 
-    </details> 
 
-- 🚀 [爆火的“二舅”给我关于内容创作的两点启示](https://www.woshipm.com/evaluating/5543712.html) | Thu Jul 28 2022 10:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 🚀 [爆火的“二舅”给我关于内容创作的两点启示](https://www.woshipm.com/evaluating/5543712.html) | Thu Jul 28 2022 10:47 AM
+    <details><summary>展开描述 ...</summary>
+
 						&lt;blockquote&gt;&lt;p&gt;编辑导语：最近，一个讲述了偏远乡村里，后天残疾但内心富足的“二舅”的视频火起来了。为什么它能火呢？本文作者把整个视频按照时间轴和表达主题做了一个拆解，一起来看一下吧。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;aligncenter size-full wp-image-5544364&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/a5eZjG7EXwaWHYGVsox9.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;最近“二舅”火了，朴实无华的镜头、余华式风格的文案加上《史密斯夫妇》的探戈BGM，作者唐浩用十几分钟给我们刻画出了一个偏远乡村里，后天残疾但内心富足小人物饱满的一生。&lt;/p&gt;
@@ -430,12 +430,12 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文原创发布于人人都是产品经理，未经许可，禁止转载&lt;/p&gt;
 &lt;p&gt;题图来自 Unsplash，基于 CC0 协议&lt;/p&gt;
 
-					 
-    </details> 
 
-- 🧰 [为了多分版税，三大唱片决定打压独立音乐人](https://www.woshipm.com/it/5543233.html) | Thu Jul 28 2022 8:45 AM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 🧰 [为了多分版税，三大唱片决定打压独立音乐人](https://www.woshipm.com/it/5543233.html) | Thu Jul 28 2022 8:45 AM
+    <details><summary>展开描述 ...</summary>
+
 						&lt;blockquote&gt;
 &lt;p&gt;编辑导语：近日，法国独立分公司的CEO在接收采访时，职责三大唱片正在游说流媒体平台，希望他们降低独立音乐人的版税率。为什么三大唱片要“打压”自发行服务平台和独立音乐人？三大唱片与独立音乐的博弈又将为市场带来哪些变化呢？&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;aligncenter size-full wp-image-5544113&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/grN7OfzzU3K5ve0gFl89.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
@@ -490,12 +490,12 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文由人人都是产品经理合作媒体 @音乐先声 授权发布，未经许可，禁止转载。&lt;/p&gt;
 &lt;p&gt;题图来自 Unsplash，基于 CC0 协议。&lt;/p&gt;
 
-					 
-    </details> 
 
-- 👺 [干货：阿里运营是如何理解分享裂变的](https://www.woshipm.com/operate/5543288.html) | Thu Jul 28 2022 8:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 👺 [干货：阿里运营是如何理解分享裂变的](https://www.woshipm.com/operate/5543288.html) | Thu Jul 28 2022 8:43 AM
+    <details><summary>展开描述 ...</summary>
+
 						&lt;blockquote&gt;&lt;p&gt;编辑导语：裂变是很多产品进行用户增长的方法，这其中的裂变玩法也有很多。本文作者结合自身经验分享了作为阿里运营理解的裂变方法和逻辑，感兴趣的一起来看看吧，希望对你有帮助。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;size-full wp-image-5544082 aligncenter&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/ZM6gA4fvJQTm437enJHc.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;自从拼多多的“砍一刀”频繁上热搜，被舆论推上风口浪尖，同时微信对诱导分享的玩法仍未放松力度，分享裂变这个用户增长玩法，被运营的小伙伴们讨论的次数越来越少，甚至有运营会下定论，分享裂变是一个不可长期运营的渠道。&lt;/p&gt;
@@ -536,12 +536,12 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文由 @我是七筒 原创发布于人人都是产品经理。未经许可，禁止转载&lt;/p&gt;
 &lt;p&gt;题图来自 Unsplash，基于 CC0 协议&lt;/p&gt;
 
-					 
-    </details> 
 
-- 🫣 [原型设计必备的四大排版原则](https://www.woshipm.com/pd/5541862.html) | Thu Jul 28 2022 8:11 AM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 🫣 [原型设计必备的四大排版原则](https://www.woshipm.com/pd/5541862.html) | Thu Jul 28 2022 8:11 AM
+    <details><summary>展开描述 ...</summary>
+
 						&lt;blockquote&gt;&lt;p&gt;编辑导语：一个好的排版页面可以有效提升用户的体验感和平台的曝光度，本文作者分享了原型设计中必备的四大排版原则，介绍了亲密性、对齐、重复、对比四大排版原则，一起来学习一下吧。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;size-full wp-image-5544059 aligncenter&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/hvj5LNSgs0udfFuRBwrw.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;作为一个产品，好像我们哪方面都不懂，又好像但凡有一方面不懂就难以协调多方资源顺利完成项目。产品在不同的阶段对接的对象不同，所以需要用到的专业知识和职场技巧差异也是完全不同的。&lt;/p&gt;
@@ -578,12 +578,12 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文由 @Grace 原创发布于人人都是产品经理，未经许可，禁止转载。&lt;/p&gt;
 &lt;p&gt;题图来自Unsplash，基于 CC0 协议。&lt;/p&gt;
 
-					 
-    </details> 
 
-- 💂 [弹框的设计准则](https://www.woshipm.com/pd/5543550.html) | Thu Jul 28 2022 7:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    
+    </details>
+
+- 💂 [弹框的设计准则](https://www.woshipm.com/pd/5543550.html) | Thu Jul 28 2022 7:58 AM
+    <details><summary>展开描述 ...</summary>
+
 						&lt;blockquote&gt;&lt;p&gt;编辑导语：弹框设计是很多产品应用的基础设计之一，其中包含了很多设计准则和注意要点。本文作者分享了有关弹框设计准则的相关内容，列举具体案例进行分析，一起来学习一下吧，希望对你有帮助。&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img data-action=&quot;zoom&quot; class=&quot;size-full wp-image-5543943 aligncenter&quot; src=&quot;https://image.woshipm.com/wp-files/2022/07/Ztbz6SPel7drPrNlrbEf.jpg&quot; alt=&quot;&quot; width=&quot;900&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;今天从交互角度给大家讲讲弹框的设计，包括系统提示弹框，操作引导弹框，信息反馈弹框和广告弹框，每一种都总结了4个相关的设计准则，案例丰富，深入浅出，建议阅读。&lt;/p&gt;
@@ -667,261 +667,257 @@ Fences 3 / 4：活动价 33…… &lt;p&gt;「 &lt;a href=&quot;https://www.ipla
 &lt;p&gt;本文由 @PM小周 原创发布于人人都是产品经理，未经作者许可，禁止转载。&lt;/p&gt;
 &lt;p&gt;题图来自Unsplash，基于CC0协议。&lt;/p&gt;
 
-					 
-    </details> 
+
+    </details>
 <!-- woshipm:END -->
 
 ## freebuf
 
 <!-- freebuf:START -->
-- ⚗️ [【热点讨论】2022攻防演练情报追踪](https://www.freebuf.com/news/340081.html) | Thu Jul 28 2022 1:11 PM 
-    <details><summary>展开描述 ...</summary> 
-    攻防来袭，FreeBuf联合漏洞盒子情报星球为大家送上新鲜及时的情报分享~ 
-    </details> 
+- ⚗️ [【热点讨论】2022攻防演练情报追踪](https://www.freebuf.com/news/340081.html) | Thu Jul 28 2022 1:11 PM
+    <details><summary>展开描述 ...</summary>
+    攻防来袭，FreeBuf联合漏洞盒子情报星球为大家送上新鲜及时的情报分享~
+    </details>
 
-- 🚀 [离职也逃不掉，Uber协助司法部起诉前CSO](https://www.freebuf.com/articles/340391.html) | Thu Jul 28 2022 5:53 AM 
-    <details><summary>展开描述 ...</summary> 
-    Uber就2016年一起黑客攻击事件与美国司法部达成不起诉协议，其代价就是，Uber同意帮助美国司法部起诉其前首席安全官Sullivan。 
-    </details> 
+- 🚀 [离职也逃不掉，Uber协助司法部起诉前CSO](https://www.freebuf.com/articles/340391.html) | Thu Jul 28 2022 5:53 AM
+    <details><summary>展开描述 ...</summary>
+    Uber就2016年一起黑客攻击事件与美国司法部达成不起诉协议，其代价就是，Uber同意帮助美国司法部起诉其前首席安全官Sullivan。
+    </details>
 
-- 🧰 [解读 | 东欧局势正影响全球DDoS攻击态势](https://www.freebuf.com/news/340390.html) | Thu Jul 28 2022 5:48 AM 
-    <details><summary>展开描述 ...</summary> 
-    研究发现 DDoS 攻击已被积极用于政治目的。 
-    </details> 
+- 🧰 [解读 | 东欧局势正影响全球DDoS攻击态势](https://www.freebuf.com/news/340390.html) | Thu Jul 28 2022 5:48 AM
+    <details><summary>展开描述 ...</summary>
+    研究发现 DDoS 攻击已被积极用于政治目的。
+    </details>
 
-- 👺 [IBM数据泄露成本报告发布，数据泄露创历史新高](https://www.freebuf.com/news/340388.html) | Thu Jul 28 2022 5:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    IBM发布了最新的数据泄露成本报告。 
-    </details> 
+- 👺 [IBM数据泄露成本报告发布，数据泄露创历史新高](https://www.freebuf.com/news/340388.html) | Thu Jul 28 2022 5:47 AM
+    <details><summary>展开描述 ...</summary>
+    IBM发布了最新的数据泄露成本报告。
+    </details>
 
-- 🫣 [新钓鱼平台Robin Banks出现，多国知名金融组织遭针对](https://www.freebuf.com/articles/340362.html) | Thu Jul 28 2022 3:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    近期出现了一个新型网络钓鱼服务平台，提供现成的网络钓鱼工具包，目标是知名银行和在线服务的客户。 
-    </details> 
+- 🫣 [新钓鱼平台Robin Banks出现，多国知名金融组织遭针对](https://www.freebuf.com/articles/340362.html) | Thu Jul 28 2022 3:10 AM
+    <details><summary>展开描述 ...</summary>
+    近期出现了一个新型网络钓鱼服务平台，提供现成的网络钓鱼工具包，目标是知名银行和在线服务的客户。
+    </details>
 
-- 💂 [FreeBuf早报 | 优步与美国司法部就黑客案达成和解；洛杉矶港口每月遭到四千万次攻击](https://www.freebuf.com/news/340334.html) | Wed Jul 27 2022 11:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    优步已与美国司法部就其掩盖 2016 年 11 月的数据泄露事件达成和解，同意起诉其前首席安全官约瑟夫沙利文。 
-    </details> 
+- 💂 [FreeBuf早报 | 优步与美国司法部就黑客案达成和解；洛杉矶港口每月遭到四千万次攻击](https://www.freebuf.com/news/340334.html) | Wed Jul 27 2022 11:30 AM
+    <details><summary>展开描述 ...</summary>
+    优步已与美国司法部就其掩盖 2016 年 11 月的数据泄露事件达成和解，同意起诉其前首席安全官约瑟夫沙利文。
+    </details>
 <!-- freebuf:END -->
 ## 新趣集
 
 <!-- xinquji:START -->
-- ⚗️ [Sliderule - 用于风险和欺诈的无代码规则引擎](https://xinquji.com/posts/178289?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:43 AM 
-    <details><summary>展开描述 ...</summary> 
-     用于风险和欺诈的无代码规则引擎  
-    </details> 
+- ⚗️ [Sliderule - 用于风险和欺诈的无代码规则引擎](https://xinquji.com/posts/178289?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:43 AM
+    <details><summary>展开描述 ...</summary>
+     用于风险和欺诈的无代码规则引擎
+    </details>
 
-- 🚀 [Warmy.io - 自动多合一工具，使您的电子邮件渠道可靠](https://xinquji.com/posts/178288?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM 
-    <details><summary>展开描述 ...</summary> 
-     自动多合一工具，使您的电子邮件渠道可靠  
-    </details> 
+- 🚀 [Warmy.io - 自动多合一工具，使您的电子邮件渠道可靠](https://xinquji.com/posts/178288?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM
+    <details><summary>展开描述 ...</summary>
+     自动多合一工具，使您的电子邮件渠道可靠
+    </details>
 
-- 🧰 [Kreya - 更快地构建和测试 API](https://xinquji.com/posts/178287?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM 
-    <details><summary>展开描述 ...</summary> 
-     更快地构建和测试 API  
-    </details> 
+- 🧰 [Kreya - 更快地构建和测试 API](https://xinquji.com/posts/178287?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:41 AM
+    <details><summary>展开描述 ...</summary>
+     更快地构建和测试 API
+    </details>
 
-- 👺 [Settle - 为电子商务品牌打造的现金流管理](https://xinquji.com/posts/178286?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM 
-    <details><summary>展开描述 ...</summary> 
-     为电子商务品牌打造的现金流管理  
-    </details> 
+- 👺 [Settle - 为电子商务品牌打造的现金流管理](https://xinquji.com/posts/178286?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM
+    <details><summary>展开描述 ...</summary>
+     为电子商务品牌打造的现金流管理
+    </details>
 
-- 🫣 [The Guide To No Code Marketplaces 2.0 - 更新且全面的 50 多页指南](https://xinquji.com/posts/178285?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM 
-    <details><summary>展开描述 ...</summary> 
-     更新且全面的 50 多页指南  
-    </details> 
+- 🫣 [The Guide To No Code Marketplaces 2.0 - 更新且全面的 50 多页指南](https://xinquji.com/posts/178285?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:39 AM
+    <details><summary>展开描述 ...</summary>
+     更新且全面的 50 多页指南
+    </details>
 
-- 💂 [df : Digital Fingerprint - 不要让网站窃取您的数据](https://xinquji.com/posts/178284?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:37 AM 
-    <details><summary>展开描述 ...</summary> 
-     不要让网站窃取您的数据  
-    </details> 
+- 💂 [df : Digital Fingerprint - 不要让网站窃取您的数据](https://xinquji.com/posts/178284?utm_campaign=xinquji-rss) | Thu Jul 28 2022 6:37 AM
+    <details><summary>展开描述 ...</summary>
+     不要让网站窃取您的数据
+    </details>
 <!-- xinquji:END -->
 ## 苹果
 
 <!-- mac52ipod:START -->
-- ⚗️ [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+- ⚗️ [Apple新闻之苹果中国将举行限时优惠活动](http://www.mac52ipod.cn/post/apple-store-china-summer-promo-2022.php) | Wed Jul 27 2022 3:49 PM
+    <details><summary>展开描述 ...</summary>
+
+
 	苹果中国官网宣布了一个限时优惠活动：7月29日到8月1日，使用支付宝/招行/建行/工行卡，在苹果官网在线商店和 Apple Store 零售店买指定的苹果设备有限时优惠：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;iPhone 13 系列优惠 600 元&lt;/li&gt;&lt;li&gt;iPhone SE（第三代）优惠 200 元&lt;/li&gt;&lt;li&gt;iPhone12 和 iPhone12 mini 优惠 500 元&lt;/li&gt;&lt;li&gt;Apple Watch SE 优惠 200 元&lt;/li&gt;&lt;li&gt;AirPods 系列优惠 150-250 元&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;每人每个分类（手机、手表、耳机）限购两台，而且不和商务优惠、员工优惠、教育优惠等其它优惠叠加。&lt;/p&gt;&lt;p&gt;其实我觉得「再过一两个月就换代」的这个时间点有点儿尴尬。就算真的要买，拼多多百亿补贴挺香的。&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt;
 
- 
-    </details> 
 
-- 🚀 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+    </details>
+
+- 🚀 [给苹果 iPhone 照片添加莱卡相机水印的捷径](http://www.mac52ipod.cn/post/apple-ios-iphone-pic-leica-camera-watermark-shortcuts.php) | Mon Jul 25 2022 3:34 AM
+    <details><summary>展开描述 ...</summary>
+
+
 	国内 Android 厂商很喜欢给照片加上机型信息水印，如果是和相机大厂合作的手机，还会打上莱卡、哈苏等相机的水印。最近小米推出了和莱卡合作的机型，拍照后能在照片底部添加莱卡图标和坐标、焦距、光圈、快门、ISO 等信息。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6701&quot; border=&quot;0&quot; alt=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; title=&quot;给苹果 iPhone 照片添加莱卡相机水印的捷径&quot; /&gt;&lt;/p&gt;&lt;p&gt;如果你也想让苹果 iPhone 拍的照片也有类似水印，可以试试这个叫「徕卡水印」的 iOS 捷径，下载地址 &lt;u&gt;&lt;a href=&quot;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&quot; target=&quot;_blank&quot; title=&quot;莱卡水印&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.icloud.com/shortcuts/097564d2884540a395cdfe111caa201f&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%258D%25B7%25E5%25BE%2584&quot; rel=&quot;tag&quot;&gt;捷径&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=shortcuts&quot; rel=&quot;tag&quot;&gt;shortcuts&lt;/a&gt;
 
- 
-    </details> 
 
-- 🧰 [Mac技巧之苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo](http://www.mac52ipod.cn/post/apple-mac-macos-search-launcher-app-alfred-hapigo.php) | Fri Jul 22 2022 10:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+    </details>
+
+- 🧰 [Mac技巧之苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo](http://www.mac52ipod.cn/post/apple-mac-macos-search-launcher-app-alfred-hapigo.php) | Fri Jul 22 2022 10:28 AM
+    <details><summary>展开描述 ...</summary>
+
+
 	苹果电脑 macOS 系统自带了搜索和快速启动工具 Spotlight。如果你想要更多功能，十多年来比较有名的第三方启动器工具是 &lt;u&gt;&lt;a href=&quot;/post/search-open-software-by-keyboard-alfred.php&quot; target=&quot;_blank&quot; title=&quot;Mac技巧之苹果电脑 Mac OS X 系统上通过键盘快速搜索和启动软件的免费工具：Alfred &quot;&gt;&lt;font color=#0000FF&gt;Alfred&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;。最近发现一个 Alfred 的竞争者，功能类似，扩展性也很强：HapiGo。这里有段视频介绍 &lt;u&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1Mr4y1U7en&quot; target=&quot;_blank&quot; title=&quot;Hapigo-比肩Alfred的工具终于来了!&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.bilibili.com/video/BV1Mr4y1U7en&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;iframe src=&quot;//player.bilibili.com/player.html?aid=765396797&amp;bvid=BV1Mr4y1U7en&amp;cid=478586306&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;&lt;/p&gt;&lt;p&gt;HapiGo 更详细的介绍，以及下载地址，看官网吧 &lt;u&gt;&lt;a href=&quot;https://hapigo.com/&quot; target=&quot;_blank&quot; title=&quot;苹果电脑 macOS 系统上类似 Alfred 的快速启动器：HapiGo&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://hapigo.com/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=alfred&quot; rel=&quot;tag&quot;&gt;alfred&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2588%25E7%258E%2587&quot; rel=&quot;tag&quot;&gt;效率&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%2594%25AE%25E7%259B%2598&quot; rel=&quot;tag&quot;&gt;键盘&lt;/a&gt;
 
- 
-    </details> 
 
-- 👺 [Apple Watch 用户不在微信运动里显示具体健身数据的方法](http://www.mac52ipod.cn/post/apple-watch-user-only-share-steps-to-wechat-werun.php) | Wed Jul 20 2022 11:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+    </details>
+
+- 👺 [Apple Watch 用户不在微信运动里显示具体健身数据的方法](http://www.mac52ipod.cn/post/apple-watch-user-only-share-steps-to-wechat-werun.php) | Wed Jul 20 2022 11:14 AM
+    <details><summary>展开描述 ...</summary>
+
+
 	我在微信运动的步数排行榜里，不仅能看到微信好友的步数，还能看到很多戴了 Apple Watch 的好友的每日具体健身数据。如果你只想和好友比比步数的话，打开 iPhone 的健康 App → 隐私 → App → 微信，关掉「体能训练」选项就行了。&lt;/p&gt;&lt;p style=&quot;text-align:center;&quot;&gt;&lt;img class=&quot;insertimage&quot; src=&quot;attachment.php?fid=6702&quot; border=&quot;0&quot; alt=&quot;Apple Watch 用户不在微信运动里显示具体健身数据的方法&quot; title=&quot;Apple Watch 用户不在微信运动里显示具体健身数据的方法&quot; /&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=applewatch&quot; rel=&quot;tag&quot;&gt;applewatch&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%25BF%2590%25E5%258A%25A8&quot; rel=&quot;tag&quot;&gt;运动&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%2581%25A5%25E8%25BA%25AB&quot; rel=&quot;tag&quot;&gt;健身&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25BE%25AE%25E4%25BF%25A1&quot; rel=&quot;tag&quot;&gt;微信&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E9%259A%2590%25E7%25A7%2581&quot; rel=&quot;tag&quot;&gt;隐私&lt;/a&gt;
 
- 
-    </details> 
 
-- 🫣 [Apple新闻之2022年苹果教育优惠开启](http://www.mac52ipod.cn/post/apple-china-back-to-school-2022.php) | Mon Jul 18 2022 2:32 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+    </details>
+
+- 🫣 [Apple新闻之2022年苹果教育优惠开启](http://www.mac52ipod.cn/post/apple-china-back-to-school-2022.php) | Mon Jul 18 2022 2:32 AM
+    <details><summary>展开描述 ...</summary>
+
+
 	每年暑假到秋季开学这段时间，苹果会开启教育优惠活动。今年的中国区教育优惠时间为 7 月 14 日到 9 月 26 日，在校大学生、高考后收到大学录取通知的高三毕业生、在职教师和教职工都能参加。优惠内容包括：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;指定款的 Mac、iPad 价格优惠&lt;/li&gt;&lt;li&gt;购买指定款 Mac 或 iPad 就送第二代 AirPods 无线耳机。可以补差价升级到第三代 AirPods 或 AirPods Pro&lt;/li&gt;&lt;li&gt;Apple Care+ 八折优惠&lt;/li&gt;&lt;li&gt;Final Cut Pro X、Logic Pro X、Motion 5、Compressor 4 和 MainStage 3 这五款专业软件享受教育套装优惠价&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;苹果中国官网的详细说明 &lt;u&gt;&lt;a href=&quot;https://www.apple.com.cn/cn-edu/shop/go/back_to_school&quot; target=&quot;_blank&quot; title=&quot;苹果中国官网 新学期教育优惠活动&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://www.apple.com.cn/cn-edu/shop/go/back_to_school&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25B8%2582%25E5%259C%25BA&quot; rel=&quot;tag&quot;&gt;市场&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2595%2599%25E8%2582%25B2&quot; rel=&quot;tag&quot;&gt;教育&lt;/a&gt;
 
- 
-    </details> 
 
-- 💂 [Mac技巧之在苹果电脑屏幕角落半透明显示股票、基金、外汇、加密货币行情信息：幽灵看盘 - 上班族炒股利器](http://www.mac52ipod.cn/post/apple-mac-macos-app-ghost-stock.php) | Fri Jul 15 2022 7:44 AM 
-    <details><summary>展开描述 ...</summary> 
-    
- 
+    </details>
+
+- 💂 [Mac技巧之在苹果电脑屏幕角落半透明显示股票、基金、外汇、加密货币行情信息：幽灵看盘 - 上班族炒股利器](http://www.mac52ipod.cn/post/apple-mac-macos-app-ghost-stock.php) | Fri Jul 15 2022 7:44 AM
+    <details><summary>展开描述 ...</summary>
+
+
 	「幽灵看盘 - 上班族炒股利器」能在电脑屏幕角落里偷偷显示股票、基金、外汇、加密货币行情信息。位置、字号、内容、透明度等都可调。&lt;/p&gt;&lt;p&gt;这软件既有 Windows 版也有 macOS 版，而且更新速度很快，几天就发布一个新版本加上一些新功能。官网下载 &lt;u&gt;&lt;a href=&quot;https://gsweb.codeffect.top/&quot; target=&quot;_blank&quot; title=&quot;幽灵看盘 - 上班族炒股利器&quot; rel=&quot;nofollow&quot;&gt;&lt;font color=#0000FF&gt;https://gsweb.codeffect.top/&lt;/font&gt;&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;br/&gt;Tags - &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E8%2582%25A1%25E7%25A5%25A8&quot; rel=&quot;tag&quot;&gt;股票&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%259C%259F%25E8%25B4%25A7&quot; rel=&quot;tag&quot;&gt;期货&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E5%25A4%2596%25E6%25B1%2587&quot; rel=&quot;tag&quot;&gt;外汇&lt;/a&gt; , &lt;a href=&quot;http://www.mac52ipod.cn/tag.php?tag=%25E6%2591%25B8%25E9%25B1%25BC&quot; rel=&quot;tag&quot;&gt;摸鱼&lt;/a&gt;
 
- 
-    </details> 
+
+    </details>
 <!-- mac52ipod:END -->
 ## xclient
 
 <!-- xclient:START -->
-- ⚗️ [RAR Extractor Max – unzip 9.5.0 解压缩神器](https://xclient.info/s/rar-extractor-unzip.html) | Wed Jul 27 2022 1:28 AM 
-    <details><summary>展开描述 ...</summary> 
-    RAR Extractor - Unzip是一款功能强大的解压缩软件，支持几乎所有的压缩格式，比如RAR, ZIP, 7z, tbz, sti, tar, xar等等，用起来非常的方便。 
-    </details> 
+- ⚗️ [RAR Extractor Max – unzip 9.5.0 解压缩神器](https://xclient.info/s/rar-extractor-unzip.html) | Wed Jul 27 2022 1:28 AM
+    <details><summary>展开描述 ...</summary>
+    RAR Extractor - Unzip是一款功能强大的解压缩软件，支持几乎所有的压缩格式，比如RAR, ZIP, 7z, tbz, sti, tar, xar等等，用起来非常的方便。
+    </details>
 
-- 🚀 [Sublime Merge 2.0 Build 2075 Git客户端](https://xclient.info/s/sublime-merge.html) | Wed Jul 27 2022 1:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    Sublime Merge 是Sublime Text制作者开发的一款Git客户端。 
-    </details> 
+- 🚀 [Sublime Merge 2.0 Build 2075 Git客户端](https://xclient.info/s/sublime-merge.html) | Wed Jul 27 2022 1:27 AM
+    <details><summary>展开描述 ...</summary>
+    Sublime Merge 是Sublime Text制作者开发的一款Git客户端。
+    </details>
 
-- 🧰 [Tower Pro 9.0 mac平台最强大的Git 客户端](https://xclient.info/s/tower.html) | Wed Jul 27 2022 1:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    Tower 是一款非常强大的Git客户端，如果你使用git的过程中，感觉使用命令很困难，可以尝试使用Tower。它采用了分布式版本库的方式，不必服务器端软件支持，使源代码的发布和交流极其方便。 
-    </details> 
+- 🧰 [Tower Pro 9.0 mac平台最强大的Git 客户端](https://xclient.info/s/tower.html) | Wed Jul 27 2022 1:24 AM
+    <details><summary>展开描述 ...</summary>
+    Tower 是一款非常强大的Git客户端，如果你使用git的过程中，感觉使用命令很困难，可以尝试使用Tower。它采用了分布式版本库的方式，不必服务器端软件支持，使源代码的发布和交流极其方便。
+    </details>
 
-- 👺 [SQLPro Studio 2022.45 CR2 多数据库管理工具](https://xclient.info/s/sqlpro-studio.html) | Wed Jul 27 2022 1:23 AM 
-    <details><summary>展开描述 ...</summary> 
-    SQLPro Studio 是一款十分实用的数据库管理软件，该软件能够帮助用户快速智能的管理数据库的各种资料与文件，操作简单，能够更好的帮助用户及时管理数据库，欢迎有需要的用户下载使用。 
-    </details> 
+- 👺 [SQLPro Studio 2022.45 CR2 多数据库管理工具](https://xclient.info/s/sqlpro-studio.html) | Wed Jul 27 2022 1:23 AM
+    <details><summary>展开描述 ...</summary>
+    SQLPro Studio 是一款十分实用的数据库管理软件，该软件能够帮助用户快速智能的管理数据库的各种资料与文件，操作简单，能够更好的帮助用户及时管理数据库，欢迎有需要的用户下载使用。
+    </details>
 
-- 🫣 [Find Any File 2 2.3.3b14 FAF文件搜索增强工具](https://xclient.info/s/find-any-file.html) | Wed Jul 27 2022 1:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    Find Any File 让您可以在本地磁盘上搜索、查找您的任何文件包括本地磁盘的名称、 创建或修改日期、 大小或类型和创建者代码等等。 
-    </details> 
+- 🫣 [Find Any File 2 2.3.3b14 FAF文件搜索增强工具](https://xclient.info/s/find-any-file.html) | Wed Jul 27 2022 1:22 AM
+    <details><summary>展开描述 ...</summary>
+    Find Any File 让您可以在本地磁盘上搜索、查找您的任何文件包括本地磁盘的名称、 创建或修改日期、 大小或类型和创建者代码等等。
+    </details>
 
-- 💂 [MetaImage 2.0.8 图像元数据编辑器](https://xclient.info/s/metaimage.html) | Wed Jul 27 2022 1:21 AM 
-    <details><summary>展开描述 ...</summary> 
-    MetaImage 是一款专为mac用户设计的图像元数据编辑器，可以帮助您轻松的更改或删除照片中的元数据信息，而且MetaImage还为地理和缩略图数据提供了特殊支持。而且支持90多种图像格式（MOS，CR2，DNG，NEF，NRW，JPEG，PNG，TIFF，RAW等等） 
-    </details> 
+- 💂 [MetaImage 2.0.8 图像元数据编辑器](https://xclient.info/s/metaimage.html) | Wed Jul 27 2022 1:21 AM
+    <details><summary>展开描述 ...</summary>
+    MetaImage 是一款专为mac用户设计的图像元数据编辑器，可以帮助您轻松的更改或删除照片中的元数据信息，而且MetaImage还为地理和缩略图数据提供了特殊支持。而且支持90多种图像格式（MOS，CR2，DNG，NEF，NRW，JPEG，PNG，TIFF，RAW等等）
+    </details>
 <!-- xclient:END -->
 
 ## toodaylab
 
 <!-- toodaylab:START -->
-- ⚗️ [realme 发布的真我 GT2 大师探索版，是一次失败的“大师版”](http://www.toodaylab.com/81051) | Thu Jul 28 2022 8:35 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-                    
+- ⚗️ [realme 发布的真我 GT2 大师探索版，是一次失败的“大师版”](http://www.toodaylab.com/81051) | Thu Jul 28 2022 8:35 AM
+    <details><summary>展开描述 ...</summary>
+
+
                         &lt;p&gt;&lt;a href=&quot;https://www.toodaylab.com/81003&quot; target=&quot;_blank&quot;&gt;7 月 12 日 realme 发布真我 GT2 大师探索版&lt;/a&gt;，这是&lt;a href=&quot;https://www.toodaylab.com/80479&quot; target=&quot;_blank&quot;&gt;今年 1 月初发布的真我 GT2 系列&lt;/a&gt;的后续版本，它的名字当中有“大师”的字样，延续了品牌旗下“大师版”的名号，本身以硬箱为灵感的产品设计本身也很有记忆点。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://files.toodaylab.com/2022/07/realme_GT2master_20220713030947_02.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;但，这可能是一次失败的“大师版”。&lt;/p&gt;&lt;h2&gt;设计师够不上“大师”&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.toodaylab.com/77105&quot; target=&quot;_blank&quot;&gt;2019 年 5 月 realme 回归中国市场&lt;/a&gt;，当时的发布会上 realme 官宣由深泽直人担任“特邀产品设计总监”，同期发布了 realme X 大师版“洋葱”和“白蒜”，随后深泽直人为 realme 带来多代“大师版”，有口碑出色的&lt;a href=&quot;https://www.toodaylab.com/77688&quot; target=&quot;_blank&quot;&gt;“红砖”和“水泥”&lt;/a&gt;（基于 X2 Pro），也有设计激进的&lt;a href=&quot;https://www.toodaylab.com/78018&quot; target=&quot;_blank&quot;&gt;“点”和“线”&lt;/a&gt;（基于 X50 5G）。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://files.toodaylab.com/2021/12/realmegt2pro_20211222214326_10.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://files.toodaylab.com/2021/12/realmegt2pro_20211222214326_09.jpg&quot; title=&quot;“洋葱”和“白蒜”，很有深泽直人风格的设计方式&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/realme_master_20220728162710_00.jpg&quot; title=&quot;“红砖”和“水泥”，可能是深泽直人“大师版”的巅峰之作&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/realme_master_20220728151626_00.jpg&quot; title=&quot;“点”和“线”，相对冒险一些的设计&quot;/&gt;&lt;/p&gt;&lt;p&gt;之后深泽直人的“大师版”还有&lt;a href=&quot;https://www.toodaylab.com/80001&quot; target=&quot;_blank&quot;&gt;去年 7 月发布的真我 GT 大师探索版和真我 GT 大师版&lt;/a&gt;，以及&lt;a href=&quot;https://www.toodaylab.com/80445&quot; target=&quot;_blank&quot;&gt;去年年底的真我 GT 2 系列“大师·纸”&lt;/a&gt;。另外&lt;a href=&quot;https://www.toodaylab.com/80479&quot; target=&quot;_blank&quot;&gt;今年 1 月发布的真我 GT2 系列&lt;/a&gt;没有“大师版”的 title，但机身上还是出现了深泽直人的签名。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://files.toodaylab.com/2022/01/gt2_20220105181304_01.jpg&quot; title=&quot;真我 GT2 系列&quot;/&gt;&lt;/p&gt;&lt;p&gt;而这次的真我 GT2 大师探索版换成了由 &lt;a href=&quot;https://www.linkedin.com/in/jae-jung-1981392b/&quot; target=&quot;_blank&quot;&gt;Jae Jung&lt;/a&gt; 设计，这或许是 realme 希望尝试更多种可能，并避免“大师版”这个名字和深泽直人强绑定，这可能会压缩未来可操作的空间。&lt;/p&gt;&lt;p&gt;这个尝试的问题在于新合作的设计师够不上“大师”，官宣资料中给 Jae Jung 的头衔是“著名潮流设计师”，但这个“著名”看着都有点勉强——这次 realme 发布会之前，应该没几个人确切知道 Jae Jung 这个名字。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/realme_master_20220728153247_02.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;Jae Jung 的资历也的确是很浅的。他目前是 The North Face 的全职设计师，主要负责品牌下的合作项目，在他负责期间 &lt;a href=&quot;https://www.toodaylab.com/80481&quot; target=&quot;_blank&quot;&gt;The North Face 有带来和 KAWS 的联名&lt;/a&gt;，也有传播度更广的 GUCCI x The North Face 联名系列发售，这也成为这次 realme 介绍 Jae Jung 时提到的主要代表作。&lt;/p&gt;&lt;p&gt;不过 Jae Jung 其实在 The North Face 不到 3 年，而他“转正”为“设计师”还不到 1 年，去年 8 月前他的 title 是“副设计师”（Associate Designer），而 &lt;a href=&quot;https://www.toodaylab.com/79314&quot; target=&quot;_blank&quot;&gt;GUCCI x The North Face 系列是在 2020 年发布的&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://files.toodaylab.com/2022/01/kawschangbai_20220105221030_00.jpg&quot; title=&quot;The North Face 和 KAWS 的联名&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://files.toodaylab.com/2020/12/GUCCI_TNF_20201223214602_28.jpg&quot; title=&quot;GUCCI x The North Face 联名系列，组合 logo 很奇妙&quot;/&gt;&lt;/p&gt;&lt;p&gt;The North Face 也是 Jae Jung 第 1 份真正的设计师全职工作，此前他有在 Ralph Lauren 和 Theory 供职的经历，但都是助理设计师，每份工作都只持续 1 年出头，他的实习期则是在 Thom Browne，4 个月时间。&lt;/p&gt;&lt;p&gt;另外 Jae Jung 在 2018 年创立了个人品牌 &lt;a href=&quot;https://door-nyc.com/&quot; target=&quot;_blank&quot;&gt;DOOR&lt;/a&gt;，到 2021 年秋冬系列算是 DOOR 品牌的首次正式亮相。&lt;/p&gt;&lt;p&gt;设计师都需要成长，Jae Jung 的路也还很长，这本身没问题，但以“大师版”身份出现就有点奇怪了（即便加了个“探索”也不能弥补这个怪异，何况“大师探索版”本身就有点拗口，是手机去探索，还是大师去探索？），发布会后 realme 也几乎不再提设计师的名字和身份。&lt;/p&gt;&lt;h2&gt;设计虽有记忆点，但并不好深度解读&lt;/h2&gt;&lt;p&gt;首先设计师够不上“大师”，同时从最终产品来说，虽然它有记忆点，但并不适合再做深一步的解读。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://files.toodaylab.com/2022/07/realme_GT2master_20220713030947_01.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;这次主打的“硬箱·旷野”配色以旅行箱为概念，它以环保再生皮革搭配金属铆钉元素，在手机背壳上复刻了硬箱的造型，这是个有趣的尝试，从设计本身来说没有问题，它的问题在于这类硬箱和 Louis Vuitton 的密切关系，后两者几乎是划等号的。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/realme_master_20220728153247_03.jpg&quot; title=&quot;真我 GT2 大师探索版的细节&quot;/&gt;&lt;/p&gt;&lt;p&gt;虽然 Goryard 等品牌也有类似的古董硬箱，但 Louis Vuitton 的硬箱太强势，它完全占据了这个话语权。而真我 GT2 大师探索版的设计又不得不让人联想到 LV，各路报道在提到 realme 这次设计时也会引申到 LV 上，但 realme 和 LV 又没有任何关系……&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://files.toodaylab.com/2019/06/lv_cd_20190607162431_40.gif&quot; title=&quot;LV 的古董箱&quot;/&gt;&lt;/p&gt;&lt;p&gt;虽然不是故意蹭热度，但对于了解硬箱历史的同学们来说，看到这个设计会有一言难尽的感觉。并且官方显然是完全不能提 LV 的，否则性质就不一样了。&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;延伸阅读：&lt;/strong&gt;之前 LV 通过“时间锦囊”展览来展现品牌的旅行箱历史，可以在&lt;a href=&quot;https://www.toodaylab.com/77199&quot; target=&quot;_blank&quot;&gt;《Louis Vuitton“时间锦囊”展览登陆成都，我们为你准备了一份完整打卡攻略》&lt;/a&gt;这里回顾我们之前的报道。&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/realme_master_20220728153247_00.jpg&quot; title=&quot;realme 的宣传物料，距离 LV 已经非常近了&quot;/&gt;&lt;/p&gt;&lt;p&gt;之前深泽直人为 realme 设计的真我 GT 大师探索版和真我 GT 大师版虽然也是以行李箱为概念，但这是延续了 MUJI 的行李箱的栅栏面板，而深泽直人完全可以代表 MUJI，这个呼应不会让人奇怪。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/realme_master_20220728154038_00.jpg&quot; title=&quot;看到 realme 的“行李箱”的确会会心一笑，是因为这的确就是 MUJI 行李箱的样子&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;https://files.toodaylab.com/2021/12/realmegt2pro_20211222214326_08.jpg&quot; title=&quot;realme 的第 4 代“大师版”&quot;/&gt;&lt;/p&gt;&lt;h2&gt;要拔高调性并不容易，但要落下来就很快&lt;/h2&gt;&lt;p&gt;这是一次奇怪的组合。请了设计师，但又不好使劲宣传设计师，做出了设计，但又不太适合深度去解读设计。&lt;/p&gt;&lt;p&gt;这浪费了一次“大师版”出镜和被讨论的机会，对于“大师版”这个名头甚至是一次扣分。&lt;/p&gt;&lt;p&gt;科技行业里能树立起一个耳熟能详的形象或记忆点并不容易，但口碑崩盘却可能是一瞬间的事。前者我们能想到的除了 realme 的“大师版”，还比如一加的“Never Settle”（不将就）slogan——而恰恰是这个“不将就”，在一加今年尝试走中低端路线后被老粉丝们狠批至今。&lt;/p&gt;&lt;p&gt;realme 的“大师版”倒不至于口碑崩盘，但品牌还是需要好好保护的，当我们习惯了深泽直人这个级别的设计师操刀，即便换一个，也希望能是同一级别、对得上“大师”名号的设计师，否则这事没意义。&lt;/p&gt;&lt;p&gt;当“大师版”和普通版没有区别，那么这个品牌的生命就已经结束了。与其这样，还不如不要随便用这个品牌，宁缺毋滥——而一旦推出，就是真的对得起“大师”这个名头的产品。&lt;/p&gt;&lt;p&gt;那么可以是哪些设计师呢，其实太多了，比如参考每次都和不同设计师合作的三宅一生的手表线，或者就按照和优衣库合作的设计师来挨着找也行。&lt;/p&gt;&lt;p&gt;此外还有市面上流行的设计明星 &lt;a href=&quot;https://www.toodaylab.com/67321&quot; target=&quot;_blank&quot;&gt;Yves Béhar（fuseproject）&lt;/a&gt;、&lt;a href=&quot;https://www.toodaylab.com/78972&quot; target=&quot;_blank&quot;&gt;Robert Brunner（Ammunition）&lt;/a&gt;、菲利普·斯塔克等等等等，包括热衷于各种联名的 Alexander Wang 等一众真正的时尚或潮流设计师——虽然仍然不见得能称“大师”，但至少是有说服力的。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/realme_master_20220728152821_00.jpg&quot; title=&quot;Yves Béhar。代表作之一是 Herman Miller 的 SAYL 椅子&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;http://files.toodaylab.com/2014/05/beats_20140530022504_00.jpg&quot; title=&quot;Ammunition 创始人 Robert Brunner。曾经担任苹果工业设计主管，之后招入了 Jony Ive&quot;/&gt;&lt;/p&gt;&lt;p&gt;别忘了迪特·拉姆斯还没有去世，&lt;a href=&quot;https://www.toodaylab.com/81009&quot; target=&quot;_blank&quot;&gt;Marc Newson 和 Jony Ive 也已经没有竞业的问题了&lt;/a&gt;，既然要想，咱就想个大的？（何况 realme 也并不差钱）&lt;/p&gt;
-                    
-                 
-    </details> 
 
-- 🚀 [今日消费资讯：Moncler Grenoble 2022 秋季系列广告大片发布、Lee x 宫廷文化 2022 秋冬联乘系列亮相](http://www.toodaylab.com/81048) | Thu Jul 28 2022 12:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-                    
+
+    </details>
+
+- 🚀 [今日消费资讯：Moncler Grenoble 2022 秋季系列广告大片发布、Lee x 宫廷文化 2022 秋冬联乘系列亮相](http://www.toodaylab.com/81048) | Thu Jul 28 2022 12:25 AM
+    <details><summary>展开描述 ...</summary>
+
+
                         &lt;h2&gt;Moncler Grenoble 2022 秋季系列广告大片发布&lt;/h2&gt;&lt;p&gt;7 月 26 日，Moncler 盟可睐带来 Moncler Grenoble 2022 秋季系列广告大片，这次大片由导演 Thibaut Grevet 掌镜。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_01.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_02.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_03.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_04.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;Moncler Grenoble 2022 秋季系列将在今天开始发售，渠道包括品牌官网、官方天猫旗舰店、微信小程序以及线下指定专卖店。&lt;/p&gt;&lt;hr/&gt;&lt;h2&gt;万宝龙推出全新大文豪系列格林兄弟特别款书写工具&lt;/h2&gt;&lt;p&gt;7 月 25 日，万宝龙推出全新大文豪系列格林兄弟特别款书写工具，以此致敬格林兄弟收录并出版了众多古老童话故事，为世界留下了文化珍宝。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;这次系列有 4 款书写工具，它们的设计都来自童话故事当中的角色或元素。整个系列已经从 7 月开始在万宝龙线下精品店和线上渠道同步发售。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_05.jpg&quot; style=&quot;&quot; title=&quot;全新万宝龙大文豪系列致敬格林兄弟特别款书写工具&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_06.jpg&quot; style=&quot;&quot; title=&quot;全新万宝龙大文豪系列致敬格林兄弟限量款书写工具，全球限量 1812 支&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_07.jpg&quot; style=&quot;&quot; title=&quot;全新万宝龙大文豪系列致敬格林兄弟限量款书写工具，全球限量 86 支&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_08.jpg&quot; style=&quot;&quot; title=&quot;全新万宝龙大文豪系列致敬格林兄弟限量款书写工具，全球限量 8 支&quot;/&gt;&lt;/p&gt;&lt;hr/&gt;&lt;h2&gt;Lee x 宫廷文化 2022 秋冬联乘系列亮相&lt;/h2&gt;&lt;p&gt;7 月 26 日，Lee 和宫廷文化 IP 共同推出第 2 波联名系列产品（&lt;a href=&quot;https://www.toodaylab.com/80501&quot; target=&quot;_blank&quot;&gt;第 1 波在今年 1 月亮相&lt;/a&gt;）。这次系列都基于 Lee 的 101+ 系列，并在保留 101+ 细节工艺的基础上融入了民族特色的龙纹样作为设计核心元素。女款方面则有“红墙黄瓦”的黄色加入，包括龙纹图案和满印云纹，细节非常丰富。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;Lee 代言人彭于晏出镜了这次大片。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_09.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_10.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_11.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_12.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;hr/&gt;&lt;h2&gt;FILA FUSION x FACETASM 首款联名鞋履亮相&lt;/h2&gt;&lt;p&gt;日前 FILA FUSION 和 FACETASM 合作带来的首款联名鞋履正式亮相，鞋款以 FILA FUSION RACCOON“大眼鞋”为原型，同时加入了上世纪 80、90 年代复古鞋款的元素并进行了重塑，它也延续了“大眼”元素，整体同时体现了复古和未来感。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_13.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_14.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_15.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220728news_20220727164219_16.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;这次鞋款将在 8 月 2 日正式限量发售，有两组配色可选。&lt;/p&gt;
-                    
-                 
-    </details> 
 
-- 🧰 [爆卖 70 万件，优衣库“王牌内衣”轻氧 Bra 厉害在哪里](http://www.toodaylab.com/81043) | Wed Jul 27 2022 8:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-                    
+
+    </details>
+
+- 🧰 [爆卖 70 万件，优衣库“王牌内衣”轻氧 Bra 厉害在哪里](http://www.toodaylab.com/81043) | Wed Jul 27 2022 8:50 AM
+    <details><summary>展开描述 ...</summary>
+
+
                         &lt;p&gt;夏天的高温是真不好对付，相信最近很多女生回家的第一件事情就是以最快的速度摆脱内衣的束缚。夏天每日的亲身体验让大家比以往更真切地感受到，拥有一件舒适、透气、快干的内衣有多重要。 &lt;br/&gt;&lt;/p&gt;&lt;p&gt;最近几年，无钢圈内衣和它所倡导的“解放身体”的理念越来越多地被女性消费者所接纳。而“考古”无钢圈内衣的历史可以发现，优衣库早在十多年前就已经推出了这类产品，很多女生的第一件无钢圈内衣就是来自优衣库，可以说优衣库培养了一代消费者的内衣观，也是当下无钢圈内衣热潮的引领者。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_17.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;去年双 11，优衣库推出了一款无钢圈内衣新品——经典轻氧 Bra。它一经推出就收获了很不错的口碑，并受到消费者追捧，不到一年时间，已经累计卖出超过 70 万件，可以说迅速成为了优衣库新一代爆款产品。&lt;/p&gt;&lt;p&gt;那么，迅速征服了一众女性消费者的优衣库经典轻氧 Bra 到底厉害在哪里呢？ &lt;br/&gt;&lt;/p&gt;&lt;h2&gt;“王牌内衣”经典轻氧 Bra&lt;/h2&gt;&lt;p&gt;作为品牌在无钢圈内衣领域的新一代重磅产品，优衣库在轻氧 Bra 的研发上投入了巨大的精力，尤其是专门根据亚洲女性的内衣需求做出了针对性的设计，并就市面上普通无钢圈内衣的诸多痛点给到了一套解决方案。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_16.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;首先，轻氧 Bra 使用了优衣库独家的 &lt;strong&gt;AIRism 科技面料&lt;/strong&gt;，它具备&lt;strong&gt;轻盈透气&lt;/strong&gt;、&lt;strong&gt;凉感快干&lt;/strong&gt;、&lt;strong&gt;舒适柔滑&lt;/strong&gt;等众多优势，是优衣库夏天的老牌明星面料。&lt;/p&gt;&lt;p&gt;有 AIRism 保驾护航，轻氧 Bra 解决了普通无钢圈内衣闷热等痛点。呼吸感的面料可以&lt;strong&gt;快速排除湿气&lt;/strong&gt;，&lt;strong&gt;时刻保持清爽&lt;/strong&gt;，另外面料&lt;strong&gt;触感柔滑&lt;/strong&gt;，也减少了对肌肤的摩擦。&lt;/p&gt;&lt;p&gt;市面上很多无钢圈内衣在追求舒适性时几乎完全放弃了支撑性，很多消费者反映“好像只穿了一件小背心”。为了满足消费者对胸部支撑保护、胸型修饰的需求，经典轻氧 Bra 采用了特别设计的&lt;strong&gt;花瓣罩杯&lt;/strong&gt;，它能够提供&lt;strong&gt;全方位的软支撑&lt;/strong&gt;，不空杯也不压胸，让胸型自然饱满。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_15.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;肩带容易滑落是各式内衣都具有的痛点，轻氧 Bra 也对此做出针对性的设计，采用了&lt;strong&gt;点状条纹粘合工艺&lt;/strong&gt;，确保&lt;strong&gt;肩带防滑不易掉落&lt;/strong&gt;。另外，&lt;strong&gt;宽肩带设计和肩带出色的弹力&lt;/strong&gt;还减少了对肩膀的压力，&lt;strong&gt;轻松不勒&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220727145019_03.jpeg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220727145019_01.gif&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;除了提升产品性能，优衣库也向来重视让产品更易打理，为消费者减负。经典轻氧 Bra 也不例外，它是&lt;strong&gt;可机洗&lt;/strong&gt;的，采用了&lt;strong&gt;可拆卸罩杯加四点定位&lt;/strong&gt;的设计，解决了市面上多数无钢圈内衣清洗易跑杯和变形的痛点。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_14.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;本季，经典轻氧 Bra 在&lt;strong&gt;经典百搭的黑色、摩卡棕和肤色&lt;/strong&gt;的基础上，还推出了&lt;strong&gt;全新茶花粉&lt;/strong&gt;，满足女生们不同的喜好和搭配需求。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_13.jpg&quot;/&gt;&lt;/p&gt;&lt;h2&gt;轻氧 Bra 新季有新款&lt;/h2&gt;&lt;p&gt;优衣库向来追求精益求精，不断为旗下产品带来迭代升级，并致力于为消费者提供更多细化的选择。本季除了为经典轻氧 Bra 添上新色，优衣库还推出了新款轻氧 Bra，它延续了经典款的一众优势——无束缚、好透气、胸型美、可机洗，同时又有不少革新之处。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_12.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;从设计上来看，新款轻氧 Bra 采用了全新 &lt;strong&gt;V 领&lt;/strong&gt;设计（原本的经典款是 U 领设计），满足大家多样化的搭配需求，比如搭配低领连衣裙，V 领内衣可以做到更隐形，舒适和性感兼得。&lt;/p&gt;&lt;p&gt;和经典款轻氧 Bra 相比，新款另外一个大的变化是采用了&lt;strong&gt;固定罩杯&lt;/strong&gt;的设计，让大家在打理时可以更加省心，直接机洗，也不用担心跑杯。并且罩杯采用的是具有出色恢复性的海绵，它&lt;strong&gt;不容易变形&lt;/strong&gt;，还&lt;strong&gt;非常耐穿&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726173839_00.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;新款轻氧 Bra 采用了&amp;nbsp;&lt;strong&gt;3&amp;nbsp;层轻薄构造&lt;/strong&gt;。表层依旧采用了柔滑透气的 &lt;strong&gt;AIRism 面料&lt;/strong&gt;，同时新款的&lt;strong&gt;面料弹力进行了升级&lt;/strong&gt;，带来裸感体验。内层有罩杯，以及内置的&lt;strong&gt;轻薄弹力网布&lt;/strong&gt;，能够更好地&lt;strong&gt;收拢副乳&lt;/strong&gt;，有足够的承托又保证了舒适感。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726173839_01.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220727145019_04.jpeg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220727145019_00.gif&quot; style=&quot;&quot; title=&quot;面料弹力再升级&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220727145019_05.jpg&quot; style=&quot;&quot; title=&quot;侧比超过 13 厘米，能够更好地收拢副乳&quot;/&gt;&lt;/p&gt;&lt;p&gt;新款轻氧 Bra 同样提供了&lt;strong&gt;经典的黑色、摩卡棕和肤色&lt;/strong&gt;，同时还有清新优雅的&lt;strong&gt;夏日新色调——远山绿&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_09.jpeg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_08.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;轻氧 Bra 除了从面料科技、细节设计、工艺等方方面面入手提升了舒适性，也同时考虑到了大家日常在不同场景下的穿搭需求。&lt;/p&gt;&lt;p&gt;轻氧 Bra 能舒适地贴合身体，&lt;strong&gt;在视觉和触觉上都能做到“隐形&lt;/strong&gt;&lt;strong&gt;”&lt;/strong&gt;。同时，考究的设计和做工让它&lt;strong&gt;外露也非常得体优雅&lt;/strong&gt;，夏日可以外搭防晒衣或轻薄的空调衫，无论是经典色调，还是两款夏日新色，都为外露搭配提供了多种可能。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_07.jpg&quot;/&gt;&lt;/p&gt;&lt;h2&gt;多元美，自在美&lt;/h2&gt;&lt;p&gt;深耕无钢圈内衣市场十余年，优衣库积累了一个非常成熟且多元的无钢圈内衣产品线，从&lt;strong&gt;经典款 3D Bra&lt;/strong&gt;，到&lt;strong&gt;运动款&lt;/strong&gt;、&lt;strong&gt;法式蕾丝款&lt;/strong&gt;、&lt;strong&gt;设计师合作款&lt;/strong&gt;，可以满足大家的不同喜好和穿着习惯，以及在不同场景下的功能和搭配需求。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_06.jpg&quot; style=&quot;&quot; title=&quot;动感文胸和蕾丝法式无钢圈文胸&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_05.gif&quot; style=&quot;&quot; title=&quot;优衣库和 Mame Kurogouchi 的内衣合作系列颇受欢迎&quot;/&gt;&lt;/p&gt;&lt;p&gt;同时优衣库也拥有业内领先的内衣制造工艺和技术，以经典产品轻型 3D Bra 为例，它采用了独特的 &lt;strong&gt;3D 一体成型工艺&lt;/strong&gt;，3D 立体结构在各个方向都拥有出色的伸展性，能够更好地贴合不同胸型。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_04.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;轻型 3D Bra 具有 &lt;strong&gt;6 层构造&lt;/strong&gt;，其中由柔软树脂构成的伸缩罩杯能够动态贴合包裹胸部，提供&lt;strong&gt;立体支撑&lt;/strong&gt;，弹力网布可以&lt;strong&gt;有效收副乳&lt;/strong&gt;，回弹海绵能带来&lt;strong&gt;稳定承托&lt;/strong&gt;，果冻条侧缝提拉带来&lt;strong&gt;柔软支撑&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_03.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;本季，优衣库继续对经典&amp;nbsp;3D&amp;nbsp;Bra 带来升级，包括进一步带来了&lt;strong&gt;更细化的尺码标注&lt;/strong&gt;，&lt;strong&gt;方便消费者进行挑选&lt;/strong&gt;。和市面上无钢圈内衣粗暴的尺码模式不同，优衣库 3D Bra&amp;nbsp;细致的尺码让不同身材的女生都能找到最适合自己的那一款。&lt;/p&gt;&lt;p&gt;另外，优衣库还为这款经典产品打造了 &lt;strong&gt;3 款带有秋日气息的新色&lt;/strong&gt;，分别是宝石蓝、驼色和咖色，都优雅精致。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_02.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;优衣库不止满足于做无钢圈内衣市场的开拓者，十多年来不断在精进工艺，针对市面上无钢圈内衣的痛点，以及消费者的多样化需求，不断革新产品，扩展商品丰富度，满足女性消费者对内衣舒适性、承托保护、造型搭配等不同方面的需求。陪伴女生们轻松做自己。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_01.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;目前，包括新款轻氧 Bra 和新升级的轻型 3D Bra 在内的优衣库无钢圈内衣新品已经正式上市，女生们不妨扫码进入掌上优衣库小程序挑选一番吧。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/uniqlobra2022fw_20220726110353_00.jpg&quot; style=&quot;&quot; title=&quot;扫码进入掌上优衣库&quot;/&gt;&lt;/p&gt;
-                    
-                 
-    </details> 
 
-- 👺 [今日消费资讯：匡威推出 Chuck 70 Plus 系列、福特 Mustang 元光极昼限量版和寰海蓝天限量版上市](http://www.toodaylab.com/81045) | Wed Jul 27 2022 12:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-                    
+
+    </details>
+
+- 👺 [今日消费资讯：匡威推出 Chuck 70 Plus 系列、福特 Mustang 元光极昼限量版和寰海蓝天限量版上市](http://www.toodaylab.com/81045) | Wed Jul 27 2022 12:25 AM
+    <details><summary>展开描述 ...</summary>
+
+
                         &lt;h2&gt;“2022 HELLO 崇礼·翠云山迷笛音乐季”延期&lt;/h2&gt;&lt;p&gt;7 月 26 日，&lt;a href=&quot;https://mp.weixin.qq.com/s/NBH0DYj6fEskftgYtInJuw&quot; target=&quot;_blank&quot;&gt;“2022 HELLO 崇礼·翠云山迷笛音乐季”&lt;/a&gt;官宣因极端天气延期。音乐季原定 7 月 29 - 30 日在崇礼举行。&lt;/p&gt;&lt;p&gt;目前没有新的时间计划，已购票同学将原路退款。&lt;/p&gt;&lt;hr/&gt;&lt;h2&gt;匡威推出 Chuck 70 Plus 系列&lt;/h2&gt;&lt;p&gt;7 月 25 日，匡威推出 Chuck 70 Plus 系列，系列有 5 个配色，它们在经典鞋型的基础上做了解构的处理，也都采用了 OrthoLite 鞋垫和 PU 鞋后跟来提升舒适感，此外还有加长鞋舌等细节。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220727news_20220726161632_00.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220727news_20220726161632_01.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220727news_20220726161632_02.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;系列将从 8 月 4 日开始在匡威官网、&lt;a href=&quot;https://s.click.taobao.com/t?e=m%3D2%26s%3DParaHaqmTulw4vFB6t2Z2jAVflQIoZepMljcGUdc4HdyINtkUhsv0OoBBFEVHSc5YoVUTgje2cKquxW3xu6vKI4V1QUsGiZTbPZEhQTYzhEZ%2B4o74eY4Z3Wa%2B0QZy5iaQsb%2FxkL3QOy0vbVVQ43IZ70Q%2FwdKTFX%2BIYULNg46oBA%3D&amp;union_lens=lensId%3AOPT%401633933575%400bba6582_b61e_17c6e07c502_86e3%4001&quot; target=&quot;_blank&quot;&gt;天猫旗舰店&lt;/a&gt;、&lt;a href=&quot;https://union-click.jd.com/jdc?e=&amp;p=JF8BAMwJK1olXDYCUFtdDUMnRzBQRQQlBENHFRxWFlVLUzJVBABAQlRcCEAFVx5DSnMIH14VWA4dDRsBVXsTYBNUY1hnD2VcHF4fXAsWRQlIZFx1UQoyVFlZAUkSCm0NGGsVXAcCVlxeDkwfM18IGmtUMwYGXFxcDHsXBGgOElwTWQIGZF5aDEIeAG0MElkQXAcyVFZZOA5JXTpYUwZFDgUyZG5eOHsnAF8LKwV7XFUCVlhUDkl5XmgIXRtHAEJsVF9fD0kVAG8NK1kUXAQAZG4&quot; target=&quot;_blank&quot;&gt;京东旗舰店&lt;/a&gt;等各渠道发售，单品售价 699 元。&lt;/p&gt;&lt;hr/&gt;&lt;h2&gt;Curry Flow 9 系列“小学生”配色即将发售&lt;/h2&gt;&lt;p&gt;7 月 25 日，Under Armour 旗下 Curry 品牌推出 Curry Flow 9 系列“小学生”配色，它的配色灵感来自上世纪 90 年代中国小学校园最具代表性的校服配色，鞋身以白绿色为主，有红色线条点缀，鞋舌位置还有可更换的魔术贴徽章。同时它有着 UA Flow 中底科技搭配 UA Warp 鞋面，仍然确保了专业的性能。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220727news_20220726161632_03.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220727news_20220726161632_04.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;这个配色将成为 Curry Flow 9 系列的“收官之作”。鞋款将从 7 月 28 日开始在 UA 官网以及线上线下渠道发售。&lt;/p&gt;&lt;hr/&gt;&lt;h2&gt;福特 Mustang 元光极昼限量版和寰海蓝天限量版上市&lt;/h2&gt;&lt;p&gt;7 月 23 日，福特中国宣布福特 Mustang 元光极昼限量版（Ice White Limited Edition）和寰海蓝天限量版（Coastal Limited Edition）在中国正式上市。同时掠光复刻限量版本将新增掠光蓝（Grabber Blue）车色，基础版将新增天屿蓝（Atlas Blue）车色。&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/20220727news_20220726161632_05.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;其中元光极昼限量版车型采用了元光白（Oxford White）车漆以及限定外观和内饰套件。新车配备了专属限量版元光白前后福特 Mustang 车标，同时有限量版元光白大尾翼以及 19 英寸全白烤漆铝制轮毂。这是从 1993 年的纯白限量版第 3 代福特 Mustang 之后，福特首次在 Mustang 上采用车身与轮毂 White-on-White 的独特设计。&lt;/p&gt;&lt;p&gt;寰海蓝天限量版车型的车身色为寰海蓝（Brittany Blue Metallic），同时它采用限量版专属高光黑色前格栅，并搭配限量版专属红白蓝三柱 Mustang 标识（官方进口福特 Mustang 系列中唯一使用这一经典车标的版本）。此外它的外观套件中的专属元素包括白色的引擎盖拉花设计、后翼子板进气口饰件、19 英寸哑光黑高级铝制轮毂等，内饰套件则包括专属寰海蓝天铭牌和发光门槛踏板。&lt;/p&gt;&lt;p&gt;定价方面，福特 Mustang 2.3L EcoBoost 元光极昼限量版和寰海蓝天限量版均为 38.28 万元，福特 Mustang 2.3L EcoBoost 掠光复刻限量版为 40.18 万元。&lt;/p&gt;&lt;hr/&gt;&lt;h2&gt;极星宣布 2022 年上半年业绩&lt;/h2&gt;&lt;p&gt;日前 Polestar 极星宣布了 2022 年上半年业绩，今年上半年极星全球共交付了约 21200 辆车，相比 2021 年同期的 9510 辆增幅近 125%，同时极星重申今年将实现全球 50000 辆车交付的全年目标。&lt;/p&gt;&lt;p&gt;今年以来极星全球订单量达到 50000 辆，同比增长超过 350%。（极星的目标是在 2025 年实现 29 万辆的全球销量）&lt;/p&gt;&lt;p&gt;今年上半年极星已从 19 个全球市场增加到 25 个，全球零售网点数量从 103 家增加到 125 家，预计到今年年底将继续新增约 30 家。&lt;/p&gt;&lt;p&gt;按计划，今年 10 月极星将发布纯电 SUV 极星 3（Polestar 3），并有望在全球首发日开启预订。&lt;/p&gt;
-                    
-                 
-    </details> 
 
-- 🫣 [太古酒店“居舍系列”即将走出中国，海外首家酒店已选址东京涩谷](http://www.toodaylab.com/81047) | Tue Jul 26 2022 7:22 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-                    
+
+    </details>
+
+- 🫣 [太古酒店“居舍系列”即将走出中国，海外首家酒店已选址东京涩谷](http://www.toodaylab.com/81047) | Tue Jul 26 2022 7:22 PM
+    <details><summary>展开描述 ...</summary>
+
+
                         &lt;p&gt;7 月 26 日，太古地产宣布太古酒店“居舍系列”品牌将落户日本东京涩谷区，新酒店预计将在 2027 年财年竣工，这也将是“居舍系列”在中国之外的首家酒店。&lt;/p&gt;&lt;p&gt;“居舍系列”首家酒店就是北京瑜舍，它在 2008 年开幕，之后陆续有香港奕居、成都博舍、&lt;a href=&quot;https://www.toodaylab.com/74106&quot; target=&quot;_blank&quot;&gt;上海镛舍&lt;/a&gt;开幕，它们有着同样的气质，但却以不同方式进行了表达——都和在地文化融为一体，比如香港奕居呼应了霓虹夜景，成都博舍更是融入在百年历史的中式庭院当中。&lt;/p&gt;&lt;p&gt;这次涩谷的新酒店还没有命名，但酒店将属于 Tokyu Group 和 L Catterton Real Estate（LCRE）共同推进的涩谷上西区开发计划的一部分。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/h_hotel_20220727031918_01.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/h_hotel_20220727031918_02.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;这一高级综合发展项目位于 Tokyu Department Store 旗舰店旧址，毗邻松涛区，项目占地 11.7 万平方米，将包括高端零售以及高级酒店和住宅。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/h_hotel_20220727032126_00.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/h_hotel_20220727031918_04.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;值得一提的是，整个项目将由挪威斯诺赫塔建筑事务所（Snøhetta）操刀设计，我们已经很多次介绍过 Snøhetta 的设计。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/h_hotel_20220727032021_00.jpg&quot;/&gt;&lt;/p&gt;&lt;p&gt;目前项目的地理位置图、项目规划图和建筑效果图都有公布，不过这不代表最终方案，可能之后还会有调整。而这对于太古酒店管理和运营来说都是重要一步，太古地产行政总裁兼太古酒店主席彭国邦表示“未来会继续寻找合适机遇，在区内发展‘居舍系列’及东隅酒店品牌”。&lt;/p&gt;
-                    
-                 
-    </details> 
 
-- 💂 [7 米挑高加多个“首次”，苹果伦敦 Apple Brompton Road 亮相](http://www.toodaylab.com/81046) | Tue Jul 26 2022 1:06 PM 
-    <details><summary>展开描述 ...</summary> 
-    
-                    
+
+    </details>
+
+- 💂 [7 米挑高加多个“首次”，苹果伦敦 Apple Brompton Road 亮相](http://www.toodaylab.com/81046) | Tue Jul 26 2022 1:06 PM
+    <details><summary>展开描述 ...</summary>
+
+
                         &lt;p&gt;7 月 26 日，苹果带来伦敦 Apple Brompton Road 的预览，这是伦敦市中心（Central London）第 3 家 Apple Store，同时也是英国第 39 家 Apple Store。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_01.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;门店位于骑士桥，旁边是海德公园，这次&lt;a href=&quot;https://www.toodaylab.com/81027&quot; target=&quot;_blank&quot;&gt;预热阶段带来的视觉设计&lt;/a&gt;灵感就来自当地植物，而最终亮相的门店空间也因为摆放了 12 棵高大的西西里榕树（Genius Grove“天才树”）而显得郁郁葱葱。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_02.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;这次是一层楼的店面，挑高达到 7 米，照例是经典的落地玻璃幕墙，店内的拱廊则延续了这座始建于 1903 年的建筑的原始风貌。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_03.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;同时店铺采用水磨石地板，但这是以植物为基础的生物树脂制成，这也是苹果在全球零售店里首次尝试这一材料。另外店内采用的是 100% 可再生能源供电，充分强调可持续。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_04.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_05.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;店铺分布仍然是左右对称，Forum 互动坊区域放在了正对面的中央位置（这个区域还专门做了一块更矮的天花板，是镜面的，在上课或者互动时的沉浸感会更强）。一侧还有&amp;nbsp;Apple Pickup，这也是英国首个 Apple Pickup 专属区域。&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_06.jpg&quot; style=&quot;&quot; title=&quot;注意头上的镜面效果&quot;/&gt;&lt;/p&gt;&lt;p&gt;&lt;img src=&quot;//files.toodaylab.com/2022/07/AppleBromptonRoad_20220726210510_07.jpg&quot; style=&quot;&quot;/&gt;&lt;/p&gt;&lt;p&gt;这间门店将在当地时间 7 月 28 日下午 4 点正式开业（注意不是早上），门店员工团队达到了 200 人，支持 45 种语言。&lt;/p&gt;
-                    
-                 
-    </details> 
+
+
+    </details>
 <!-- toodaylab:END -->
 ## alloyteam
 
 <!-- alloyteam:START -->
-- ⚗️ [走向匿名化，谈谈微信小程序新授权登录](http://www.alloyteam.com/2021/04/15431/) | Fri Apr 16 2021 5:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    今年 2 月，微信团队针对小程序登录和用户信息获取进行了一次接口调整，这一举动史无前例地撼动了几乎所有小程序开 [&amp;#8230;] 
-    </details> 
+- ⚗️ [走向匿名化，谈谈微信小程序新授权登录](http://www.alloyteam.com/2021/04/15431/) | Fri Apr 16 2021 5:03 AM
+    <details><summary>展开描述 ...</summary>
+    今年 2 月，微信团队针对小程序登录和用户信息获取进行了一次接口调整，这一举动史无前例地撼动了几乎所有小程序开 [&amp;#8230;]
+    </details>
 
-- 🚀 [yield 学习](http://www.alloyteam.com/2021/03/15427/) | Sat Mar 27 2021 12:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    最近看的代码 yield 比较多，上次看到这么多 function* 还是在 koa1 时代，脑子中满是 yi [&amp;#8230;] 
-    </details> 
+- 🚀 [yield 学习](http://www.alloyteam.com/2021/03/15427/) | Sat Mar 27 2021 12:10 PM
+    <details><summary>展开描述 ...</summary>
+    最近看的代码 yield 比较多，上次看到这么多 function* 还是在 koa1 时代，脑子中满是 yi [&amp;#8230;]
+    </details>
 
-- 🧰 [callable-object](http://www.alloyteam.com/2021/03/callable-object/) | Sun Mar 14 2021 8:47 AM 
-    <details><summary>展开描述 ...</summary> 
-    原文地址：https://github.com/vorshen/blog/blob/master/callab [&amp;#8230;] 
-    </details> 
+- 🧰 [callable-object](http://www.alloyteam.com/2021/03/callable-object/) | Sun Mar 14 2021 8:47 AM
+    <details><summary>展开描述 ...</summary>
+    原文地址：https://github.com/vorshen/blog/blob/master/callab [&amp;#8230;]
+    </details>
 
-- 👺 [深入学习定时器](http://www.alloyteam.com/2021/03/15389/) | Tue Mar 02 2021 3:37 PM 
-    <details><summary>展开描述 ...</summary> 
-    或许在生活中大家都讨厌定时器，比如周一早上的闹钟、承诺老板第二天一早给报告的 deadline；但是在代码的世 [&amp;#8230;] 
-    </details> 
+- 👺 [深入学习定时器](http://www.alloyteam.com/2021/03/15389/) | Tue Mar 02 2021 3:37 PM
+    <details><summary>展开描述 ...</summary>
+    或许在生活中大家都讨厌定时器，比如周一早上的闹钟、承诺老板第二天一早给报告的 deadline；但是在代码的世 [&amp;#8230;]
+    </details>
 
-- 🫣 [提高资源的安全性 – SRI 与 CSP](http://www.alloyteam.com/2021/01/sri/) | Thu Jan 14 2021 11:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    原文地址 在 《前端资源加载失败优化》文章中，我们聊到了前端资源加载失败的监控方式，以及资源加载失败时的优化方 [&amp;#8230;] 
-    </details> 
+- 🫣 [提高资源的安全性 – SRI 与 CSP](http://www.alloyteam.com/2021/01/sri/) | Thu Jan 14 2021 11:37 AM
+    <details><summary>展开描述 ...</summary>
+    原文地址 在 《前端资源加载失败优化》文章中，我们聊到了前端资源加载失败的监控方式，以及资源加载失败时的优化方 [&amp;#8230;]
+    </details>
 
-- 💂 [前端资源加载失败优化](http://www.alloyteam.com/2021/01/15358/) | Thu Jan 07 2021 10:58 AM 
-    <details><summary>展开描述 ...</summary> 
-    原文地址 Web 项目上线后，开始开门迎客，等待着来自大江南北、有着各式各样网络状态的用户莅临。在千差万别的网 [&amp;#8230;] 
-    </details> 
+- 💂 [前端资源加载失败优化](http://www.alloyteam.com/2021/01/15358/) | Thu Jan 07 2021 10:58 AM
+    <details><summary>展开描述 ...</summary>
+    原文地址 Web 项目上线后，开始开门迎客，等待着来自大江南北、有着各式各样网络状态的用户莅临。在千差万别的网 [&amp;#8230;]
+    </details>
 <!-- alloyteam:END -->
-## dgtle
-
-<!-- dgtle:START -->
-<!-- dgtle:END -->
 
 
 ## huoding
