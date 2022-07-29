@@ -1,6 +1,9 @@
 name: Update awesome-stars
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: 0 18 * * *
   workflow_dispatch:

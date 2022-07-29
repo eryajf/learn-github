@@ -10,8 +10,8 @@ this is learn repository.
 
 ## 个人博客
 
-<!-- eryajf:START -->
-<!-- eryajf:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 #### :sparkles: [My followers](src/getTopFollowers.py)
