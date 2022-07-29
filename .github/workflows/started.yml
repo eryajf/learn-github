@@ -27,8 +27,6 @@ jobs:
           git config --local user.name "eryajf"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update awesome stars"
-    #   - name: Pull changes
-    #     run: git pull -r
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
