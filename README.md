@@ -92,20 +92,20 @@
       <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
-      <a href="https://github.com/georgezouq">
-        <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
-      </a>
-      <br />
-      <a href="https://github.com/georgezouq">GeorgeZou</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/vortesnail">
         <img src="https://avatars2.githubusercontent.com/u/18679842" width="100px;" alt="vortesnail"/>
       </a>
       <br />
       <a href="https://github.com/vortesnail">chen xin</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/georgezouq">
+        <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
+      </a>
+      <br />
+      <a href="https://github.com/georgezouq">GeorgeZou</a>
     </td>
     <td align="center">
       <a href="https://github.com/834810071">
