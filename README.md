@@ -483,21 +483,29 @@ Poised beyond the lunar horizon is
  
     </details> 
 
-- 🧰 [-Asuka-: @无聊图](http://i.jandan.net/t/5290210) | Sat Jul 30 2022 2:16 PM 
+- 🧰 [汪汪猫: @无聊图 1938年，中国的黄昌贤用植物激素处理西瓜雌花，第一次获得了无籽西瓜。该成果不仅获得了美国金钥匙奖，还被列入1938年世界生物学成就之一，他也...](http://i.jandan.net/t/5290242) | Sat Jul 30 2022 2:51 PM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
+&lt;p&gt;1938年，中国的黄昌贤用植物激素处理西瓜雌花，第一次获得了无籽西瓜。该成果不仅获得了美国金钥匙奖，还被列入1938年世界生物学成就之一，他也被誉为“无籽西瓜之父”。&lt;br&gt;
+&lt;img src=&quot;http://tva2.sinaimg.cn/large/69618f6fly1h4pcb07gu4j20j60j6wj4.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
+ 
+    </details> 
+
+- 🌊 [-Asuka-: @无聊图](http://i.jandan.net/t/5290210) | Sat Jul 30 2022 2:16 PM 
     <details><summary>展开描述 ...</summary> 
     &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
 &lt;p&gt;&lt;img src=&quot;http://tva2.sinaimg.cn/large/007IKTKsly1h4pbaoqtofj30fa0hz0v7.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
  
     </details> 
 
-- 🌊 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290166) | Sat Jul 30 2022 1:37 PM 
+- 🥳 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290166) | Sat Jul 30 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
     &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
 &lt;p&gt;&lt;img src=&quot;http://tva2.sinaimg.cn/large/81fa7475ly1h4pa1l2ozkg208m0a0npj.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
  
     </details> 
 
-- 🥳 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290165) | Sat Jul 30 2022 1:37 PM 
+- 🐎 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290165) | Sat Jul 30 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
     &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
 &lt;p&gt;&lt;img src=&quot;http://tva4.sinaimg.cn/large/81fa7475ly1h4pa1ov7bpg209a098hdx.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
@@ -508,13 +516,6 @@ Poised beyond the lunar horizon is
     <details><summary>展开描述 ...</summary> 
     &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
 &lt;p&gt;&lt;img src=&quot;http://tva3.sinaimg.cn/large/81fa7475ly1h4pa29dvhrg208g0dc1l4.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
- 
-    </details> 
-
-- 🐎 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290160) | Sat Jul 30 2022 1:37 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
-&lt;p&gt;&lt;img src=&quot;http://tva1.sinaimg.cn/large/81fa7475ly1h4pa2fgkkxg209o09px6w.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
  
     </details> 
 <!-- jandantop:END -->
