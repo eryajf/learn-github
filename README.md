@@ -476,46 +476,49 @@ Poised beyond the lunar horizon is
 ## jandantop
 
 <!-- jandantop:START -->
-- 🎉 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290165) | Sat Jul 30 2022 1:37 PM 
+- 🎉 [-Asuka-: @无聊图](http://i.jandan.net/t/5290210) | Sat Jul 30 2022 2:16 PM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
+&lt;p&gt;&lt;img src=&quot;http://tva2.sinaimg.cn/large/007IKTKsly1h4pbaoqtofj30fa0hz0v7.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
+ 
+    </details> 
+
+- 🧰 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290166) | Sat Jul 30 2022 1:37 PM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
+&lt;p&gt;&lt;img src=&quot;http://tva2.sinaimg.cn/large/81fa7475ly1h4pa1l2ozkg208m0a0npj.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
+ 
+    </details> 
+
+- 🌊 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290165) | Sat Jul 30 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
     &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
 &lt;p&gt;&lt;img src=&quot;http://tva4.sinaimg.cn/large/81fa7475ly1h4pa1ov7bpg209a098hdx.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
  
     </details> 
 
-- 🧰 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290161) | Sat Jul 30 2022 1:37 PM 
+- 🥳 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290161) | Sat Jul 30 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
     &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
 &lt;p&gt;&lt;img src=&quot;http://tva3.sinaimg.cn/large/81fa7475ly1h4pa29dvhrg208g0dc1l4.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
  
     </details> 
 
-- 🌊 [种田能手: @无聊图](http://i.jandan.net/t/5290121) | Sat Jul 30 2022 12:27 PM 
+- 🐎 [李狗子义儿: @无聊图](http://i.jandan.net/t/5290158) | Sat Jul 30 2022 1:37 PM 
     <details><summary>展开描述 ...</summary> 
     &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
-&lt;p&gt;&lt;img src=&quot;http://tva3.sinaimg.cn/large/69618f6fly1h4p8619sy3j20yj0u0q50.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://tva2.sinaimg.cn/large/81fa7475ly1h4pa2ocvcvg20bs0dckjn.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
  
     </details> 
 
-- 🥳 [种田能手: @无聊图](http://i.jandan.net/t/5290119) | Sat Jul 30 2022 12:26 PM 
+- 🐎 [猫与牛仔裤: @无聊图 （重发） 藤井慎吾为宝可梦XY作画的运动镜头段落 #108 #43 藤井是当代动画运动镜头设计的另一位代表性原画，在充满动画趣味的动作之余，藤...](http://i.jandan.net/t/5290125) | Sat Jul 30 2022 12:34 PM 
     <details><summary>展开描述 ...</summary> 
     &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
-&lt;p&gt;&lt;img src=&quot;http://tva2.sinaimg.cn/large/69618f6fly1h4p84n386bj20ni0xejsf.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
- 
-    </details> 
-
-- 🐎 [这仅仅只是测: @无聊图 老照片](http://i.jandan.net/t/5290107) | Sat Jul 30 2022 12:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
-&lt;p&gt;老照片&lt;br&gt;
-&lt;img src=&quot;http://tva2.sinaimg.cn/large/69618f6fly1h4p7nh9otqj20n00gjac5.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
- 
-    </details> 
-
-- 🐎 [饕餮: @无聊图](http://i.jandan.net/t/5290105) | Sat Jul 30 2022 12:07 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;small&gt;&lt;b&gt;@无聊图&lt;/b&gt;&lt;/small&gt;
-&lt;p&gt;&lt;img src=&quot;http://tva1.sinaimg.cn/large/00814FKVgy1h4p7kpzty5g30ba0k07wq.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;（重发）&lt;br&gt;
+&lt;img src=&quot;http://tva4.sinaimg.cn/large/61e4cc75gy1h4p87ywlbwg20ci072e8f.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;&lt;br&gt;
+藤井慎吾为宝可梦XY作画的运动镜头段落 #108 #43&lt;br&gt;
+藤井是当代动画运动镜头设计的另一位代表性原画，在充满动画趣味的动作之余，藤井对运动与背景构图的契合融洽非常在意。有时在动画里，华丽快速的动作在背景和作画的错位下，也会显得飘在地面之上，有种浮于表面的不信服感，因此他结合3D Layout与3D背景来挑战复杂空间变化的跟随旋转镜头。&lt;br&gt;
+瑟妹和宝可梦在镜头的不断旋转中进行交错舞蹈堪称作画结合3D背景的顶尖设计。我永远喜欢瑟妹。&lt;/p&gt;
  
     </details> 
 <!-- jandantop:END -->
