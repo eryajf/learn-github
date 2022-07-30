@@ -112,3 +112,83 @@ jobs:
           comment_tag_name: "botmzt"
           feed_list: "https://rsshub.v2fy.com/telegram/channel/botmzt"
           template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
+      - name: Pull in eryajf posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
+          rand_seed: "ldd"
+          comment_tag_name: "ldd"
+          feed_list: "https://www.ldd.cc/feed"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
+      - name: Pull in eryajf posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
+          rand_seed: "1x"
+          comment_tag_name: "1x"
+          feed_list: "https://rsshub.v2fy.com/1x"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
+      - name: Pull in eryajf posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
+          rand_seed: "bing"
+          comment_tag_name: "bing"
+          feed_list: "https://rsshub.v2fy.com/bing"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
+      - name: Pull in eryajf posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
+          rand_seed: "cnu"
+          comment_tag_name: "cnu"
+          feed_list: "https://rsshub.v2fy.com/cnu/selected"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
+      - name: Pull in eryajf posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
+          rand_seed: "googledoodles"
+          comment_tag_name: "googledoodles"
+          feed_list: "https://rsshub.v2fy.com/google/doodles/zh-CN"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
+      - name: Pull in eryajf posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
+          rand_seed: "nasa"
+          comment_tag_name: "nasa"
+          feed_list: "https://rsshub.v2fy.com/nasa/apod"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
+      - name: Pull in eryajf posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
+          rand_seed: "wallpaperhub"
+          comment_tag_name: "wallpaperhub"
+          feed_list: "https://rsshub.v2fy.com/wallpaperhub"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
+      - name: Pull in eryajf posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: 6
+          committer_username: "eryajf"
+          committer_email: "eryajf@163.com"
+          rand_seed: "jandantop"
+          comment_tag_name: "jandantop"
+          feed_list: "https://rsshub.v2fy.com/jandan/top"
+          template: "$newline- $randomEmoji(💯,🔥,💫,🚀,🌮,📝,🥳,💻,🧰,🏊,🥰,🧐,🤓,😎,🥸,🤩,🤗,🤔,🫣,🤭,🤠,👹,👺,🤡,🤖,🎃,😺,🫶,👍,💪,💄,👀,🧠,🧑‍🏫,👨‍🏫,💂,🧑‍💻,🥷,💃,🕴,💼,🎓,🐻,🐵,🙉,🦄,🦆,🦅,🦍,🦣,🐘,🦒,🦏,🐎,🦩,🐲,🌝,🌜,🌏,🌈,🌊,🎬,🎭,🚀,🚦,⛽️,🗽,🎡,🌋,🌁,💡,🕯,🪜,🧰,⚗️,🔭,🪄,🎊,🎉,) [$title]($url) | $date $newline    <details><summary>展开描述 ...</summary> $newline    $description $newline    </details> $newline"
