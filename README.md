@@ -30,173 +30,173 @@
 ## 个人博客
 
 <!-- BLOG-POST-LIST:START -->
-- ⚗️ [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) | Fri Jul 29 2022 4:26 PM 
-    <details><summary>展开描述 ...</summary> 
-    当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。 
-    </details> 
+- ⚗️ [利用GitHub Actions自动生成个人star列表并归类](https://wiki.eryajf.net/pages/4ba0f4/) | Fri Jul 29 2022 4:26 PM
+    <details><summary>展开描述 ...</summary>
+    当我们在GitHub中冲浪时，遇到优秀的项目经常会为之点赞，但就像网络上经常说的玩笑一样：收藏等于会了。其实我们不应该让这些已被自己赏识过的项目石沉大海，那么，如果有一个项目能把自己过去star过得项目自动整理并归类就好了。本文就将介绍如何利用GitHub Actions来实现这个功能。
+    </details>
 
-- 🚀 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) | Fri Jul 29 2022 3:51 PM 
-    <details><summary>展开描述 ...</summary> 
-    GitHub中的follow功能，类似于微博中的关注，而关注我们的大佬，就更应该有一个合适的地方安排，本文将分享如何基于GitHub Actions自动生成个人的Fans列表。 
-    </details> 
+- 🚀 [利用GitHub Actions自动生成GitHub的Fans](https://wiki.eryajf.net/pages/db92f0/) | Fri Jul 29 2022 3:51 PM
+    <details><summary>展开描述 ...</summary>
+    GitHub中的follow功能，类似于微博中的关注，而关注我们的大佬，就更应该有一个合适的地方安排，本文将分享如何基于GitHub Actions自动生成个人的Fans列表。
+    </details>
 
-- 🧰 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/) | Fri Jul 29 2022 7:49 AM 
-    <details><summary>展开描述 ...</summary> 
-    学习周刊-总第64期-2022年第29周 
-    </details> 
+- 🧰 [学习周刊-总第64期-2022年第29周](https://wiki.eryajf.net/pages/6e74fb/) | Fri Jul 29 2022 7:49 AM
+    <details><summary>展开描述 ...</summary>
+    学习周刊-总第64期-2022年第29周
+    </details>
 
-- 👺 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM 
-    <details><summary>展开描述 ...</summary> 
-    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。 
-    </details> 
+- 👺 [如何将个人的GitHub主页配置的优雅好看](https://wiki.eryajf.net/pages/d195b4/) | Sat Jul 23 2022 11:10 AM
+    <details><summary>展开描述 ...</summary>
+    我很早注意到，GitHub当中，你创建一个与自己账号同名的仓库，然后这个仓库的内容会展示在个人主页，换言之，你可以通过装扮这个仓库，来实现个人主页的装扮。
+    </details>
 
-- 🫣 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template 
-    </details> 
+- 🫣 [一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template](https://wiki.eryajf.net/pages/48e307/) | Sat Jul 23 2022 11:06 AM
+    <details><summary>展开描述 ...</summary>
+    一个仅需三步配置就能生成免费个人博客的开源模板vdoing-template
+    </details>
 
-- 💂 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) | Sat Jul 23 2022 11:01 AM 
-    <details><summary>展开描述 ...</summary> 
-    做一个开源项目，尽量提供给受众以简单易用的快速上手体验，也是项目能够立刻把人抓住的一个关键。现在如果想让用户快速体验项目，除了提供demo环境之外，还有一个方案，那就是提供一个完备的docker-compose，让人能够直接一键拉起。 
-    </details> 
+- 💂 [利用GitHub Actions自动构建项目的docker镜像并发布到DockerHub](https://wiki.eryajf.net/pages/5baf0a/) | Sat Jul 23 2022 11:01 AM
+    <details><summary>展开描述 ...</summary>
+    做一个开源项目，尽量提供给受众以简单易用的快速上手体验，也是项目能够立刻把人抓住的一个关键。现在如果想让用户快速体验项目，除了提供demo环境之外，还有一个方案，那就是提供一个完备的docker-compose，让人能够直接一键拉起。
+    </details>
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
 <!-- iui:START -->
-- 🌊 [2022 年 7 月每日分享](https://iui.su/158/) | Fri Jul 29 2022 6:50 AM 
-    <details><summary>展开描述 ...</summary> 
-    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。7月29日onetabv2... 
-    </details> 
+- 🌊 [2022 年 7 月每日分享](https://iui.su/158/) | Fri Jul 29 2022 6:50 AM
+    <details><summary>展开描述 ...</summary>
+    可以收藏「不死鸟发布页」dalao.ru ，速记：大佬点入 关于不死鸟每日分享栏目发现一些不错的资源，你有好的发现点击这里快速投稿，如需图文或其它建议可在这里回复反馈。7月29日onetabv2...
+    </details>
 
-- 🫣 [闪电分镜](https://iui.su/1953/) | Mon Jul 25 2022 10:09 AM 
-    <details><summary>展开描述 ...</summary> 
-    闪电分镜影视飓风旗下的影视策划一站式解决方案。适合自媒体及up主等使用。包含Web网页和Pad端软件，为日常影视拍摄前期所遇到的分镜绘制、通告制作、场景管理、拍摄场记提供零门槛、流程化的制作方法... 
-    </details> 
+- 🫣 [闪电分镜](https://iui.su/1953/) | Mon Jul 25 2022 10:09 AM
+    <details><summary>展开描述 ...</summary>
+    闪电分镜影视飓风旗下的影视策划一站式解决方案。适合自媒体及up主等使用。包含Web网页和Pad端软件，为日常影视拍摄前期所遇到的分镜绘制、通告制作、场景管理、拍摄场记提供零门槛、流程化的制作方法...
+    </details>
 
-- 🌜 [资源搜索引擎](https://iui.su/3700/) | Fri Jul 22 2022 4:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    易搜综合网盘搜索阿里盘搜阿里云盘搜索找资源阿里云盘搜索tg中文搜索电报资源搜索引擎千帆搜索电报资源搜索引擎搜漫漫画搜索引擎影视搜影视聚合搜索引擎辅助狗无捆绑软件搜索引擎查报告可查询各行业的分析报... 
-    </details> 
+- 🌜 [资源搜索引擎](https://iui.su/3700/) | Fri Jul 22 2022 4:43 AM
+    <details><summary>展开描述 ...</summary>
+    易搜综合网盘搜索阿里盘搜阿里云盘搜索找资源阿里云盘搜索tg中文搜索电报资源搜索引擎千帆搜索电报资源搜索引擎搜漫漫画搜索引擎影视搜影视聚合搜索引擎辅助狗无捆绑软件搜索引擎查报告可查询各行业的分析报...
+    </details>
 
-- 🏊 [FDM：免费下载神器](https://iui.su/707/) | Thu Jul 21 2022 10:15 AM 
-    <details><summary>展开描述 ...</summary> 
-    Free Download Manager（简称FDM）是一款支持Windows/安卓/Mac的免费下载工具，相较于idm和ndm的简陋洁面，FDM的UI比较舒服，同样支持多线程下载。下载文件的... 
-    </details> 
+- 🏊 [FDM：免费下载神器](https://iui.su/707/) | Thu Jul 21 2022 10:15 AM
+    <details><summary>展开描述 ...</summary>
+    Free Download Manager（简称FDM）是一款支持Windows/安卓/Mac的免费下载工具，相较于idm和ndm的简陋洁面，FDM的UI比较舒服，同样支持多线程下载。下载文件的...
+    </details>
 
-- 🚦 [Resilio Sync License 授权文件下载](https://iui.su/956/) | Thu Jul 21 2022 10:03 AM 
-    <details><summary>展开描述 ...</summary> 
-    目前对所有版本有效，下载Resilio Sync License 授权许可证解压得到.btskey文件，点击试用，然后点击右上角的设置，在点击.btskey许可证文件导入即可。许可证下载Resi... 
-    </details> 
+- 🚦 [Resilio Sync License 授权文件下载](https://iui.su/956/) | Thu Jul 21 2022 10:03 AM
+    <details><summary>展开描述 ...</summary>
+    目前对所有版本有效，下载Resilio Sync License 授权许可证解压得到.btskey文件，点击试用，然后点击右上角的设置，在点击.btskey许可证文件导入即可。许可证下载Resi...
+    </details>
 
-- 🫣 [Z-Library电子书下载](https://iui.su/380/) | Thu Jul 21 2022 9:43 AM 
-    <details><summary>展开描述 ...</summary> 
-    Z-Library 是世界上最大的免费在线图书馆，它拥有近亿的电子书和文章。由于版权问题和某些关系，域名国内无法访问，下方是一些可以正确打开Z-Library的方法。Z-Library最新域名自... 
-    </details> 
+- 🫣 [Z-Library电子书下载](https://iui.su/380/) | Thu Jul 21 2022 9:43 AM
+    <details><summary>展开描述 ...</summary>
+    Z-Library 是世界上最大的免费在线图书馆，它拥有近亿的电子书和文章。由于版权问题和某些关系，域名国内无法访问，下方是一些可以正确打开Z-Library的方法。Z-Library最新域名自...
+    </details>
 <!-- iui:END -->
 
 ---
 
 <!-- jokerps:START -->
-- 🤓 [7-Zip](https://www.jokerps.com/6187.html) | Sun Aug 08 2021 2:58 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo-.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo-.png 512w, https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo--300x268.png 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt; 
-    </details> 
+- 🤓 [7-Zip](https://www.jokerps.com/6187.html) | Sun Aug 08 2021 2:58 PM
+    <details><summary>展开描述 ...</summary>
+    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo-.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo-.png 512w, https://www.jokerps.com/wp-content/uploads/2021/08/7ziplogo--300x268.png 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt;
+    </details>
 
-- 🌏 [GIMP](https://www.jokerps.com/6181.html) | Sun Aug 08 2021 2:34 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo.png 512w, https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo-300x268.png 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt; 
-    </details> 
+- 🌏 [GIMP](https://www.jokerps.com/6181.html) | Sun Aug 08 2021 2:34 PM
+    <details><summary>展开描述 ...</summary>
+    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo.png 512w, https://www.jokerps.com/wp-content/uploads/2021/08/GIMPlogo-300x268.png 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt;
+    </details>
 
-- 👹 [Listen 1](https://www.jokerps.com/6150.html) | Tue Jul 27 2021 1:40 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo.jpg&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo.jpg 512w, https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo-300x268.jpg 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt; 
-    </details> 
+- 👹 [Listen 1](https://www.jokerps.com/6150.html) | Tue Jul 27 2021 1:40 PM
+    <details><summary>展开描述 ...</summary>
+    &lt;img width=&quot;512&quot; height=&quot;458&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo.jpg&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo.jpg 512w, https://www.jokerps.com/wp-content/uploads/2021/07/Listen-1logo-300x268.jpg 300w&quot; sizes=&quot;&lpar;max-width: 512px&rpar; 100vw, 512px&quot; /&gt;
+    </details>
 
-- 🤠 [HandShaker](https://www.jokerps.com/6134.html) | Fri Jul 23 2021 2:56 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img width=&quot;400&quot; height=&quot;400&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo.png 400w, https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo-300x300.png 300w, https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo-150x150.png 150w&quot; sizes=&quot;&lpar;max-width: 400px&rpar; 100vw, 400px&quot; /&gt; 
-    </details> 
+- 🤠 [HandShaker](https://www.jokerps.com/6134.html) | Fri Jul 23 2021 2:56 AM
+    <details><summary>展开描述 ...</summary>
+    &lt;img width=&quot;400&quot; height=&quot;400&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo.png 400w, https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo-300x300.png 300w, https://www.jokerps.com/wp-content/uploads/2021/07/handshakerlogo-150x150.png 150w&quot; sizes=&quot;&lpar;max-width: 400px&rpar; 100vw, 400px&quot; /&gt;
+    </details>
 
-- 🙉 [X浏览器](https://www.jokerps.com/6127.html) | Thu Jul 22 2021 3:37 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img width=&quot;400&quot; height=&quot;400&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo.png 400w, https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo-300x300.png 300w, https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo-150x150.png 150w&quot; sizes=&quot;&lpar;max-width: 400px&rpar; 100vw, 400px&quot; /&gt; 
-    </details> 
+- 🙉 [X浏览器](https://www.jokerps.com/6127.html) | Thu Jul 22 2021 3:37 AM
+    <details><summary>展开描述 ...</summary>
+    &lt;img width=&quot;400&quot; height=&quot;400&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo.png 400w, https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo-300x300.png 300w, https://www.jokerps.com/wp-content/uploads/2021/07/Xlogo-150x150.png 150w&quot; sizes=&quot;&lpar;max-width: 400px&rpar; 100vw, 400px&quot; /&gt;
+    </details>
 
-- 🦆 [M浏览器](https://www.jokerps.com/6123.html) | Thu Jul 22 2021 3:22 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img width=&quot;400&quot; height=&quot;400&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Mlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Mlogo.png 400w, https://www.jokerps.com/wp-content/uploads/2021/07/Mlogo-300x300.png 300w, https://www.jokerps.com/wp-content/uploads/2021/07/Mlogo-150x150.png 150w&quot; sizes=&quot;&lpar;max-width: 400px&rpar; 100vw, 400px&quot; /&gt; 
-    </details> 
+- 🦆 [M浏览器](https://www.jokerps.com/6123.html) | Thu Jul 22 2021 3:22 AM
+    <details><summary>展开描述 ...</summary>
+    &lt;img width=&quot;400&quot; height=&quot;400&quot; src=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Mlogo.png&quot; class=&quot;attachment-post-thumbnail size-post-thumbnail wp-post-image&quot; alt=&quot;&quot; loading=&quot;lazy&quot; srcset=&quot;https://www.jokerps.com/wp-content/uploads/2021/07/Mlogo.png 400w, https://www.jokerps.com/wp-content/uploads/2021/07/Mlogo-300x300.png 300w, https://www.jokerps.com/wp-content/uploads/2021/07/Mlogo-150x150.png 150w&quot; sizes=&quot;&lpar;max-width: 400px&rpar; 100vw, 400px&quot; /&gt;
+    </details>
 <!-- jokerps:END -->
 
 ---
 
 <!-- v2fy:START -->
-- 😺 [轻松从微软服务器高速下载各种版本的Windows镜像](https://v2fy.com/p/2022-07-18-download-windows-1658156978000/) | Mon Jul 18 2022 3:24 PM 
-    <details><summary>展开描述 ...</summary> 
-    title: 轻松从微软服务器高速下载各种版本的Windows镜像 网站地址：https://uupdump. [&amp;#8230;] 
-    </details> 
+- 😺 [轻松从微软服务器高速下载各种版本的Windows镜像](https://v2fy.com/p/2022-07-18-download-windows-1658156978000/) | Mon Jul 18 2022 3:24 PM
+    <details><summary>展开描述 ...</summary>
+    title: 轻松从微软服务器高速下载各种版本的Windows镜像 网站地址：https://uupdump. [&amp;#8230;]
+    </details>
 
-- 💃 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/) | Sun Jul 10 2022 4:25 AM 
-    <details><summary>展开描述 ...</summary> 
-    title: Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类 [&amp;#8230;] 
-    </details> 
+- 💃 [Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类似GitBook的侧边栏目录](https://v2fy.com/p/114-wordpress-sidebar-2022-07-10/) | Sun Jul 10 2022 4:25 AM
+    <details><summary>展开描述 ...</summary>
+    title: Chrome插件英雄榜114《WordPress SideBar》为WordPress网站添加类 [&amp;#8230;]
+    </details>
 
-- 💡 [为WordPress网站提供类似GitBook的侧边目录](https://v2fy.com/p/2022-05-22-wordpress-side-1653217493000/) | Sun May 22 2022 11:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    title: 为WordPress网站提供类似GitBook的侧边目录 为WordPress网站提供类似Git [&amp;#8230;] 
-    </details> 
+- 💡 [为WordPress网站提供类似GitBook的侧边目录](https://v2fy.com/p/2022-05-22-wordpress-side-1653217493000/) | Sun May 22 2022 11:06 AM
+    <details><summary>展开描述 ...</summary>
+    title: 为WordPress网站提供类似GitBook的侧边目录 为WordPress网站提供类似Git [&amp;#8230;]
+    </details>
 
-- 🐘 [网易云音乐V4精简养老版](https://v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/) | Thu May 12 2022 12:23 PM 
-    <details><summary>展开描述 ...</summary> 
-    title: 网易云音乐V4精简养老版 网易云官方4.0养老版, 无广告,功能简单, 可用音乐云盘, 微信授权 [&amp;#8230;] 
-    </details> 
+- 🐘 [网易云音乐V4精简养老版](https://v2fy.com/p/2022-05-12-netmusic-v4-1652357959000/) | Thu May 12 2022 12:23 PM
+    <details><summary>展开描述 ...</summary>
+    title: 网易云音乐V4精简养老版 网易云官方4.0养老版, 无广告,功能简单, 可用音乐云盘, 微信授权 [&amp;#8230;]
+    </details>
 
-- 🪜 [想好好听歌？ QQ音乐精简版下载](https://v2fy.com/p/2022-05-11-qq-music-1652267193000/) | Wed May 11 2022 12:36 PM 
-    <details><summary>展开描述 ...</summary> 
-    title: 想好好听歌？ QQ音乐精简版下载 以前网易云音乐简洁好用，但现在网易云的功能超多，十分难用；而Q [&amp;#8230;] 
-    </details> 
+- 🪜 [想好好听歌？ QQ音乐精简版下载](https://v2fy.com/p/2022-05-11-qq-music-1652267193000/) | Wed May 11 2022 12:36 PM
+    <details><summary>展开描述 ...</summary>
+    title: 想好好听歌？ QQ音乐精简版下载 以前网易云音乐简洁好用，但现在网易云的功能超多，十分难用；而Q [&amp;#8230;]
+    </details>
 <!-- v2fy:END -->
 
 ---
 
 <!-- runningcheese:START -->
-- 🫶 [奶酪工具箱（2022-05-27 更新）](https://www.runningcheese.com/dh) | Thu May 26 2022 3:10 PM 
-    <details><summary>展开描述 ...</summary> 
-    所有内容集合在一个清单里！ 
-    </details> 
+- 🫶 [奶酪工具箱（2022-05-27 更新）](https://www.runningcheese.com/dh) | Thu May 26 2022 3:10 PM
+    <details><summary>展开描述 ...</summary>
+    所有内容集合在一个清单里！
+    </details>
 
-- 🎓 [[置顶] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview) | Fri May 20 2022 4:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    网站文章导航！ 
-    </details> 
+- 🎓 [[置顶] – 5 分钟看完本站所有内容](https://www.runningcheese.com/overview) | Fri May 20 2022 4:00 AM
+    <details><summary>展开描述 ...</summary>
+    网站文章导航！
+    </details>
 
-- 😎 [全网首发，没有比这更快的视频下载方法！（2022-07-26）](https://www.runningcheese.com/onekey-video-download) | Wed May 18 2022 4:02 PM 
-    <details><summary>展开描述 ...</summary> 
-    关于「视频下载」可以讲的内容很多，也很有意思。 如果说文章《i14 - 视频下载》讲的是下载思路，文章《i37 [&amp;#8230;] 
-    </details> 
+- 😎 [全网首发，没有比这更快的视频下载方法！（2022-07-26）](https://www.runningcheese.com/onekey-video-download) | Wed May 18 2022 4:02 PM
+    <details><summary>展开描述 ...</summary>
+    关于「视频下载」可以讲的内容很多，也很有意思。 如果说文章《i14 - 视频下载》讲的是下载思路，文章《i37 [&amp;#8230;]
+    </details>
 
-- 🤓 [各种骚操作，中文网最全 Bookmarklet 小书签](https://www.runningcheese.com/bookmarklets) | Wed May 18 2022 11:30 AM 
-    <details><summary>展开描述 ...</summary> 
-    最全小书签清单，没有之一。 
-    </details> 
+- 🤓 [各种骚操作，中文网最全 Bookmarklet 小书签](https://www.runningcheese.com/bookmarklets) | Wed May 18 2022 11:30 AM
+    <details><summary>展开描述 ...</summary>
+    最全小书签清单，没有之一。
+    </details>
 
-- 💪 [浏览器必备，2022 年度最喜欢油猴脚本](https://www.runningcheese.com/userscripts) | Sat Apr 23 2022 4:02 AM 
-    <details><summary>展开描述 ...</summary> 
-    最全油猴脚本清单，没有之一。 
-    </details> 
+- 💪 [浏览器必备，2022 年度最喜欢油猴脚本](https://www.runningcheese.com/userscripts) | Sat Apr 23 2022 4:02 AM
+    <details><summary>展开描述 ...</summary>
+    最全油猴脚本清单，没有之一。
+    </details>
 
-- 🎓 [浏览器必备，2022 年度最喜欢浏览器扩展](https://www.runningcheese.com/extensions) | Thu Apr 21 2022 4:01 PM 
-    <details><summary>展开描述 ...</summary> 
-    最全扩展清单，没有之一。 
-    </details> 
+- 🎓 [浏览器必备，2022 年度最喜欢浏览器扩展](https://www.runningcheese.com/extensions) | Thu Apr 21 2022 4:01 PM
+    <details><summary>展开描述 ...</summary>
+    最全扩展清单，没有之一。
+    </details>
 <!-- runningcheese:END -->
 
 ---
 
 <!-- greatdk:START -->
-- 💄 [历时一年，我完成了人生第一场官司，并拿回了租房押金](https://greatdk.com/1844.html) | Wed Jul 13 2022 1:16 PM 
-    <details><summary>展开描述 ...</summary> 
+- 💄 [历时一年，我完成了人生第一场官司，并拿回了租房押金](https://greatdk.com/1844.html) | Wed Jul 13 2022 1:16 PM
+    <details><summary>展开描述 ...</summary>
     去年 7 月，我从租住的房子退租，此前我已经在这里住了两年了，每次都按时交房租，从不拖欠，退租前，我把房间打扫的很干净，完全还原到刚入住时的状态。
 
 退房的那一天，二房东没有到场，来了两个纹身小弟，看了一圈说不错，让我把合同留下，可以先走，押金之后会退给我。
@@ -277,11 +277,11 @@
 
 这就是我人生第一场官司，比我想象的容易，也没我想象的容易，其实任何事情可能都是这样。
 
-&amp;#160; 
-    </details> 
+&amp;#160;
+    </details>
 
-- 🏊 [准备好面对无常](https://greatdk.com/1833.html) | Sun May 08 2022 2:24 PM 
-    <details><summary>展开描述 ...</summary> 
+- 🏊 [准备好面对无常](https://greatdk.com/1833.html) | Sun May 08 2022 2:24 PM
+    <details><summary>展开描述 ...</summary>
     如果那句著名的「2019年是过去十年最坏的一年，却是未来十年最好的一年」在最近听上去越来越靠谱，那么我不得不想到一个让人头疼的问题，现在距离 2019 才过去三年，未来七年还他妈会发生些什么？
 
 今天我们怀念 2019 年，可是在 2019 年，大家却觉得这一年糟透了，2019 年的问题包括糟糕的气候变化，中美贸易战，极端组织的崛起，对科技巨头渗透生活隐私的担忧等等。
@@ -308,11 +308,11 @@
 
 假如生活的真相是美好的，那么我们认清生活的真相后依然热爱生活，就谈不上什么英雄主义了，这就好比说「你闻到了烤肉的香味后依然想吃烤肉」，不然呢？所以我想这句话的意思应该是生活的真相是残酷的，是悲苦的，是难以让人爱上的。
 
-好的，现在我们已经开始接近生活的真相了，这时候我们还能热爱生活吗？我说不好，但如果热爱有点困难，那就先做好面对的准备吧。 
-    </details> 
+好的，现在我们已经开始接近生活的真相了，这时候我们还能热爱生活吗？我说不好，但如果热爱有点困难，那就先做好面对的准备吧。
+    </details>
 
-- 🙉 [我们基于 Disco-diffusion  为 50 句中国古诗词生成了画面 （开源代码）](https://greatdk.com/1835.html) | Wed May 04 2022 10:40 AM 
-    <details><summary>展开描述 ...</summary> 
+- 🙉 [我们基于 Disco-diffusion  为 50 句中国古诗词生成了画面 （开源代码）](https://greatdk.com/1835.html) | Wed May 04 2022 10:40 AM
+    <details><summary>展开描述 ...</summary>
     我的朋友碎瓜最近常和我讨论一些 idea，最近一个月内我们大概讨论了 40 多个 idea，有的谈得上巧妙，但大部分不是太难了，就是太无聊了。碎瓜的主业是做机器学习，于是首先搞了一台 V100 显卡的机器。做好算力准备，既是一种实际需要，也代表了一种仪式感：我们真的要搞点东西。
 
 五一假期之后，碎瓜把 Disco-diffusion 部署在了 V100 上，并进行了一些优化，Disco-diffusion 是一个开源的基于diffusion+CLIP的深度学习模型，输入文本便能生成图像画面，并且风格可以随着输入文本改变&lpar;例如画家名字、风格名&rpar;，你可以用Google Colab来玩，不过受限于机器性能，生成一张图的速度实在太慢了。碎瓜做了自己的封装和速度优化，还通过 DeepL使其支持中文文本输入，这样就可以做一些好玩的事了。
@@ -397,11 +397,11 @@
 
 当然这个事情做起来也很困难，所以我们先从开源开始，所有代码，图片，素材，都可以在这个 GitHub Repo 中找到：&lt;a href=&quot;https://github.com/mazzzystar/disco-diffusion-wrapper&quot;&gt;mazzzystar/disco-diffusion-wrapper: Implementation of disco-diffusion-wrapper that could run on your own GPU with batch text input. &lpar;github.com&rpar;&lt;/a&gt;
 
-这就是这个五一假期​做的事情，还不赖。​ 
-    </details> 
+这就是这个五一假期​做的事情，还不赖。​
+    </details>
 
-- 🚀 [春节花了7天学习 SwiftUI 后，我上架了人生第一款 iOS APP，并获得了AppStore编辑推荐](https://greatdk.com/1820.html) | Mon Feb 21 2022 12:20 PM 
-    <details><summary>展开描述 ...</summary> 
+- 🚀 [春节花了7天学习 SwiftUI 后，我上架了人生第一款 iOS APP，并获得了AppStore编辑推荐](https://greatdk.com/1820.html) | Mon Feb 21 2022 12:20 PM
+    <details><summary>展开描述 ...</summary>
     大概 2020 年中旬的时候，我有那么几个月，时不时就会长口腔溃疡，我上网搜了一下，发现有口腔癌这种东西，这搞得我有点提心吊胆，于是萌生了学习 iOS 开发的想法。
 
 这里面的思考是这样，我希望记录我每次长口腔溃疡的发生，以及每一次持续的时间，这样一段时间后，我就知道其频率是否异于常人，是否真的有可能是口腔癌，需不需要去医院看，但是我发现市场上并没有这样的记录工具，一些虽然能部分满足需求，但过于复杂，试图培养我的「习惯」，甚至还带有记账和日记，另一些虽然功能上类似，但却是记录喝水，排便，甚至性生活的，并不支持我的这种记录，最后我只能使用系统备忘录以非常繁琐的方式去记录，当时我认为，我应当做这样一个App，来更好，更方便的做这种记录。
@@ -445,11 +445,11 @@
 虽然这么说有点虚伪，但是我真不指望能这样的小产品能赚多少钱，我更希望我能财富自由之后再来写这些App，这样会显得更有说服力，我也更能投入，但没有办法，财富自由是一件遥远而渺茫的事情，而创作则是现在就可以开始的，那么，就从现在开始吧。
 
 &amp;#160;
-&lt;blockquote&gt;如果你搜Becord，可能搜不到结果，因为App Store会以为你搜的是Record，所以你可以搜索 Becrod元记录，或者通过这个链接获取这个App：&lt;a href=&quot;https://apps.apple.com/cn/app/becord/id1608773156&quot;&gt;‎Becord on the App Store &lpar;apple.com&rpar;&lt;/a&gt;&lt;/blockquote&gt; 
-    </details> 
+&lt;blockquote&gt;如果你搜Becord，可能搜不到结果，因为App Store会以为你搜的是Record，所以你可以搜索 Becrod元记录，或者通过这个链接获取这个App：&lt;a href=&quot;https://apps.apple.com/cn/app/becord/id1608773156&quot;&gt;‎Becord on the App Store &lpar;apple.com&rpar;&lt;/a&gt;&lt;/blockquote&gt;
+    </details>
 
-- 🤖 [海南大爷](https://greatdk.com/1801.html) | Wed Jan 19 2022 10:01 AM 
-    <details><summary>展开描述 ...</summary> 
+- 🤖 [海南大爷](https://greatdk.com/1801.html) | Wed Jan 19 2022 10:01 AM
+    <details><summary>展开描述 ...</summary>
     从海南度假回来有 2 个月了，但我仍然时常想起在海口的最后一个夜晚，那个大爷真是给我留下了深刻的印象。
 
 在到海口之前，我已经在三亚和万宁待了挺长时间，对海滩，寄居蟹，椰子和清补凉已经不再像刚来时候那么热衷，而寒冷，干燥，昂贵又逼仄的北京，却非常奇怪的对我产生了越来越大的吸引力，总之，我是想回去了。
@@ -520,11 +520,11 @@
 
 我收拾好行李，下楼发现餐厅已被完全整理干净了，我告诉前台我准备去机场，果然师傅开了一辆奔驰，一路把我送到了机场。
 
-这次海南之行，就算是结束了。 
-    </details> 
+这次海南之行，就算是结束了。
+    </details>
 
-- ⚗️ [除了宇宙之外的那种元](https://greatdk.com/1797.html) | Sat Jan 01 2022 8:46 AM 
-    <details><summary>展开描述 ...</summary> 
+- ⚗️ [除了宇宙之外的那种元](https://greatdk.com/1797.html) | Sat Jan 01 2022 8:46 AM
+    <details><summary>展开描述 ...</summary>
     我不想说元宇宙，但我挺想说说元。元宇宙是时髦的词，但元不是，元和道一样，是一个哲学词汇，也是一个古老的词，一个古老的哲学词汇尚未运用在商业宣传中时候，它往往更能体现一些独特的东西。
 
 今天我们翻译为元的，是 meta，但 meta 作为一个合成词的前缀，在很多年前就已经有了，例如元编程 &lpar;meta-programming&rpar;，元数据（meta-data），元游戏，元小说等等。
@@ -567,52 +567,52 @@ PopClip 在过去的几年中售价一直在涨，但使用者众，其开发者
 
 我个人认为，元这个字后面，几乎可以加任何东西，但绝大多数时候，后面加的东西是越小越好，而非越大越好。
 
-在被元宇宙包围的今天，我忽然觉得，人类在面对人性的时候有多么容易顺从谦卑，在面对自然的时候就有多么容易狂妄不羁，至于这是好事还是坏事，我也说不清。 
-    </details> 
+在被元宇宙包围的今天，我忽然觉得，人类在面对人性的时候有多么容易顺从谦卑，在面对自然的时候就有多么容易狂妄不羁，至于这是好事还是坏事，我也说不清。
+    </details>
 <!-- greatdk:END -->
 
 
 ---
 
 <!-- v2fys:START -->
-- 🚀 [🖼 资源名称：#排爆手 4K 资源简介：讲述了武警部队中一支特殊力量——排爆手，在与边境毒贩生死较量的同时，身处“无声的战场”与时间赛跑的英雄事迹...... ...](https://t.me/yunpanpan/18931) | Sat Jul 30 2022 4:14 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;p&gt;&lt;b&gt;资源名称：&lt;/b&gt;&lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E6%8E%92%E7%88%86%E6%89%8B&quot;&gt;&lt;b&gt;#排爆手&lt;/b&gt;&lt;/a&gt; &lt;b&gt;4K&lt;/b&gt;&lt;br&gt;&lt;br&gt;资源简介：讲述了武警部队中一支特殊力量——排爆手，在与边境毒贩生死较量的同时，身处“无声的战场”与时间赛跑的英雄事迹......&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/Wjyb28kmrqC&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/Wjyb28kmrqC&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：4G&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E5%8A%A8%E4%BD%9C&quot;&gt;#动作&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E6%88%98%E4%BA%89&quot;&gt;#战争&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E5%88%98%E7%83%A8&quot;&gt;#刘烨&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E4%BA%8E%E8%8D%A3%E5%85%89&quot;&gt;#于荣光&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E4%BD%99%E7%94%B7&quot;&gt;#余男&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/TBeqsc8aaUv0VPLdo7HNrFCan7NBDlrgM8NKXtHh5lStKXNm9K5fDx7_HP6AgoAXqtsgxu-605bmzyy3H35zc8bzt8ACqIbCWiVB1HALncYys0ZAJA9VYhWX1CWX-JHH9XB6zOoVMA55V-sMUxd7aGsou2v2p_q1yJNLGO_ZotV2delzCX6pOx2w6zpuK1ZLRCRFnI9IjNZeNi0I9iJRjHnk8YnUV1BOWTT7c3hxSnGD3n3KwVCkpj6_q_4ndarF2HDkTfliXQ7-O7DwD7d5Mh5brQ80HcgaNGH2WWTsJOMDDTUBwM_lVXBP1t17AAnadM7NfS6X4jGbOkl-_n4Bnw.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
-    </details> 
+- 🚀 [🖼 资源名称：#排爆手 4K 资源简介：讲述了武警部队中一支特殊力量——排爆手，在与边境毒贩生死较量的同时，身处“无声的战场”与时间赛跑的英雄事迹...... ...](https://t.me/yunpanpan/18931) | Sat Jul 30 2022 4:14 AM
+    <details><summary>展开描述 ...</summary>
+    &lt;p&gt;&lt;b&gt;资源名称：&lt;/b&gt;&lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E6%8E%92%E7%88%86%E6%89%8B&quot;&gt;&lt;b&gt;#排爆手&lt;/b&gt;&lt;/a&gt; &lt;b&gt;4K&lt;/b&gt;&lt;br&gt;&lt;br&gt;资源简介：讲述了武警部队中一支特殊力量——排爆手，在与边境毒贩生死较量的同时，身处“无声的战场”与时间赛跑的英雄事迹......&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/Wjyb28kmrqC&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/Wjyb28kmrqC&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：4G&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E5%8A%A8%E4%BD%9C&quot;&gt;#动作&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E6%88%98%E4%BA%89&quot;&gt;#战争&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E5%88%98%E7%83%A8&quot;&gt;#刘烨&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E4%BA%8E%E8%8D%A3%E5%85%89&quot;&gt;#于荣光&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18931?q=%23%E4%BD%99%E7%94%B7&quot;&gt;#余男&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/TBeqsc8aaUv0VPLdo7HNrFCan7NBDlrgM8NKXtHh5lStKXNm9K5fDx7_HP6AgoAXqtsgxu-605bmzyy3H35zc8bzt8ACqIbCWiVB1HALncYys0ZAJA9VYhWX1CWX-JHH9XB6zOoVMA55V-sMUxd7aGsou2v2p_q1yJNLGO_ZotV2delzCX6pOx2w6zpuK1ZLRCRFnI9IjNZeNi0I9iJRjHnk8YnUV1BOWTT7c3hxSnGD3n3KwVCkpj6_q_4ndarF2HDkTfliXQ7-O7DwD7d5Mh5brQ80HcgaNGH2WWTsJOMDDTUBwM_lVXBP1t17AAnadM7NfS6X4jGbOkl-_n4Bnw.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;
+    </details>
 
-- 🎡 [🖼 资源名称：#我在雨中等你 &lpar;2019&rpar; 4K HDR 资源简介：影片改编自Garth Stein所著同名畅销小说，聚焦一只名叫恩佐的狗狗，和他的主人——职业赛车手Denny Swif...](https://t.me/yunpanpan/18930) | Sat Jul 30 2022 3:27 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;p&gt;资源名称：&lt;a href=&quot;https://t.me/yunpanpan/18930?q=%23%E6%88%91%E5%9C%A8%E9%9B%A8%E4%B8%AD%E7%AD%89%E4%BD%A0&quot;&gt;#我在雨中等你&lt;/a&gt; &lpar;2019&rpar; 4K HDR&lt;br&gt;&lt;br&gt;资源简介：影片改编自Garth Stein所著同名畅销小说，聚焦一只名叫恩佐的狗狗，和他的主人——职业赛车手Denny Swift，恩佐跟着Denny学会了很多生活哲学。&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/Yt3XqfURcxu&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/Yt3XqfURcxu&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：20G&lt;br&gt;&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18930?q=%23%E7%94%B5%E5%BD%B1&quot;&gt;#电影&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn1.telegram-cdn.org/file/J4ZGMa37nO2PeBeBSFC4aCKOsHcFvh1hc7F-dLC5cH5u0DawSw9D4chn6E7mePEUejXMnBrZmAKcez1-wlvUxdcuywU-R9kPq6SoQHPf6OcJpJKUXpfvylf1qPxtMSdvbCvvuwy-gsQglfjesvGR0AvO1UVVCfc4E0jjE0FXVoK7Dm3JXMu89Vs9-CdUdIFTh_llV6q9gtpM7xw5MpApxJbQsSbd6FAp3Vpq4pJT13HcQj8N-5-K4xU3hVp3kfc3sPusGJk51h7oChKfETLcAsi2fo_D5xJwdRtRhlM3_dFSgXrx_VslxSAue2_zklEHuUvEY_S8EJUkyXvSvd6vwQ.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
-    </details> 
+- 🎡 [🖼 资源名称：#我在雨中等你 &lpar;2019&rpar; 4K HDR 资源简介：影片改编自Garth Stein所著同名畅销小说，聚焦一只名叫恩佐的狗狗，和他的主人——职业赛车手Denny Swif...](https://t.me/yunpanpan/18930) | Sat Jul 30 2022 3:27 AM
+    <details><summary>展开描述 ...</summary>
+    &lt;p&gt;资源名称：&lt;a href=&quot;https://t.me/yunpanpan/18930?q=%23%E6%88%91%E5%9C%A8%E9%9B%A8%E4%B8%AD%E7%AD%89%E4%BD%A0&quot;&gt;#我在雨中等你&lt;/a&gt; &lpar;2019&rpar; 4K HDR&lt;br&gt;&lt;br&gt;资源简介：影片改编自Garth Stein所著同名畅销小说，聚焦一只名叫恩佐的狗狗，和他的主人——职业赛车手Denny Swift，恩佐跟着Denny学会了很多生活哲学。&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/Yt3XqfURcxu&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/Yt3XqfURcxu&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：20G&lt;br&gt;&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18930?q=%23%E7%94%B5%E5%BD%B1&quot;&gt;#电影&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn1.telegram-cdn.org/file/J4ZGMa37nO2PeBeBSFC4aCKOsHcFvh1hc7F-dLC5cH5u0DawSw9D4chn6E7mePEUejXMnBrZmAKcez1-wlvUxdcuywU-R9kPq6SoQHPf6OcJpJKUXpfvylf1qPxtMSdvbCvvuwy-gsQglfjesvGR0AvO1UVVCfc4E0jjE0FXVoK7Dm3JXMu89Vs9-CdUdIFTh_llV6q9gtpM7xw5MpApxJbQsSbd6FAp3Vpq4pJT13HcQj8N-5-K4xU3hVp3kfc3sPusGJk51h7oChKfETLcAsi2fo_D5xJwdRtRhlM3_dFSgXrx_VslxSAue2_zklEHuUvEY_S8EJUkyXvSvd6vwQ.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;
+    </details>
 
-- 🙉 [🖼 资源名称：#中年失恋日记 资源简介：Netflix 8集剧 讲述Michael自以为有着美好的生活，直至他那相处了17年的丈夫突然离开了他，这使得他面对两个噩梦，一是...](https://t.me/yunpanpan/18929) | Sat Jul 30 2022 2:24 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;p&gt;&lt;b&gt;资源名称：&lt;/b&gt;&lt;a href=&quot;https://t.me/yunpanpan/18929?q=%23%E4%B8%AD%E5%B9%B4%E5%A4%B1%E6%81%8B%E6%97%A5%E8%AE%B0&quot;&gt;&lt;b&gt;#中年失恋日记&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源简介：Netflix 8集剧&lt;br&gt;&lt;br&gt;讲述Michael自以为有着美好的生活，直至他那相处了17年的丈夫突然离开了他，这使得他面对两个噩梦，一是失去了灵魂伴侣﹑二是在纽约作为一个已经40多岁的单身同性恋。&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/M4vnExfGytJ&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/M4vnExfGytJ&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：约2G&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18929?q=%23%E5%96%9C%E5%89%A7&quot;&gt;#喜剧&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18929?q=%231080p&quot;&gt;#1080p&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18929?q=%23%E5%90%8C%E5%BF%97&quot;&gt;#同志&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18929?q=%23%E5%BF%BD%E7%84%B6%E5%8D%95%E8%BA%AB&quot;&gt;#忽然单身&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18929?q=%23%E7%BD%91%E9%A3%9E&quot;&gt;#网飞&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/dLHH7rOjZBnmz3iqvlLslkQ6bLDR23ZW1b9m3Va5jL65FdBmk8uOuLP3ldRqIzXhm24RH9zxAVqFWqV3NNNigVJHhp7yDE8lvBu6s_-VRx2yTGpaOZpZndNEdUwI3x9I30ya211bFUrTLZOlBxoKUewEoDUJVkAf5oQ74CAVI5YysygIDlWB1dKH8qjm9TLQw0nkV92RSoYJYmCCvmfDTna_4jHmw5paXIlCP-RKs8XKasLcf8Ki3b830LTkdmS4FbfduXyz4W_rlS3k1JjTqsGqkk1jXudaOVaGcVsO2jOOm4XWIYwVxDgks6rswsT91p9jvDti9f0RIr6KGyfZvA.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
-    </details> 
+- 🙉 [🖼 资源名称：#中年失恋日记 资源简介：Netflix 8集剧 讲述Michael自以为有着美好的生活，直至他那相处了17年的丈夫突然离开了他，这使得他面对两个噩梦，一是...](https://t.me/yunpanpan/18929) | Sat Jul 30 2022 2:24 AM
+    <details><summary>展开描述 ...</summary>
+    &lt;p&gt;&lt;b&gt;资源名称：&lt;/b&gt;&lt;a href=&quot;https://t.me/yunpanpan/18929?q=%23%E4%B8%AD%E5%B9%B4%E5%A4%B1%E6%81%8B%E6%97%A5%E8%AE%B0&quot;&gt;&lt;b&gt;#中年失恋日记&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源简介：Netflix 8集剧&lt;br&gt;&lt;br&gt;讲述Michael自以为有着美好的生活，直至他那相处了17年的丈夫突然离开了他，这使得他面对两个噩梦，一是失去了灵魂伴侣﹑二是在纽约作为一个已经40多岁的单身同性恋。&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/M4vnExfGytJ&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/M4vnExfGytJ&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：约2G&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18929?q=%23%E5%96%9C%E5%89%A7&quot;&gt;#喜剧&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18929?q=%231080p&quot;&gt;#1080p&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18929?q=%23%E5%90%8C%E5%BF%97&quot;&gt;#同志&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18929?q=%23%E5%BF%BD%E7%84%B6%E5%8D%95%E8%BA%AB&quot;&gt;#忽然单身&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18929?q=%23%E7%BD%91%E9%A3%9E&quot;&gt;#网飞&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/dLHH7rOjZBnmz3iqvlLslkQ6bLDR23ZW1b9m3Va5jL65FdBmk8uOuLP3ldRqIzXhm24RH9zxAVqFWqV3NNNigVJHhp7yDE8lvBu6s_-VRx2yTGpaOZpZndNEdUwI3x9I30ya211bFUrTLZOlBxoKUewEoDUJVkAf5oQ74CAVI5YysygIDlWB1dKH8qjm9TLQw0nkV92RSoYJYmCCvmfDTna_4jHmw5paXIlCP-RKs8XKasLcf8Ki3b830LTkdmS4FbfduXyz4W_rlS3k1JjTqsGqkk1jXudaOVaGcVsO2jOOm4XWIYwVxDgks6rswsT91p9jvDti9f0RIr6KGyfZvA.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;
+    </details>
 
-- 🌏 [🖼 资源名称：#斗罗大陆 更新219 资源简介：唐门外门弟子唐三，因偷学内门绝学为唐门所不容，跳崖明志时却发现没有死，反而以另外一个身份来到了另一个世界，...](https://t.me/yunpanpan/18928) | Sat Jul 30 2022 2:19 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;p&gt;资源名称：&lt;a href=&quot;https://t.me/yunpanpan/18928?q=%23%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&quot;&gt;#斗罗大陆&lt;/a&gt; 更新219&lt;br&gt;&lt;br&gt;资源简介：唐门外门弟子唐三，因偷学内门绝学为唐门所不容，跳崖明志时却发现没有死，反而以另外一个身份来到了另一个世界，一个属于武魂的世界，名叫斗罗大陆。这里没有魔法，没有斗气，没有武术，却有神奇的武魂。这里的每个人，在自己六岁的时候，都会在武魂殿中令武魂觉醒。武魂有动物，有植物，有器物，武魂可以辅助人们的日常生活。而其中一些特别出色的武魂却可以用来修炼并进行战斗，这个职业，是斗罗大陆上最为强大也是最荣耀的职业“魂师”。&lt;br&gt;　　小小的唐三在圣魂村开始了他的魂师修炼之路，并萌生了振兴唐门的梦想。当唐门暗器来到斗罗大陆，当唐三武魂觉醒，他能否在这片武魂的世界再铸唐门的辉煌？&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/BcWb34WFoTp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/BcWb34WFoTp&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：155G&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18928?q=%23%E5%8A%A8%E4%BD%9C&quot;&gt;#动作&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18928?q=%23%E5%A5%87%E5%B9%BB&quot;&gt;#奇幻&lt;/a&gt;  &lt;a href=&quot;https://t.me/yunpanpan/18928?q=%23%E5%9B%BD%E6%BC%AB&quot;&gt;#国漫&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/AYwqXEO2LerSGTx_oJTAmv_zJFhar0z7Zb_nCGMrFnG5bMWonu6NggCJZM4nc5MC197KCVHaHxVSGnQUAVa0D0dww--13CNL_la3Tyibu9xB03QGJM6RUrgLy72gdQrYYTX1w1weEQ8u8bqOYL7kdJE_Uzd2xaReSDEFq8POTxxtQJkuGCki9GoZ94e2NKQxiiZLeAU4pie3nr4YgKUnsbXaUReOUo_lY9SjUexHEEy7DbcT8rF4GVMxsqWKe_F0ht77HIXB3itXhEOvfsLLDxHCLBhmvJ_5D0zj-5OIDPNptyE6dI79HYBoFGC-imqiMZKoZAt-bhgKdPE2dqIP-A.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
-    </details> 
+- 🌏 [🖼 资源名称：#斗罗大陆 更新219 资源简介：唐门外门弟子唐三，因偷学内门绝学为唐门所不容，跳崖明志时却发现没有死，反而以另外一个身份来到了另一个世界，...](https://t.me/yunpanpan/18928) | Sat Jul 30 2022 2:19 AM
+    <details><summary>展开描述 ...</summary>
+    &lt;p&gt;资源名称：&lt;a href=&quot;https://t.me/yunpanpan/18928?q=%23%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&quot;&gt;#斗罗大陆&lt;/a&gt; 更新219&lt;br&gt;&lt;br&gt;资源简介：唐门外门弟子唐三，因偷学内门绝学为唐门所不容，跳崖明志时却发现没有死，反而以另外一个身份来到了另一个世界，一个属于武魂的世界，名叫斗罗大陆。这里没有魔法，没有斗气，没有武术，却有神奇的武魂。这里的每个人，在自己六岁的时候，都会在武魂殿中令武魂觉醒。武魂有动物，有植物，有器物，武魂可以辅助人们的日常生活。而其中一些特别出色的武魂却可以用来修炼并进行战斗，这个职业，是斗罗大陆上最为强大也是最荣耀的职业“魂师”。&lt;br&gt;　　小小的唐三在圣魂村开始了他的魂师修炼之路，并萌生了振兴唐门的梦想。当唐门暗器来到斗罗大陆，当唐三武魂觉醒，他能否在这片武魂的世界再铸唐门的辉煌？&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/BcWb34WFoTp&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/BcWb34WFoTp&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：155G&lt;br&gt;资源类型：&lt;a href=&quot;https://t.me/yunpanpan/18928?q=%23%E5%8A%A8%E4%BD%9C&quot;&gt;#动作&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18928?q=%23%E5%A5%87%E5%B9%BB&quot;&gt;#奇幻&lt;/a&gt;  &lt;a href=&quot;https://t.me/yunpanpan/18928?q=%23%E5%9B%BD%E6%BC%AB&quot;&gt;#国漫&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/AYwqXEO2LerSGTx_oJTAmv_zJFhar0z7Zb_nCGMrFnG5bMWonu6NggCJZM4nc5MC197KCVHaHxVSGnQUAVa0D0dww--13CNL_la3Tyibu9xB03QGJM6RUrgLy72gdQrYYTX1w1weEQ8u8bqOYL7kdJE_Uzd2xaReSDEFq8POTxxtQJkuGCki9GoZ94e2NKQxiiZLeAU4pie3nr4YgKUnsbXaUReOUo_lY9SjUexHEEy7DbcT8rF4GVMxsqWKe_F0ht77HIXB3itXhEOvfsLLDxHCLBhmvJ_5D0zj-5OIDPNptyE6dI79HYBoFGC-imqiMZKoZAt-bhgKdPE2dqIP-A.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;
+    </details>
 
-- 🧠 [资源名称：#法医秦明系列（全8册） 资源简介：法医秦明小说八本 资源链接：https://www.aliyundrive.com/s/k5Gapy9QgXk 资源大小：10 资源类型：小说 悬疑 频道...](https://t.me/yunpanpan/18927) | Sat Jul 30 2022 2:06 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;p&gt;&lt;b&gt;资源名称：&lt;/b&gt;&lt;a href=&quot;https://t.me/yunpanpan/18927?q=%23%E6%B3%95%E5%8C%BB%E7%A7%A6%E6%98%8E%E7%B3%BB%E5%88%97&quot;&gt;&lt;b&gt;#法医秦明系列&lt;/b&gt;&lt;/a&gt;&lt;b&gt;（全8册）&lt;/b&gt;&lt;br&gt;&lt;br&gt;资源简介：法医秦明小说八本&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/k5Gapy9QgXk&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/k5Gapy9QgXk&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：10&lt;br&gt;资源类型：小说 悬疑&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt; 
-    </details> 
+- 🧠 [资源名称：#法医秦明系列（全8册） 资源简介：法医秦明小说八本 资源链接：https://www.aliyundrive.com/s/k5Gapy9QgXk 资源大小：10 资源类型：小说 悬疑 频道...](https://t.me/yunpanpan/18927) | Sat Jul 30 2022 2:06 AM
+    <details><summary>展开描述 ...</summary>
+    &lt;p&gt;&lt;b&gt;资源名称：&lt;/b&gt;&lt;a href=&quot;https://t.me/yunpanpan/18927?q=%23%E6%B3%95%E5%8C%BB%E7%A7%A6%E6%98%8E%E7%B3%BB%E5%88%97&quot;&gt;&lt;b&gt;#法医秦明系列&lt;/b&gt;&lt;/a&gt;&lt;b&gt;（全8册）&lt;/b&gt;&lt;br&gt;&lt;br&gt;资源简介：法医秦明小说八本&lt;br&gt;&lt;br&gt;资源链接：&lt;a href=&quot;https://www.aliyundrive.com/s/k5Gapy9QgXk&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/k5Gapy9QgXk&lt;/a&gt;&lt;br&gt;&lt;br&gt;资源大小：10&lt;br&gt;资源类型：小说 悬疑&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;
+    </details>
 
-- 🕴 [🖼 资源名称：#天堂高速 Paradise Highway &lpar;2022&rpar; 资源简介：1080p 资源链接： https://www.aliyundrive.com/s/BtwfNporyXT 资源大小：5.7GB 文件类型：#惊悚 ...](https://t.me/yunpanpan/18926) | Sat Jul 30 2022 1:54 AM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;p&gt;资源名称：&lt;a href=&quot;https://t.me/yunpanpan/18926?q=%23%E5%A4%A9%E5%A0%82%E9%AB%98%E9%80%9F&quot;&gt;#天堂高速&lt;/a&gt;&lt;br&gt;Paradise Highway &lpar;2022&rpar;&lt;br&gt;资源简介：1080p&lt;br&gt;资源链接：&lt;br&gt;&lt;a href=&quot;https://www.aliyundrive.com/s/BtwfNporyXT&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/BtwfNporyXT&lt;/a&gt;&lt;br&gt;资源大小：5.7GB&lt;br&gt;文件类型：&lt;a href=&quot;https://t.me/yunpanpan/18926?q=%23%E6%83%8A%E6%82%9A&quot;&gt;#惊悚&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18926?q=%23%E5%A4%A9%E5%A0%82%E9%AB%98%E9%80%9FParadiseHighway&quot;&gt;#天堂高速ParadiseHighway&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/iZshcRgcxw9vd-mcQEGJpCNKTG4VxR2rHtGXiw2FUYbmJsy79wG4IvwrimV_3qFvQCD6ckOQo1RRu0MFqbsQn95ukqOcy2I_yHfyCLeGGFvt_6SOZheKv0NpMzivL6W-BY0oIkDAIRwQ04oKf_p9ieKiig_1hI8j13zmdHlzMmp34Lcw224N3TuwpS4muaQLR-TTzk-1a8l-_GbeQsarP7xm41GGtziFq0r4fGTPp1uP9AjRvQ0MXfLmU9uXfqxZvDTXSwudQgg-oR2fm8zXDxnUGXoL080Ciiuzcc3mDzpwc2bDT1vgbAWY1ONUkT13ZAjppN6l8X3WnuUkVzPKng.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
-    </details> 
+- 🕴 [🖼 资源名称：#天堂高速 Paradise Highway &lpar;2022&rpar; 资源简介：1080p 资源链接： https://www.aliyundrive.com/s/BtwfNporyXT 资源大小：5.7GB 文件类型：#惊悚 ...](https://t.me/yunpanpan/18926) | Sat Jul 30 2022 1:54 AM
+    <details><summary>展开描述 ...</summary>
+    &lt;p&gt;资源名称：&lt;a href=&quot;https://t.me/yunpanpan/18926?q=%23%E5%A4%A9%E5%A0%82%E9%AB%98%E9%80%9F&quot;&gt;#天堂高速&lt;/a&gt;&lt;br&gt;Paradise Highway &lpar;2022&rpar;&lt;br&gt;资源简介：1080p&lt;br&gt;资源链接：&lt;br&gt;&lt;a href=&quot;https://www.aliyundrive.com/s/BtwfNporyXT&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.aliyundrive.com/s/BtwfNporyXT&lt;/a&gt;&lt;br&gt;资源大小：5.7GB&lt;br&gt;文件类型：&lt;a href=&quot;https://t.me/yunpanpan/18926?q=%23%E6%83%8A%E6%82%9A&quot;&gt;#惊悚&lt;/a&gt; &lt;a href=&quot;https://t.me/yunpanpan/18926?q=%23%E5%A4%A9%E5%A0%82%E9%AB%98%E9%80%9FParadiseHighway&quot;&gt;#天堂高速ParadiseHighway&lt;/a&gt;&lt;br&gt;频道投稿：&lt;a href=&quot;https://t.me/Zaihuabot&quot; target=&quot;_blank&quot;&gt;@Zaihuabot&lt;/a&gt;&lt;br&gt;阿里云盘：&lt;a href=&quot;https://t.me/yunpanpan&quot; target=&quot;_blank&quot;&gt;@yunpanpan&lt;/a&gt;&lt;br&gt;夸克云盘：&lt;a href=&quot;https://t.me/kuakeyun&quot; target=&quot;_blank&quot;&gt;@kuakeyun&lt;/a&gt;&lt;br&gt;备用通知：&lt;a href=&quot;https://t.me/TestFlightCN&quot; target=&quot;_blank&quot;&gt;@TestFlightCN&lt;/a&gt;&lt;/p&gt;&lt;img src=&quot;https://cdn5.telegram-cdn.org/file/iZshcRgcxw9vd-mcQEGJpCNKTG4VxR2rHtGXiw2FUYbmJsy79wG4IvwrimV_3qFvQCD6ckOQo1RRu0MFqbsQn95ukqOcy2I_yHfyCLeGGFvt_6SOZheKv0NpMzivL6W-BY0oIkDAIRwQ04oKf_p9ieKiig_1hI8j13zmdHlzMmp34Lcw224N3TuwpS4muaQLR-TTzk-1a8l-_GbeQsarP7xm41GGtziFq0r4fGTPp1uP9AjRvQ0MXfLmU9uXfqxZvDTXSwudQgg-oR2fm8zXDxnUGXoL080Ciiuzcc3mDzpwc2bDT1vgbAWY1ONUkT13ZAjppN6l8X3WnuUkVzPKng.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;
+    </details>
 <!-- v2fys:END -->
 
 ---
 
 <!-- yihui:START -->
-- 🪜 [河神](https://yihui.org/cn/2022/07/river-god/) | Wed Jul 20 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-        
+- 🪜 [河神](https://yihui.org/cn/2022/07/river-god/) | Wed Jul 20 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+
+
         &lt;p&gt;汤婆婆摇旗呐喊&lt;br /&gt;
 小千　和汤屋全员&lt;br /&gt;
 一起拖呀　拽啊&lt;!--# 鸣谢我的全体狐朋狗友们 --&gt;&lt;br /&gt;
@@ -650,15 +650,15 @@ PopClip 在过去的几年中售价一直在涨，但使用者众，其开发者
 
 &lt;!--# 去年的最后一篇灰色调的《[存在]&lpar;/cn/2021/07/existence/&rpar;》似乎让客官们操碎了心。今年大概都可以散了吧，各回各家，各找各妈。青山不改，绿水长流，明年再见。 --&gt;
 
-        
-        
-       
-    </details> 
 
-- 🤓 [糖之妙效](https://yihui.org/cn/2022/07/sugar-effect/) | Wed Jul 20 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-        
+
+
+    </details>
+
+- 🤓 [糖之妙效](https://yihui.org/cn/2022/07/sugar-effect/) | Wed Jul 20 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+
+
         &lt;p&gt;酸酸的桑葚&lt;br /&gt;
 浸入醇甜的酒酿&lt;!--# 前段时间做了桑葚米酒，超乎我预期 --&gt;&lt;/p&gt;
 
@@ -694,16 +694,16 @@ PopClip 在过去的几年中售价一直在涨，但使用者众，其开发者
 
 &lt;!--# 又是一首厨诗。没有什么食物是一勺糖征服不了的。如果有，那就两勺。 --&gt;
 
-        
-        
-       
-    </details> 
 
-- 🚀 [丹佛夜影](https://yihui.org/cn/2022/07/denver-shadow/) | Tue Jul 19 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-        
-        
+
+
+    </details>
+
+- 🚀 [丹佛夜影](https://yihui.org/cn/2022/07/denver-shadow/) | Tue Jul 19 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+
+
+
 
 &lt;!--# 这是我生平写的第一篇小说。故事背景取材于我们一个多月前去丹佛的旅游，但情节多为虚构，充满了象征和隐喻。至于隐喻指的是什么，我就不注释了，否则就失去了隐喻的意义。我写这篇小说的一大顾虑是它被同行的朋友们读过后可能会影响到他们对这次旅游的美好回忆，因为前五节全都是恐怖、阴暗、绝望的色调；在结局的第六七节中，我试图把这种色调反转过来，争取给一系列悲观的故事覆上一层乐观和希望的色彩，但不知我是否做到了（这两节是一场自我战斗与成长，因而最难写）。我自认为擅长联想，但不擅长编故事，所以第一篇小说选择了写梦境，这样可以给我荒唐的自由度，不必过度考虑逻辑。我听说过史蒂芬 · 金的恐怖小说《闪灵》，但没读过，据说他写的是他酗酒后的阴暗情绪。我也有一些压抑的负面情绪，于是也将它们以隐喻的形式写进了小说的四个对象。最终我希望能战胜、化解它们。从这个角度来说，虚构小说也是一种自救——现实生活中做不到的事情，不妨先以虚拟的方式做做看，也许能扭转自己的想法。我的这些情绪由来已久，就像一大锅豆浆一直在我面前晃荡。直到最近一位朋友讲了一串逃不脱的噩梦，我听后觉得我终于等到了卤水，于是一锅豆浆凝固成了豆腐，便是这篇小说。以下开头的歌词引子，也碰巧是这位朋友哄睡娃时放的一首歌，传入了我的狗耳朵；我自己很久以前也收藏了这首歌，便以它起头了。得来全不费工夫。 --&gt;
 
@@ -1038,15 +1038,15 @@ What are you dreaming of&lt;/p&gt;
 
 &lt;p&gt;不一样的笔迹。&lt;/p&gt;
 
-        
-        
-       
-    </details> 
 
-- 🚀 [不急](https://yihui.org/cn/2022/07/no-hurry/) | Sat Jul 09 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-        
+
+
+    </details>
+
+- 🚀 [不急](https://yihui.org/cn/2022/07/no-hurry/) | Sat Jul 09 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+
+
         &lt;p&gt;好嘛个杨阿姨&lt;br /&gt;
 公然违抗我的三令五申&lt;br /&gt;
 又备了生日礼&lt;!--# 去年我强烈呼吁大家互相之间少买礼物，尤其是免掉孩子和男同志的礼物，女同志之间我不能干涉、就随意了，但人类实在无法阻止杨阿姨买礼物的步伐。后来我又说，非要送的话，不如送我一袋面粉就很好了，专门的礼物大概率是我不需要的。结……果……老钟家竟然真的搬了一袋面粉过来，还专门封在一个纸箱子里，真是仪式感满满，哈哈，我便收到了人生中第一次自己指定的礼物（尽管有点意外和搞笑）。老钟家本来已经为我备了两巨盆米豆腐和魔芋，以及生平头一回写有我名字的自制蛋糕，这些已经是超好的礼物，我真的是不需要那种专门购买和包装的礼物。 --&gt;&lt;br /&gt;
@@ -1064,15 +1064,15 @@ What are you dreaming of&lt;/p&gt;
 
 &lt;!--# 现在时间过得飞快，我经常一下子想不起来自己的年龄，还需要算一下。感觉三十七这个数字都还没熟悉，转眼就又需要熟悉三十八了。 --&gt;
 
-        
-        
-       
-    </details> 
 
-- 💃 [边界 2022](https://yihui.org/cn/2022/07/boundary/) | Fri Jul 08 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-        
+
+
+    </details>
+
+- 💃 [边界 2022](https://yihui.org/cn/2022/07/boundary/) | Fri Jul 08 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+
+
         &lt;p&gt;一条狗&lt;br /&gt;
 地阔凭狗跃、天高任狗追&lt;br /&gt;
 扯着脖子上的铁链做这般白日梦&lt;!--# 铁链划定狗与天地的边界（[栓狗栓久了狗会疯的]&lpar;/cn/2018/10/dog/&rpar;） --&gt;&lt;/p&gt;
@@ -1098,15 +1098,15 @@ What are you dreaming of&lt;/p&gt;
 
 &lt;!--# 标题借了许美静的《边界 1999》，但主题无关。我是个边界感极其模糊的人，这是我的错吗？强行划定的边界会让我感到异常苦闷。 --&gt;
 
-        
-        
-       
-    </details> 
 
-- 🤠 [爱的暗面](https://yihui.org/cn/2022/07/loves-dark-side/) | Thu Jul 07 2022 12:00 AM 
-    <details><summary>展开描述 ...</summary> 
-    
-        
+
+
+    </details>
+
+- 🤠 [爱的暗面](https://yihui.org/cn/2022/07/loves-dark-side/) | Thu Jul 07 2022 12:00 AM
+    <details><summary>展开描述 ...</summary>
+
+
         &lt;p&gt;若问　什么是爱&lt;br /&gt;
 大概&lt;br /&gt;
 每个人都清楚明白&lt;br /&gt;
@@ -1169,11 +1169,24 @@ What are you dreaming of&lt;/p&gt;
 
 &lt;!--# 我算是个有包容心的人吗？过去这些年，我的回答基本上是否定的。回想起来，在 2016 年之前，我通常是个攻击性很强的人，也很有些自私心理，很少去考虑什么包容。2018 年写了[那篇反省文]&lpar;/en/2018/02/career-crisis/&rpar;后，我才逐渐收敛在公共场合的攻击性。读完《原则》，并没有让我获得实质性的包容心，只是学会了合理接收别人的批评与攻击（即：注意听取别人话中的正确成分、屏蔽语气态度之类的表面形式）。这至多算是理性，并非包容。我一直觉得我很难跟与我存在分歧的人心平气和、和平友好地近距离相处，哪怕理性上我知道这是我需要学会的，我依然觉得太难。从这一点看，我的心智成熟真是缓慢得可怕，或者我是那种害怕冲突的人，但原因我不清楚。今天的一件小事，在我的人生里破天荒第一次给了我一丝信心，让我开始敢于直面爱的暗面。这首诗的本意是广义的爱（比如亲子之间，即“幼崽的扑怀”，而亲子两代互相伤害也一样很常见），但我怀疑我这弱鸡的开车技术八成是开到狭义的沟里了。 --&gt;
 
-        
-        
-       
-    </details> 
+
+
+
+    </details>
 <!-- yihui:END -->
+
+---
+
+<!-- botmzt:START -->
+<!-- botmzt:END -->
+
+---
+
+<!-- dianying4K:START -->
+<!-- dianying4K:END -->
+
+
+
 ---
 
 
