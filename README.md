@@ -495,6 +495,13 @@
       <a href="https://github.com/debuginn">Meng小羽</a>
     </td>
     <td align="center">
+      <a href="https://github.com/mophia">
+        <img src="https://avatars2.githubusercontent.com/u/92929085" width="100px;" alt="mophia"/>
+      </a>
+      <br />
+      <a href="https://github.com/mophia">Vogue Mophia</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/Joyrocky">
         <img src="https://avatars2.githubusercontent.com/u/23481533" width="100px;" alt="Joyrocky"/>
       </a>
@@ -507,13 +514,6 @@
       </a>
       <br />
       <a href="https://github.com/daoyuly">daoyuly</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mustang2247">
-        <img src="https://avatars2.githubusercontent.com/u/1620402" width="100px;" alt="mustang2247"/>
-      </a>
-      <br />
-      <a href="https://github.com/mustang2247">Mustang Kong</a>
     </td>
   </tr>
 </table>
