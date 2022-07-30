@@ -432,6 +432,41 @@
 ## nasa
 
 <!-- nasa:START -->
+- 😺 [The Eagle Rises | 2022-07-30](https://apod.nasa.gov/apod/ap220730.html) | Sat Jul 30 2022 12:00 AM 
+    <details><summary>展开描述 ...</summary> 
+    &lt;img src=&quot;https://apod.nasa.gov/apod/image/2207/AS11JK44-6633-34_1100px.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt; 
+
+&lt;b&gt; Explanation: &lt;/b&gt; 
+
+Get out your
+&lt;a href=&quot;http://photojournal.jpl.nasa.gov/Help/VendorList.html#Glasses&quot;&gt;red/blue glasses&lt;/a&gt; and
+check out this stereo view from lunar orbit.
+
+The 3D
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Anaglyph_image&quot;&gt;anaglyph&lt;/a&gt;
+was created from two photographs
+&lpar;&lt;a href=&quot;http://www.lpi.usra.edu/resources/apollo/frame/?AS11-44-6633&quot;&gt;AS11-44-6633&lt;/a&gt;,
+&lt;a href=&quot;http://www.lpi.usra.edu/resources/apollo/frame/?AS11-44-6634&quot;&gt;AS11-44-6634&lt;/a&gt;&rpar;
+taken by astronaut Michael Collins during the 1969
+&lt;a href=&quot;http://www.nasa.gov/mission_pages/apollo/apollo-11.html&quot;&gt;Apollo 11 mission&lt;/a&gt;.
+
+It features the lunar module ascent stage, dubbed The Eagle, rising to
+meet the command module in lunar orbit on July 21.
+
+Aboard the &lt;a href=&quot;https://apod.nasa.gov/apod/ap060107.html&quot;&gt;ascent stage&lt;/a&gt; are
+Neil Armstrong and Buzz Aldrin, the first to
+&lt;a href=&quot;http://www.hq.nasa.gov/alsj/a11/a11.html&quot;&gt;walk on the Moon&lt;/a&gt;.
+
+The smooth, &lt;a href=&quot;https://apod.nasa.gov/apod/ap080208.html&quot;&gt;dark area&lt;/a&gt; on the lunar
+surface is Mare Smythii located
+just below the equator on the extreme eastern edge of the Moon&#39;s
+near side. 
+
+Poised beyond the lunar horizon is
+&lt;a href=&quot;https://apod.nasa.gov/apod/ap181223.html&quot;&gt;our fair planet Earth&lt;/a&gt;.
+
+ 
+    </details> 
 <!-- nasa:END -->
 ## wallpaperhub
 
