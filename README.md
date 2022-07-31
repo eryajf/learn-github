@@ -398,34 +398,9 @@
 ## googledoodles
 
 <!-- googledoodles:START -->
-- 🤔 [致赞法式滚球](https://www.google.com/search?q=%E8%87%B4%E8%B5%9E%E6%B3%95%E5%BC%8F%E6%BB%9A%E7%90%83) | Sat Jul 30 2022 4:00 PM 
+- 🤔 [2022 年瑞士国庆节](https://www.google.com/search?q=2022%20%E5%B9%B4%E7%91%9E%E5%A3%AB%E5%9B%BD%E5%BA%86%E8%8A%82) | Sun Jul 31 2022 4:00 PM 
     <details><summary>展开描述 ...</summary> 
-    &lt;img src=&quot;https://www.google.com/logos/doodles/2022/celebrating-petanque-6753651837109257.2-l.png&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;致赞法式滚球 #GoogleDoodle 
-    </details> 
-
-- 🚦 [2022 年秘鲁独立日](https://www.google.com/search?q=2022%20%E5%B9%B4%E7%A7%98%E9%B2%81%E7%8B%AC%E7%AB%8B%E6%97%A5) | Wed Jul 27 2022 4:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img src=&quot;https://www.google.com/logos/doodles/2022/peru-independence-day-2022-6753651837109625-law.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;2022 年秘鲁独立日 #GoogleDoodle 
-    </details> 
-
-- 🕯 [致赞钢鼓](https://www.google.com/search?q=%E9%92%A2%E9%BC%93%E4%B9%90%E5%99%A8) | Mon Jul 25 2022 4:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img src=&quot;https://www.google.com/logos/doodles/2022/celebrating-steelpan-6753651837108467.4-l.png&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;钢鼓乐器 #GoogleDoodle 
-    </details> 
-
-- 🐲 [纪念斯特凡·巴拿赫](https://www.google.com/search?q=%E7%BA%AA%E5%BF%B5%E6%96%AF%E7%89%B9%E5%87%A1%C2%B7%E5%B7%B4%E6%8B%BF%E8%B5%AB) | Thu Jul 21 2022 4:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img src=&quot;https://www.google.com/logos/doodles/2022/celebrating-stefan-banach-6753651837109380-l.png&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;纪念斯特凡·巴拿赫 #GoogleDoodle 
-    </details> 
-
-- 🤠 [Jovelina Pérola Negra 诞辰 78 周年](https://www.google.com/search?q=Jovelina%20P%C3%A9rola%20Negra%20%E8%AF%9E%E8%BE%B0%2078%20%E5%91%A8%E5%B9%B4) | Wed Jul 20 2022 4:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img src=&quot;https://www.google.com/logos/doodles/2022/jovelina-perola-negras-70th-birthday-6753651837109469-l.png&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;Jovelina Pérola Negra 诞辰 78 周年 #GoogleDoodle 
-    </details> 
-
-- 🥸 [2022 年比利时国庆节](https://www.google.com/search?q=2022%20%E5%B9%B4%E6%AF%94%E5%88%A9%E6%97%B6%E5%9B%BD%E5%BA%86%E8%8A%82) | Wed Jul 20 2022 4:00 PM 
-    <details><summary>展开描述 ...</summary> 
-    &lt;img src=&quot;https://www.google.com/logos/doodles/2022/belgium-national-day-2022-6753651837109624-l.png&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;2022 年比利时国庆节 #GoogleDoodle 
+    &lt;img src=&quot;https://www.google.com/logos/doodles/2022/switzerland-national-day-2022-6753651837109626-law.gif&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;2022 年瑞士国庆节 #GoogleDoodle 
     </details> 
 <!-- googledoodles:END -->
 
