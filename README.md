@@ -585,20 +585,34 @@ Because M94 is relatively nearby,
       <a href="https://github.com/starsliao">StarsL.cn</a>
     </td>
     <td align="center">
+      <a href="https://github.com/sun0225SUN">
+        <img src="https://avatars2.githubusercontent.com/u/79169717" width="100px;" alt="sun0225SUN"/>
+      </a>
+      <br />
+      <a href="https://github.com/sun0225SUN">小孙同学</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/vortesnail">
         <img src="https://avatars2.githubusercontent.com/u/18679842" width="100px;" alt="vortesnail"/>
       </a>
       <br />
       <a href="https://github.com/vortesnail">chen xin</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/georgezouq">
         <img src="https://avatars2.githubusercontent.com/u/5990860" width="100px;" alt="georgezouq"/>
       </a>
       <br />
       <a href="https://github.com/georgezouq">GeorgeZou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anzhihe">
+        <img src="https://avatars2.githubusercontent.com/u/19191096" width="100px;" alt="anzhihe"/>
+      </a>
+      <br />
+      <a href="https://github.com/anzhihe">安志合</a>
     </td>
     <td align="center">
       <a href="https://github.com/834810071">
@@ -628,6 +642,8 @@ Because M94 is relatively nearby,
       <br />
       <a href="https://github.com/Geronimomiao">simaio</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/canyuegongzi">
         <img src="https://avatars2.githubusercontent.com/u/32031360" width="100px;" alt="canyuegongzi"/>
@@ -642,8 +658,6 @@ Because M94 is relatively nearby,
       <br />
       <a href="https://github.com/strongant">strongant</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/rovast">
         <img src="https://avatars2.githubusercontent.com/u/9459488" width="100px;" alt="rovast"/>
@@ -666,13 +680,6 @@ Because M94 is relatively nearby,
       <a href="https://github.com/xlboy">xlboy</a>
     </td>
     <td align="center">
-      <a href="https://github.com/debuginn">
-        <img src="https://avatars2.githubusercontent.com/u/28979768" width="100px;" alt="debuginn"/>
-      </a>
-      <br />
-      <a href="https://github.com/debuginn">Meng小羽</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mophia">
         <img src="https://avatars2.githubusercontent.com/u/92929085" width="100px;" alt="mophia"/>
       </a>
@@ -680,18 +687,11 @@ Because M94 is relatively nearby,
       <a href="https://github.com/mophia">Vogue Mophia</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Joyrocky">
-        <img src="https://avatars2.githubusercontent.com/u/23481533" width="100px;" alt="Joyrocky"/>
+      <a href="https://github.com/debuginn">
+        <img src="https://avatars2.githubusercontent.com/u/28979768" width="100px;" alt="debuginn"/>
       </a>
       <br />
-      <a href="https://github.com/Joyrocky">Rocky Zhou</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/daoyuly">
-        <img src="https://avatars2.githubusercontent.com/u/994481" width="100px;" alt="daoyuly"/>
-      </a>
-      <br />
-      <a href="https://github.com/daoyuly">daoyuly</a>
+      <a href="https://github.com/debuginn">Meng小羽</a>
     </td>
   </tr>
 </table>
