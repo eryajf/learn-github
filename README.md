@@ -432,38 +432,51 @@
 ## nasa
 
 <!-- nasa:START -->
-- 😺 [The Eagle Rises | 2022-07-30](https://apod.nasa.gov/apod/ap220730.html) | Sat Jul 30 2022 12:00 AM 
+- 😺 [Starburst Galaxy M94 from Hubble | 2022-07-31](https://apod.nasa.gov/apod/ap220731.html) | Sun Jul 31 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    &lt;img src=&quot;https://apod.nasa.gov/apod/image/2207/AS11JK44-6633-34_1100px.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt; 
+    &lt;img src=&quot;https://apod.nasa.gov/apod/image/2207/M94_Hubble_960.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt; 
 
-&lt;b&gt; Explanation: &lt;/b&gt; 
+&lt;b&gt; Explanation: &lt;/b&gt;
+Why does this galaxy have a ring of bright blue stars? 
 
-Get out your
-&lt;a href=&quot;http://photojournal.jpl.nasa.gov/Help/VendorList.html#Glasses&quot;&gt;red/blue glasses&lt;/a&gt; and
-check out this stereo view from lunar orbit.
+Beautiful island universe
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Messier_94&quot;&gt;Messier 94 lies&lt;/a&gt; a mere 15 million light-years
+distant in the northern constellation of the Hunting Dogs
+&lpar;&lt;a href=&quot;https://en.wikipedia.org/wiki/Canes_Venatici&quot;&gt;Canes
+Venatici&lt;/a&gt;&rpar;.
 
-The 3D
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Anaglyph_image&quot;&gt;anaglyph&lt;/a&gt;
-was created from two photographs
-&lpar;&lt;a href=&quot;http://www.lpi.usra.edu/resources/apollo/frame/?AS11-44-6633&quot;&gt;AS11-44-6633&lt;/a&gt;,
-&lt;a href=&quot;http://www.lpi.usra.edu/resources/apollo/frame/?AS11-44-6634&quot;&gt;AS11-44-6634&lt;/a&gt;&rpar;
-taken by astronaut Michael Collins during the 1969
-&lt;a href=&quot;http://www.nasa.gov/mission_pages/apollo/apollo-11.html&quot;&gt;Apollo 11 mission&lt;/a&gt;.
+A popular target for 
+&lt;a href=&quot;https://solarsystem.nasa.gov/planets/earth/overview/&quot;&gt;Earth&lt;/a&gt;-based astronomers,
+the face-on spiral galaxy is about 30,000 
+&lt;a href=&quot;https://spaceplace.nasa.gov/light-year/en/&quot;&gt;light-years&lt;/a&gt; across,
+with spiral arms sweeping through the
+&lt;a href=&quot;https://apod.nasa.gov/apod/ap100114.html&quot;&gt;outskirts of its&lt;/a&gt; broad disk.
 
-It features the lunar module ascent stage, dubbed The Eagle, rising to
-meet the command module in lunar orbit on July 21.
+But this &lt;a href=&quot;https://esahubble.org/images/potw1542a/&quot;&gt;Hubble Space Telescope field of view&lt;/a&gt; spans about
+7,000 light-years across 
+&lt;a href=&quot;https://apod.nasa.gov/apod/ap150526.html&quot;&gt;M94&lt;/a&gt;&#39;s central region.
 
-Aboard the &lt;a href=&quot;https://apod.nasa.gov/apod/ap060107.html&quot;&gt;ascent stage&lt;/a&gt; are
-Neil Armstrong and Buzz Aldrin, the first to
-&lt;a href=&quot;http://www.hq.nasa.gov/alsj/a11/a11.html&quot;&gt;walk on the Moon&lt;/a&gt;.
+The &lt;a href=&quot;https://esahubble.org/images/potw1542a/zoomable/&quot;&gt;featured close-up&lt;/a&gt; highlights the galaxy&#39;s compact,
+bright nucleus, prominent inner 
+&lt;a href=&quot;https://apod.nasa.gov/apod/ap180322.html&quot;&gt;dust lanes&lt;/a&gt;, and the 
+&lt;a href=&quot;https://i.redd.it/kn7wz036va161.jpg&quot;&gt;remarkable&lt;/a&gt; 
+bluish ring of young massive stars.
 
-The smooth, &lt;a href=&quot;https://apod.nasa.gov/apod/ap080208.html&quot;&gt;dark area&lt;/a&gt; on the lunar
-surface is Mare Smythii located
-just below the equator on the extreme eastern edge of the Moon&#39;s
-near side. 
+The ring stars are all likely less than 10 million 
+years old, indicating that M94 is a 
+&lt;a href=&quot;https://apod.nasa.gov/apod/ap191009.html&quot;&gt;starburst&lt;/a&gt; 
+galaxy that is experiencing an epoch of rapid star formation
+from inspiraling gas.
 
-Poised beyond the lunar horizon is
-&lt;a href=&quot;https://apod.nasa.gov/apod/ap181223.html&quot;&gt;our fair planet Earth&lt;/a&gt;.
+The circular ripple of blue stars is likely a 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2004ARA%26A..42..603K/abstract&quot;&gt;wave propagating&lt;/a&gt; outward, having been 
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2004ASSL..319..261K/abstract&quot;&gt;triggered by&lt;/a&gt; the gravity and rotation of a 
+&lt;a href=&quot;https://apod.nasa.gov/apod/ap181009.html&quot;&gt;oval matter distributions&lt;/a&gt;.
+
+Because M94 is relatively nearby, 
+&lt;a href=&quot;https://www.iau.org/public/themes/careers/&quot;&gt;astronomers&lt;/a&gt; can better explore
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2001AJ....121.1395W/abstract&quot;&gt;details&lt;/a&gt; of its starburst ring.
+
 
  
     </details> 
