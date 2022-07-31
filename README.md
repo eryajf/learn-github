@@ -267,7 +267,7 @@
 
 - 👨‍🏫 [🖼](https://t.me/botmzt/11044) | Fri Jul 29 2022 2:35 PM 
     <details><summary>展开描述 ...</summary> 
-    &lt;img src=&quot;https://cdn1.telegram-cdn.org/file/limKeOTPZOPwgRCTvgRY5psnO9sJP1fH_oD7RkWGjTwvWk0B7C8-baBaJ27A07vCwbKVj97XnMotHjyuh_p4J2NbANImYdqFbehNR-zOpOufvavvhpLatCCO9KLI00GAnrS5k0T5Czhjw0Dehx2aBOJ2gf4JVWwSFSZKyLf9TvcFumduircwaQAWwEt_Kg9eZSMxBhh_RvslzD1AwJWmKTc3eWiilbhH5-nDnVj5Ezp6cUVeEH-LTjiDFzlepUjPJCntd49MXmI2yI1fPtrZPPemzAW4i1VShzjLOXqUdL2hP7_1u93fozmmZ7rTjcRpMrIWatM3FaPIZYsKRrTaXA.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
+    &lt;img src=&quot;https://cdn1.telegram-cdn.org/file/DcgumBzhmM_kPXQE2xUsi9NxZgnj8IRKyHqnLumCnQOulxd0K8k3W8Mhox2qg9TVIPj2ILwp2UGkzOVJOXkA-DTzaGaC9u-_K2j-TxOUZTT_fyNq3rr1t32zhKikRN1J_rs2Yw-weF1b-5EyPDulkazUhhMHeCOfv0BBoophuJHDFnwsu5wrXjHA3HYkIyagj4SgdkUbFr5elxYhnxarffMLMUnzlJZPacg4rOnEbJjfYBudM865TnaAS5BA2d3SDk25SvwDj5oKmB8EG3imOl4CTuNJwZztkA9RcNAPyyB_zfU2i5dS4TFzGj43CWReFWBglNfDMoBtPxz7Z2BzLA.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt; 
     </details> 
 
 - 🤭 [🖼](https://t.me/botmzt/11040) | Thu Jul 28 2022 10:05 PM 
