@@ -407,50 +407,35 @@
 ## nasa
 
 <!-- nasa:START -->
-- 😺 [Starburst Galaxy M94 from Hubble | 2022-07-31](https://apod.nasa.gov/apod/ap220731.html) | Sun Jul 31 2022 12:00 AM 
+- 😺 [Mountains of Dust in the Carina Nebula | 2022-08-01](https://apod.nasa.gov/apod/ap220801.html) | Mon Aug 01 2022 12:00 AM 
     <details><summary>展开描述 ...</summary> 
-    &lt;img src=&quot;https://apod.nasa.gov/apod/image/2207/M94_Hubble_960.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt; 
+    &lt;img src=&quot;https://apod.nasa.gov/apod/image/2208/MysticCarina_HubbleSerrano_960.jpg&quot; referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt; 
 
 &lt;b&gt; Explanation: &lt;/b&gt;
-Why does this galaxy have a ring of bright blue stars? 
+It&#39;s stars versus dust in the Carina Nebula and the stars are winning.
 
-Beautiful island universe
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Messier_94&quot;&gt;Messier 94 lies&lt;/a&gt; a mere 15 million light-years
-distant in the northern constellation of the Hunting Dogs
-&lpar;&lt;a href=&quot;https://en.wikipedia.org/wiki/Canes_Venatici&quot;&gt;Canes
-Venatici&lt;/a&gt;&rpar;.
+More precisely, the energetic light and winds from massive newly formed stars are evaporating and dispersing the 
+&lt;a href=&quot;https://apod.nasa.gov/apod/ap061022.html&quot;&gt;dusty stellar nurseries&lt;/a&gt; in which they formed.
 
-A popular target for 
-&lt;a href=&quot;https://solarsystem.nasa.gov/planets/earth/overview/&quot;&gt;Earth&lt;/a&gt;-based astronomers,
-the face-on spiral galaxy is about 30,000 
-&lt;a href=&quot;https://spaceplace.nasa.gov/light-year/en/&quot;&gt;light-years&lt;/a&gt; across,
-with spiral arms sweeping through the
-&lt;a href=&quot;https://apod.nasa.gov/apod/ap100114.html&quot;&gt;outskirts of its&lt;/a&gt; broad disk.
+Located in the 
+&lt;a href=&quot;https://apod.nasa.gov/apod/ap090524.html&quot;&gt;Carina Nebula&lt;/a&gt; and known informally as 
+&lt;a href=&quot;https://hubblesite.org/image/2707/news_release/2010-13&quot;&gt;Mystic Mountain&lt;/a&gt;, 
+these pillar&#39;s appearance is dominated by the dark dust 
+even though it is composed mostly of clear 
+&lt;a href=&quot;http://apod.nasa.gov/rjn/apod/lib/lament.html&quot;&gt;hydrogen&lt;/a&gt; gas.
 
-But this &lt;a href=&quot;https://esahubble.org/images/potw1542a/&quot;&gt;Hubble Space Telescope field of view&lt;/a&gt; spans about
-7,000 light-years across 
-&lt;a href=&quot;https://apod.nasa.gov/apod/ap150526.html&quot;&gt;M94&lt;/a&gt;&#39;s central region.
+Dust pillars such as these are actually much thinner than air and only appear as 
+&lt;a href=&quot;https://apod.nasa.gov/apod/ap100426.html&quot;&gt;mountains&lt;/a&gt; due to relatively small amounts of 
+opaque interstellar &lt;a href=&quot;http://espg.sr.unh.edu/ism/what1.html#dust&quot;&gt;dust&lt;/a&gt;.  
 
-The &lt;a href=&quot;https://esahubble.org/images/potw1542a/zoomable/&quot;&gt;featured close-up&lt;/a&gt; highlights the galaxy&#39;s compact,
-bright nucleus, prominent inner 
-&lt;a href=&quot;https://apod.nasa.gov/apod/ap180322.html&quot;&gt;dust lanes&lt;/a&gt;, and the 
-&lt;a href=&quot;https://i.redd.it/kn7wz036va161.jpg&quot;&gt;remarkable&lt;/a&gt; 
-bluish ring of young massive stars.
+About 7,500 light-years distant, the featured image was taken with the 
+&lt;a href=&quot;https://hubblesite.org/mission-and-telescope&quot;&gt;Hubble Space Telescope&lt;/a&gt; and highlights 
+an interior region of Carina which spans about three 
+&lt;a href=&quot;https://spaceplace.nasa.gov/light-year/en/&quot;&gt;light years&lt;/a&gt;.
 
-The ring stars are all likely less than 10 million 
-years old, indicating that M94 is a 
-&lt;a href=&quot;https://apod.nasa.gov/apod/ap191009.html&quot;&gt;starburst&lt;/a&gt; 
-galaxy that is experiencing an epoch of rapid star formation
-from inspiraling gas.
-
-The circular ripple of blue stars is likely a 
-&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2004ARA%26A..42..603K/abstract&quot;&gt;wave propagating&lt;/a&gt; outward, having been 
-&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2004ASSL..319..261K/abstract&quot;&gt;triggered by&lt;/a&gt; the gravity and rotation of a 
-&lt;a href=&quot;https://apod.nasa.gov/apod/ap181009.html&quot;&gt;oval matter distributions&lt;/a&gt;.
-
-Because M94 is relatively nearby, 
-&lt;a href=&quot;https://www.iau.org/public/themes/careers/&quot;&gt;astronomers&lt;/a&gt; can better explore
-&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2001AJ....121.1395W/abstract&quot;&gt;details&lt;/a&gt; of its starburst ring.
+Within a few million years, the stars will likely 
+&lt;a href=&quot;https://www.barnorama.com/wp-content/images/2013/01/Cats-Standing/30-Cats-Standing.jpg&quot;&gt;win out&lt;/a&gt; completely and the entire dust mountain 
+&lt;a href=&quot;https://www.youtube.com/watch?v=C_iAYY3HuSM&quot;&gt;will evaporate&lt;/a&gt;.
 
 
  
