@@ -1,9 +1,5 @@
 name: Compress Images
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
   pull_request:
     # Run Image Actions when JPG, JPEG, PNG or WebP files are added or changed.
     # See https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#onpushpull_requestpaths for reference.
@@ -12,6 +8,15 @@ on:
       - '**.jpeg'
       - '**.png'
       - '**.webp'
+  push:
+    branches:
+      - main
+    paths:
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
+      - '**.webp'
+  workflow_dispatch:
 jobs:
   build:
     # Only run on Pull Requests within the same repository, and not from forks.
