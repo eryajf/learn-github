@@ -4,10 +4,8 @@ on:
     branches:
       - main
     paths:
-      - '**.jpg'
-      - '**.jpeg'
-      - '**.png'
-      - '**.webp'
+      - 'examples/**'
+  workflow_dispatch:
 jobs:
   build:
     name: calibreapp/image-actions
@@ -31,5 +29,5 @@ jobs:
         with:
           title: Compressed Images
           branch-suffix: timestamp
-          commit-message: Compressed Images
+          commit-message: '🛠 压缩图片'
           body: ${{ steps.calibre.outputs.markdown }}
