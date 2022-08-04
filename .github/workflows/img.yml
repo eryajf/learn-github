@@ -4,8 +4,10 @@ on:
     branches:
       - main
     paths:
-      - 'examples/**'
-  workflow_dispatch:
+      - '**.jpg'
+      - '**.jpeg'
+      - '**.png'
+      - '**.webp'
 jobs:
   build:
     name: calibreapp/image-actions
