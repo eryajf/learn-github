@@ -28,7 +28,7 @@ jobs:
             # Use different output file path
             output: ./lychee/out.md
             # Fail action on broken links
-            fail: true
+            # fail: true
 
 
       - name: Create Issue From File
