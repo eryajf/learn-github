@@ -1,9 +1,10 @@
 
 <h1 align="center">learn-github</h1>
 
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 <div align="center">
-
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
 [![GitHub Issues](https://img.shields.io/github/issues/eryajf/learn-github.svg)](https://github.com/eryajf/learn-github/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/learn-github)](https://github.com/eryajf/learn-github/pulls)
