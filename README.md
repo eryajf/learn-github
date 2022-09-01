@@ -1,8 +1,18 @@
 
 <h1 align="center">learn-github</h1>
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [1.第一章](#1%E7%AC%AC%E4%B8%80%E7%AB%A0)
+  - [1.1第一节](#11%E7%AC%AC%E4%B8%80%E8%8A%82)
+  - [1.2.第二节](#12%E7%AC%AC%E4%BA%8C%E8%8A%82)
+- [2.第二章](#2%E7%AC%AC%E4%BA%8C%E7%AB%A0)
+  - [2.1第一节](#21%E7%AC%AC%E4%B8%80%E8%8A%82)
+  - [2.2.第二节](#22%E7%AC%AC%E4%BA%8C%E8%8A%82)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <div align="center">
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
