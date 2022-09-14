@@ -11,6 +11,7 @@
 - [2.第二章](#2%E7%AC%AC%E4%BA%8C%E7%AB%A0)
   - [2.1第一节](#21%E7%AC%AC%E4%B8%80%E8%8A%82)
   - [2.2.第二节](#22%E7%AC%AC%E4%BA%8C%E8%8A%82)
+- [贡献者](#%E8%B4%A1%E7%8C%AE%E8%80%85)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
