@@ -81,7 +81,7 @@
         <a href="https://github.com/lql95">
             <img src="https://avatars.githubusercontent.com/u/106481803?v=4" width="100;" alt="lql95"/>
             <br />
-            <sub><b>lql95</b></sub>
+            <sub><b>Lql95</b></sub>
         </a>
     </td>
     <td align="center">
