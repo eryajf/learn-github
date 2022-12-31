@@ -40,7 +40,7 @@ jobs:
           remote_path: '/data/www/ref.eryajf.net' # 服务器上的路径
           delete_remote_files: true
 
-      - name: 🐛 Debug Build
+      - name: 🐛 Debug Build-1
         uses: stateful/vscode-server-action@v1
         if: failure()
         with:
