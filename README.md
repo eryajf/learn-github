@@ -63,6 +63,17 @@
 ### 2.2.第二节
 
 这是第二章第二节内容。
+## 3.第三章
+
+这是第二章内容
+
+### 3.1第一节
+
+这是第三章第一节内容。
+
+### 3.2.第二节
+
+这是第三章第二节内容。
 
 
 ## 贡献者
@@ -84,12 +95,6 @@
             <sub><b>Lql95</b></sub>
         </a>
     </td>
-    <td align="center">
-        <a href="https://github.com/LinuxSuRen">
-            <img src="https://avatars.githubusercontent.com/u/1450685?v=4" width="100;" alt="LinuxSuRen"/>
-            <br />
-            <sub><b>Rick</b></sub>
-        </a>
-    </td></tr>
+    </tr>
 </table>
 <!-- readme: collaborators,contributors -end -->
