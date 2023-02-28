@@ -16,12 +16,9 @@ jobs:
           env
 
       - name: Get Release version
-        env:
-          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
-        run: |
-          echo "::set-env name=RELEASE_VERSION::$(echo $GITHUB_REF | cut -d'/' -f 3)"
+        run: echo "RELEASE_VERSION=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
 
       - name: Show Release Num
         run: |
           echo "通过GitHub-Action获取版本号： ${{ env.GITHUB_REF_NAME }}"
-          echo "通过自定义脚本获取版本号： ${env:RELEASE_VERSION}"
+          echo "通过自定义脚本获取版本号： ${{ env.RELEASE_VERSION }}"
