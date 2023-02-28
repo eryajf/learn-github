@@ -12,6 +12,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Inject slug/short variables
+        uses: rlespinasse/github-slug-action@v4
+
       - run: |
           env
 
@@ -30,3 +33,4 @@ jobs:
           echo "通过GitHub-Action获取版本号： ${{ env.GITHUB_REF_NAME }}"
           echo "通过自定义脚本获取版本号第一种： ${{ env.RELEASE_VERSION_ONE }}"
           echo "通过自定义脚本获取版本号第二种： ${{ env.RELEASE_VERSION_TWO }}"
+          echo "通过github-slug-action获取版本号： ${{ env.GITHUB_REF_NAME_SLUG }}"
