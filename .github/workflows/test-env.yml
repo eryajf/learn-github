@@ -24,7 +24,7 @@ jobs:
 
       - name: Show Release Version
         run: |
-          echo "通过自定义脚本获取版本号第一种： ${{ steps.vars.outputs.RELEASE_VERSION_ONE }}"
+          echo "通过自定义脚本获取版本号第一种： ${{ env.RELEASE_VERSION_ONE }}"
 
       - name: Get Release version
         run: echo "RELEASE_VERSION_TWO=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
