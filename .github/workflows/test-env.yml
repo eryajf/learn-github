@@ -1,0 +1,16 @@
+name: test action env
+
+on:
+  release:
+    types: [created] # 表示在创建新的 Release 时触发
+
+jobs:
+  test_action_env:
+    name: Test Action Env
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - run: |
+          env
