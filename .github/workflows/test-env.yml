@@ -22,14 +22,11 @@ jobs:
         run: |
           echo "::set-env name=RELEASE_VERSION_ONE::$(echo $GITHUB_REF | cut -d'/' -f 3)"
 
-      - name: Show Release Version
-        run: |
-          echo "通过自定义脚本获取版本号第一种： ${{ env.RELEASE_VERSION_ONE }}"
-
       - name: Get Release version
         run: echo "RELEASE_VERSION_TWO=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
 
       - name: Show Release Num
         run: |
           echo "通过GitHub-Action获取版本号： ${{ env.GITHUB_REF_NAME }}"
+          echo "通过自定义脚本获取版本号第一种： ${{ env.RELEASE_VERSION_ONE }}"
           echo "通过自定义脚本获取版本号第二种： ${{ env.RELEASE_VERSION_TWO }}"
