@@ -1,0 +1,140 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>时间进度条</title>
+<style>
+*{margin: 0;padding: 0;}
+.reviews-container{background-color:#ffff;padding:20px;width: 180px;height: 480px; overflow: hidden;}
+.review{color:#777;padding:10px 10px 20px 10px;font-size:14px}
+.progress{background-color:rgba(100,100,100,0.2);border-radius:5px;position:relative;height:10px;width:180px;margin-top:10px}
+.progress-done{background:linear-gradient(to left,#f2709c,#ff9472);box-shadow:0 3px 3px -5px #f2709c,0 2px 5px #f2709c;border-radius:5px;height:10px;transition:width 2s ease .3s;animation:barberpole 9s linear infinite;background-image:linear-gradient(45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-size:40px 40px}
+@keyframes barberpole{from{background-position:0 0}to{background-position:500px 0}}
+.percent{color:#333;float:right;margin-top:-14px}
+.social-panel-container{position:fixed;right:0;bottom:80px;transform:translateX(100%);transition:transform .4s ease-in-out}
+.social-panel-container.visible{transform:translateX(-10px)}
+.social-panel{background-color:#fff;border-radius:16px;box-shadow:0 16px 31px -17px rgba(0,31,97,0.6);border:5px solid #001f61;display:flex;flex-direction:column;justify-content:center;align-items:center;font-family:'Muli';position:relative;height:169px;width:370px;max-width:calc(100% - 10px)}
+.social-panel button.close-btn{border:0;color:#97a5ce;cursor:pointer;font-size:20px;position:absolute;top:5px;right:5px}
+.social-panel button.close-btn:focus{outline:0}
+.social-panel p{background-color:#001f61;border-radius:0 0 10px 10px;color:#fff;font-size:14px;line-height:18px;padding:2px 17px 6px;position:absolute;top:0;left:50%;margin:0;transform:translateX(-50%);text-align:center;width:235px}.social-panel p a{color:#ff7500;text-decoration:none}
+.social-panel h4{margin:20px 0;color:#97a5ce;font-family:'Muli';font-size:14px;line-height:18px;text-transform:uppercase}.social-panel ul{display:flex;list-style-type:none;padding:0;margin:0}.social-panel ul li{margin:0 10px}
+.social-panel ul li a{border:1px solid #dce1f2;border-radius:50%;color:#001f61;font-size:20px;display:flex;justify-content:center;align-items:center;height:50px;width:50px;text-decoration:none}.social-panel ul li a:hover{border-color:#ff6a00;box-shadow:0 9px 12px -9px #ff6a00}.floating-btn{border-radius:26.5px;background-color:#001f61;border:1px solid #001f61;box-shadow:0 16px 22px -17px #03153b;color:#fff;cursor:pointer;font-size:16px;line-height:20px;padding:12px 20px;position:fixed;bottom:20px;right:20px;z-index:999}
+.floating-btn:hover{background-color:#fff;color:#001f61}
+.floating-btn:focus{outline:0}
+.floating-text{background-color:#001f61;border-radius:10px 10px 0 0;color:#fff;font-family:'Muli';padding:7px 15px;position:fixed;bottom:0;left:50%;transform:translateX(-50%);text-align:center;z-index:998}
+.floating-text a{color:#ff7500;text-decoration:none}
+</style>
+
+</head>
+<body>
+
+<div class="reviews-container">
+<!-- <h2>时间进度条</h2> -->
+<div class="review time">
+<h3 style="color:#42b883 ; text-align: center;" class="mtoday">今天的日期</h3>
+</div>
+<div class="review time">
+<span class="icon-container"></span>
+<div class="progress">
+<div class="progress-done" data-done=""></div>
+</div>
+<br/>
+<span class="percent"></span>
+</div>
+<div class="review week">
+<span class="icon-container"></span>
+<div class="progress">
+<div class="progress-done" data-done=""></div>
+</div>
+<br/>
+<span class="percent"></span>
+</div>
+<div class="review month">
+<span class="icon-container"></span>
+<div class="progress">
+<div class="progress-done" data-done=""></div>
+</div>
+<br/>
+<span class="percent"></span>
+</div>
+<div class="review year">
+<span class="icon-container"></span>
+<div class="progress">
+<div class="progress-done" data-done=""></div>
+</div>
+<br/>
+<span class="percent"></span>
+</div>
+<div class="review festival">
+<span class="icon-container"></span>
+<div class="progress">
+<div class="progress-done" data-done=""></div>
+</div>
+<br/>
+<span class="percent"></span>
+</div>
+</div>
+
+<script>
+const hh = new Date().getHours(),mm = new Date().getMinutes(),hhmmt = hh + '.' + mm;
+document.querySelector('.time .icon-container').innerText = '今天已过去 ' + hh + ' 小时';
+document.querySelector('.time .progress-done').setAttribute("data-done", parseInt(hhmmt/24*100));
+document.querySelector('.time .percent').innerText = parseInt(hhmmt/24*100) + '%';
+
+dd = new Date().getDay();
+if(dd==0){dd=7};
+document.querySelector('.week .icon-container').innerText = '本周已过去 ' + dd + ' 天';
+document.querySelector('.week .progress-done').setAttribute("data-done", parseInt(dd/7*100));
+document.querySelector('.week .percent').innerText = parseInt(dd/7*100) + '%';
+
+const md = new Date().getDate(),months = new Date(new Date().getFullYear(), new Date().getMonth()+1, 0).getDate();
+document.querySelector('.month .icon-container').innerText = '本月已过去 ' + md + ' 天';
+document.querySelector('.month .progress-done').setAttribute("data-done", parseInt(md/months*100));
+document.querySelector('.month .percent').innerText = parseInt(md/months*100) + '%';
+
+const yy = new Date().getMonth();
+document.querySelector('.year .icon-container').innerText = '今年已过去' + yy + ' 个月' + md + '天';
+document.querySelector('.year .progress-done').setAttribute("data-done", parseInt((yy*30+md)/365*100));
+document.querySelector('.year .percent').innerText = parseInt((yy*30+md)/365*100) + '%';
+
+const yys = new Date().getFullYear();
+document.querySelector('.mtoday').innerText =   yys + ' 年  ' + (yy+1) + ' 月  ' + md + ' 日 ';
+
+const d1="2023/04/29 00:00:00";
+const dateBegin = new Date(d1);
+const dateEnd = new Date();
+const dateDiff = dateEnd.getTime() - dateBegin.getTime();//时间差的毫秒数
+const dayDiff = Math.ceil(dateDiff / (24 * 3600 * 1000));//计算出相差天数
+const leave1=dateDiff%(24*3600*1000) //计算天数后剩余的毫秒数
+const hours=Math.floor(leave1/(3600*1000))//计算出小时数
+const dayDifft = 365+dayDiff;
+document.querySelector('.festival .icon-container').innerText = '距五一假还有' + Math.abs(dayDiff) + '天' +Math.abs(hours)+'小时';
+document.querySelector('.festival .progress-done').setAttribute("data-done", parseInt(dayDifft/365*100));
+document.querySelector('.festival .percent').innerText = parseInt(dayDifft/365*100) + '%';
+const progressDone = document.querySelectorAll('.progress-done');
+progressDone.forEach(progress => {
+progress.style.width = progress.getAttribute('data-done') + '%';
+if(progress.getAttribute('data-done')<=100 && progress.getAttribute('data-done')>80){
+progress.style.backgroundColor = "#d9534f";
+progress.style.boxShadow = "-2px 2px 5px 0px #d9534f";
+}
+if(progress.getAttribute('data-done')<=80 && progress.getAttribute('data-done')>60){
+progress.style.backgroundColor = "#f0ad4e";
+progress.style.boxShadow = "-2px 2px 5px 0px #f0ad4e";
+}
+if(progress.getAttribute('data-done')<=60 && progress.getAttribute('data-done')>40){
+progress.style.backgroundColor = "#5bc0de";
+progress.style.boxShadow = "-2px 2px 5px 0px #5bc0de";
+}
+if(progress.getAttribute('data-done')<=40 && progress.getAttribute('data-done')>20){
+progress.style.backgroundColor = "#5cb85c";
+progress.style.boxShadow = "-2px 2px 5px 0px #5cb85c";
+}
+if(progress.getAttribute('data-done')<=20 && progress.getAttribute('data-done')>=0){
+progress.style.backgroundColor = "#5cb85c";
+progress.style.boxShadow = "-2px 2px 5px 0px #5cb85c";
+}
+
+});
+</script>
+</body>
+</html>

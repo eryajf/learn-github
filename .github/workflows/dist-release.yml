@@ -1,0 +1,45 @@
+name: Build Deploy
+
+# 在main分支发生push事件时触发。
+on:
+  push:
+    branches:
+      - main
+  release:
+    types: [created,published] # 表示在创建新的 Release 时触发
+
+env: # 设置环境变量
+  TZ: Asia/Shanghai # 时区（设置时区可使页面中的`最近更新时间`使用时区时间）
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+
+      - name: build project ⚗️
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - run: |
+          yarn
+          yarn build
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            Release.txt
+            LICENSE
+
+      - name: Upload release package
+        uses: softprops/action-gh-release@v1
+        with:
+          body: ${{ steps.release.outputs.name }}
+          generate_release_notes: true
+          files: |
+            docs/.vuepress/dist/*
+            README.MD
+            LICENSE
