@@ -29,7 +29,7 @@ jobs:
           yarn build
       - run: |
           mkdir rstmp
-          mv README.MD LICENSE rstmp
+          mv README.md LICENSE rstmp
           mv docs/.vuepress/dist rstmp
           tar zcvf learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz rstmp
 
