@@ -26,14 +26,6 @@ jobs:
           yarn
           yarn build
 
-      - name: Release
-        uses: softprops/action-gh-release@v1
-        if: startsWith(github.ref, 'refs/tags/')
-        with:
-          files: |
-            Release.txt
-            LICENSE
-
       - name: Upload release package
         uses: softprops/action-gh-release@v1
         with:
