@@ -1,4 +1,4 @@
-name: Build Deploy
+name: Build Release
 
 # 在main分支发生push事件时触发。
 on:
@@ -27,14 +27,16 @@ jobs:
       - run: |
           yarn
           yarn build
+      - run: |
+          mkdir rstmp
+          mv README.MD LICENSE rstmp
+          mv docs/.vuepress/dist rstmp
+          tar zcvf learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz rstmp
 
       - name: Upload release package
         uses: softprops/action-gh-release@v1
         with:
-          name: "learn-github-${{ env.GITHUB_REF_NAME }}"
+          # name: "learn-github-${{ env.GITHUB_REF_NAME }}"
           # body: ${{ steps.release.outputs.name }}
           generate_release_notes: false
-          files: |
-            docs/.vuepress/dist/*
-            README.MD
-            LICENSE
+          files: learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz
