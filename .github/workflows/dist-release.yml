@@ -24,13 +24,11 @@ jobs:
           yarn
           yarn build
       - run: |
-          sudo apt-get update
-          sudo apt-get install -y md5sum
           mkdir learn-github
           mv README.md LICENSE learn-github
           mv docs/.vuepress/dist learn-github
           tar zcvf learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz learn-github
-          md5 learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz > learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz.md5
+          openssl md5 learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz > learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz.md5
 
       - name: Upload release package
         uses: softprops/action-gh-release@v1
