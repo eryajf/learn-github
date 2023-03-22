@@ -1,10 +1,6 @@
 name: Build Release
 
-# 在main分支发生push事件时触发。
 on:
-  push:
-    branches:
-      - main
   release:
     types: [created,published] # 表示在创建新的 Release 时触发
 
@@ -28,10 +24,13 @@ jobs:
           yarn
           yarn build
       - run: |
-          mkdir rstmp
-          mv README.md LICENSE rstmp
-          mv docs/.vuepress/dist rstmp
-          tar zcvf learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz rstmp
+          sudo apt update
+          sudo apt install md5sum
+          mkdir learn-github
+          mv README.md LICENSE learn-github
+          mv docs/.vuepress/dist learn-github
+          tar zcvf learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz learn-github
+          md5 learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz > learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz.md5
 
       - name: Upload release package
         uses: softprops/action-gh-release@v1
@@ -39,4 +38,6 @@ jobs:
           # name: "learn-github-${{ env.GITHUB_REF_NAME }}"
           # body: ${{ steps.release.outputs.name }}
           generate_release_notes: false
-          files: learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz
+          files: |
+            learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz
+            learn-github-${{ env.GITHUB_REF_NAME }}.tar.gz.md5
