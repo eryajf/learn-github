@@ -24,8 +24,8 @@ jobs:
           yarn
           yarn build
       - run: |
-          sudo apt update
-          sudo apt install md5sum
+          sudo apt-get update
+          sudo apt-get install coreutils
           mkdir learn-github
           mv README.md LICENSE learn-github
           mv docs/.vuepress/dist learn-github
