@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v3
+      - name: Inject slug/short variables
+        uses: rlespinasse/github-slug-action@v4
 
       - name: build project ⚗️
         uses: actions/setup-node@v3
@@ -29,8 +31,9 @@ jobs:
       - name: Upload release package
         uses: softprops/action-gh-release@v1
         with:
-          body: ${{ steps.release.outputs.name }}
-          generate_release_notes: true
+          name: "learn-github-${{ env.GITHUB_REF_NAME }}"
+          # body: ${{ steps.release.outputs.name }}
+          generate_release_notes: false
           files: |
             docs/.vuepress/dist/*
             README.MD
