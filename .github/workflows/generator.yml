@@ -18,5 +18,6 @@ jobs:
         with:
           pattern: 'items/*.yaml'
           username: eryajf
-          repo: test-yaml
+          org: eryajf
+          repo: learn-github
           sortby: '!zh'
