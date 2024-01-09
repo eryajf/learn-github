@@ -1,4 +1,0 @@
-k8s_repo: '[eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)'
-k8s_desc: '🌉 基于Go+Vue实现的openLDAP后台管理项目'
-k8s_license: 'GPL-3.0'
-k8s_star: '1158'

@@ -15,17 +15,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          pattern: 'items/k8s/*.yaml'
-          username: eryajf
-          org: eryajf
-          repo: learn-github
-          sortby: '!zh'
-      - name: Update readme
-        uses: linuxsuren/yaml-readme@v0.0.16
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          pattern: 'items/web/*.yaml'
+          pattern: 'items/*.yaml'
           username: eryajf
           org: eryajf
           repo: learn-github
