@@ -20,3 +20,4 @@ jobs:
           org: eryajf
           repo: learn-github
           sortby: '!zh'
+          groupby: kind
