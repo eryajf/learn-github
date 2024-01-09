@@ -1,0 +1,22 @@
+name: generator
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4.1.0
+      - name: Update readme
+        uses: linuxsuren/yaml-readme@v0.0.16
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          pattern: 'items/*.yaml'
+          username: eryajf
+          repo: test-yaml
+          sortby: '!zh'
