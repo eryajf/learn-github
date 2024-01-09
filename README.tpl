@@ -6,7 +6,7 @@ k8s范畴的开源项目，列表如下，共计（ {{len .}} 个。）
 | Repository | Description | License | Stars |
 |---|---|---|---|
 {{- range $val := .}}
-|{{$val.k8s-repo}}|{{$val.k8s-desc}}|{{$val.k8s-license}}| {{$val.k8s-star}} |
+|{{$val.k8s_repo}}|{{$val.k8s_desc}}|{{$val.k8s_license}}| {{$val.k8s_star}} |
 {{- end}}
 
 # web
@@ -16,5 +16,5 @@ web范畴的开源项目，列表如下，共计（ {{len .}} 个。）
 | Repository | Description | License | Stars |
 |---|---|---|---|
 {{- range $val := .}}
-|{{$val.web-repo}}|{{$val.web-desc}}|{{$val.web-license}}| {{$val.web-star}} |
+|{{$val.web_repo}}|{{$val.web_desc}}|{{$val.web_license}}| {{$val.web_star}} |
 {{- end}}
