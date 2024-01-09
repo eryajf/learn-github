@@ -3,20 +3,18 @@
 
 # k8s
 
-k8s范畴的开源项目，列表如下，共计（ 3 个。）
+k8s范畴的开源项目，列表如下，共计（ 2 个。）
 
 | Repository | Description | License | Stars |
 |---|---|---|---|
 |[eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)|🌉 基于Go&#43;Vue实现的openLDAP后台管理项目|GPL-3.0| 1158 |
 |[eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)|🌉 bbbbb|GPL-3.0| 1158 |
-||||  |
 
 # web
 
-web范畴的开源项目，列表如下，共计（ 3 个。）
+web范畴的开源项目，列表如下，共计（ 2 个。）
 
 | Repository | Description | License | Stars |
 |---|---|---|---|
 ||||  |
 ||||  |
-|[eryajf/xirang](https://github.com/eryajf/xirang)|🌉 bbbbb|GPL-3.0| 1158 |
