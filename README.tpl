@@ -4,9 +4,9 @@
 
 ## {{$key}}
 
-| Repository | Description | License | Stars | Fork | LastUpdate| Create |
+| Repository | Description | License | Stars  | LastUpdate| Create |
 |---|---|---|---|---|---|---|
 {{- range $item := $val}}
-| [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}})|{{$item.desc}}|{{ghLicense $item.owner $item.repo}}| {{ghStar $item.owner $item.repo}} |{{ghFork $item.owner $item.repo}} |{{ghUpdate $item.owner $item.repo}} |{{ghCreate $item.owner $item.repo}} |
+| [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}})|{{$item.desc}}|{{ghLicense $item.owner $item.repo}}| {{ghStar $item.owner $item.repo}} |{{ghUpdate $item.owner $item.repo}} |{{ghCreate $item.owner $item.repo}} |
 {{- end}}
 {{end}}
