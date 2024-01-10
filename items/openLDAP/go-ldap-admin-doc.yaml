@@ -1,0 +1,4 @@
+kind: openLDAP
+owner: eryajf
+repo: 'go-ldap-admin-doc'
+desc: '🌉 基于Go+Vue实现的openLDAP后台管理项目的官方文档'

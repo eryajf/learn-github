@@ -1,4 +1,4 @@
-kind: k8s
+kind: openLDAP
 owner: eryajf
 repo: 'go-ldap-admin'
 desc: '🌉 基于Go+Vue实现的openLDAP后台管理项目'
