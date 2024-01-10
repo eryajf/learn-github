@@ -15,9 +15,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          pattern: 'items/*.yaml'
+          pattern: 'items/*/*.yaml'
           username: eryajf
           org: eryajf
           repo: learn-github
           sortby: '!zh'
           groupby: kind
+          header: false
