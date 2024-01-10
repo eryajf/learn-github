@@ -4,14 +4,21 @@
 
 ## k8s
 
-| Repository | Description | License | Stars |
-|---|---|---|---|
-|[eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)|🌉 基于Go&#43;Vue实现的openLDAP后台管理项目|GPL-3.0| 1158 |
-|[eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)|🌉 bbbbb|GPL-3.0| 1158 |
+| Repository | Description | License | Stars | Fork | LastUpdate| Create |
+|---|---|---|---|---|---|---|
+| [eryajf/go-ldap-admin](https://github.com/eryajf/go-ldap-admin)|🌉 基于Go&#43;Vue实现的openLDAP后台管理项目|GPL-3.0| 1160 |204 |2023-11-15T15:32:57Z |2022-05-18T09:49:55Z |
+| [eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)|🌉 bbbbb|MIT| 10 |1 |2023-10-15T13:28:29Z |2022-08-26T02:20:22Z |
+
+
+## laji
+
+| Repository | Description | License | Stars | Fork | LastUpdate| Create |
+|---|---|---|---|---|---|---|
+| [dnsjia/luban](https://github.com/dnsjia/luban)|🌉 bishini|N/A| 1107 |296 |2024-01-08T15:21:07Z |2021-07-16T02:29:33Z |
 
 
 ## web
 
-| Repository | Description | License | Stars |
-|---|---|---|---|
-|[eryajf/xirang](https://github.com/eryajf/xirang)|🌉 bbbbb|GPL-3.0| 1158 |
+| Repository | Description | License | Stars | Fork | LastUpdate| Create |
+|---|---|---|---|---|---|---|
+| [eryajf/xirang](https://github.com/eryajf/xirang)|🌉 bbbbb|MIT| 21 |4 |2023-12-23T09:03:39Z |2021-12-16T14:01:01Z |
