@@ -21,4 +21,5 @@
 
 | Repository | Description | License | Stars | Fork | LastUpdate| Create |
 |---|---|---|---|---|---|---|
+| [eryajf/thanks-mirror](https://github.com/eryajf/thanks-mirror)|🌉 镜像仓库|MIT| 2357 |172 |2023-12-28T02:39:39Z |2022-05-07T15:08:23Z |
 | [eryajf/xirang](https://github.com/eryajf/xirang)|🌉 bbbbb|MIT| 21 |4 |2023-12-23T09:03:39Z |2021-12-16T14:01:01Z |
