@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4.1.0
       - name: Update readme
-        uses: linuxsuren/yaml-readme@v0.0.16
+        uses: eryajf/yaml-readme
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
