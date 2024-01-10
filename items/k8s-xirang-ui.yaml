@@ -1,5 +1,4 @@
 kind: k8s
-repo: '[eryajf/xirang-ui](https://github.com/eryajf/xirang-ui)'
+owner: eryajf
+repo: 'xirang-ui'
 desc: '🌉 bbbbb'
-license: 'GPL-3.0'
-star: '1158'
