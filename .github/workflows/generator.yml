@@ -21,4 +21,4 @@ jobs:
           repo: learn-github
           sortby: '!zh'
           groupby: kind
-          header: false
+          header: "false"
