@@ -10,3 +10,13 @@
 | [{{$item.owner}}/{{$item.repo}}](https://github.com/{{$item.owner}}/{{$item.repo}}) | {{ghLicense $item.owner $item.repo}} | {{ghStar $item.owner $item.repo}} | {{ghCreate $item.owner $item.repo}} | {{ghUpdate $item.owner $item.repo}} | {{$item.desc}} |
 {{- end}}
 {{end}}
+
+## 贡献者
+
+---
+
+{{printContributors "eryajf" "learn-github"}}
+
+---
+
+{{printContributors "eryajf" "awesome-ops"}}
