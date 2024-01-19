@@ -1,24 +1,23 @@
-name: generator
-
+name: json-yaml-validate
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+  pull_request:
   workflow_dispatch:
 
+permissions:
+  contents: read
+  pull-requests: write # enable write permissions for pull request comments
+
 jobs:
-  build:
+  json-yaml-validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.1.0
-      - name: Update readme
-        uses: eryajf/yaml-readme@master
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+
+      - name: json-yaml-validate
+        id: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v2.6.0 # replace with the latest version
         with:
-          pattern: 'items/*/*.yaml'
-          username: eryajf
-          org: eryajf
-          repo: learn-github
-          sortby: '!zh'
-          groupby: kind
-          header: false
+          comment: "true" # enable comment mode
