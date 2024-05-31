@@ -2,7 +2,7 @@
 
 **赞助商**
 
-[![](https://raw.githubusercontent.com/eryajf/tu/main/img/image_20240531_210957.webp)](https://302.ai/)
+[![](https://raw.githubusercontent.com/eryajf/tu/main/img/image_20240531_205925.webp)](https://302.ai/)
 
 > [302.AI](https://302.ai) 是一个汇集全球顶级AI的自助平台，按需付费，零月费，零门槛使用各种类型AI。
 > - 功能全面: 将最好用的AI集成到在平台之上，包括不限于AI聊天，图片生成，图片处理，视频生成，全方位覆盖。
