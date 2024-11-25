@@ -1,0 +1,14 @@
+name: debug
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  example-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print all environment variables
+        run: env
